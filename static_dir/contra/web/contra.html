@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Contra</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="contra.css">
+  </head>
+  <body>
+    <span>
+      Arrows: control Space: jump A: Fire F: Bomb      
+    </span>
+    <div style="position: relative; ">
+      <canvas id="oneStage" width="1280" height="480" style="position: absolute; left: 0; top: 0; z-index: 0;"></canvas>
+		<audio src="sounds/background_music.m4a" autoplay="autoplay" loop="loop" />
+    </div>
+
+    <script type="application/dart" src="contra.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>
