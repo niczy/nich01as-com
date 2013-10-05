@@ -62,7 +62,7 @@ class Bullet extends Object implements Animatable {
       bitmap = new Bitmap(Grafix.resourceManager.getBitmapData("bullet2"));
     }
     else {
-      bitmap = new Bitmap(Grafix.resourceManager.getBitmapData(direction == 1 ? "bullet1Right" : "bullet1Left"));
+      bitmap = new Bitmap(Grafix.resourceManager.getBitmapData(direction == 1 ? "bullet1right" : "bullet1left"));
     }
     bitmap
       ..x = x - Game.displayWindow.x
