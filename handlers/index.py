@@ -1,7 +1,6 @@
+from handlers import BasePageHandler
 
-class MainPage(BasePageHandler):
+class IndexHandler(BasePageHandler):
 
   def get(self):
-    self.render('index.html', {'greating': 'Hello world'}
-
-
+    self.render('index.html', {'greating': 'Hello world'})

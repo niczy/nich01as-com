@@ -3,19 +3,44 @@
 <head>
   <meta charset="UTF-8">
   <title></title>
-  <link rel="stylesheet" href="s/v/bootstrap/css/bootstrap.min.css" /> 
+  <link rel="stylesheet" href="s/v/bootstrap-3.0.0/css/bootstrap.min.css" /> 
+  <link rel="stylesheet" href="s/styles/index.css" />
 </head>
 <body>
   <div class="container">
-    <h1>
-      Hey
-    </h1>
-    <div>
-      <p>
-        {{ greating }}
-      </p>
+    <img src="s/images/profile_large.jpg" alt="profile"> 
+      <div class="row">
+        <div class="card-wrapper col-xs-12 col-sm-6">
+          <div id="about" class="card">
+            <h1>
+              <a href="https://www.facebook.com/nicholas.zhaoyu" id="name" target="_blank">Nicholas Zhao</a>
+            </h1>
+            <div class="contact">
+              <span class="title">Me on the web</span>
+              <ul>
+                <li><a class="contact-item" href="https://twitter.com/Nich01as_cn" target="_blank">@Nich01as_cn</a></li>
+                <li><a class="contact-item" href="https://plus.google.com/u/1/112380956998122502531/posts" target="_blank">+Nicholas</a></li>
+                <li><a class="contact-item" href="http://www.weibo.com/nicholaszhaoyu/" target="_blank">@Nich01as on weibo</a></li>
+                <li><a class="contact-item" href="http://www.renren.com/226106048/profile" target="_blank">Fei Xu on Renren</a></li>
+                <li><a class="contact-item" href="http://www.linkedin.com/profile/view?id=83309410&trk=wvmp-profile" target="_blank">Yu Zhao on Linkedin</a></li>
+                <li>Chinese blog <a class="contact-item" href="http://nicholas.zhaoyu.blog.163.com/" target="_blank">nicholas.zhaoyu.blog.163.com</a></li>
+                <li>English blog <a class="contact-item" href="http://blog.nich01as.com/" target="_blank">blog.nich01as.com/</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card-wrapper col-xs-12 col-sm-6">
+          <div id="story" class="card">
+              <span class="title">What have I done</span>
+              <ul>
+                <li><a href="s/contra/web/contra.html" target='_blank'>A web game build with Dart</a></li>
+              </ul>
+          </div>
+        </div>
+
+      </div>
+        
     </div>
-    
   </div>  
 </body>
 </html>

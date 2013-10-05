@@ -1,0 +1,28 @@
+.container {
+  margin-top: 30px;
+}
+
+.container img {
+  width: 100%;
+}
+
+#name {
+  color: black;
+}
+
+.card {
+  border: solid;
+  border-color: #F5F5F8;
+  border-width: 2px;
+  padding: 0 10px 5px;
+}
+
+.card-wrapper {
+  padding: 10px;
+}
+
+.card .title {
+  font-weight: bold;
+  color: #5E5E5A;
+  margin: 100px 3px 2px;
+}
