@@ -12,17 +12,27 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="col-xs-6">
-          <div class="questions">
-            <ol>
+        <div class="question-control pull-right">
+          <button id="back-to-list" class="btn btn-default">Return to list</button>
+          <button id="show-answers" class="btn btn-default">Show Answers</button>
+          <button id="previous-question" class="btn btn-default">Previous</button>
+          <button id="next-question" class="btn btn-default">Next</button> 
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-5">
+          <div class="questions overflow">
+            <ul>
               {% for question in questions %}
-                {{ question }}
+              <li class="question question-{{ loop.index }} hidden">
+                  {{ question }}
+                </li> 
               {% endfor %}
-            </ol>
+            </ul>
           </div>
         </div>
-        <div class="col-xs-6">
-          <div class="article">
+        <div class="col-xs-7">
+          <div class="article overflow">
             <h2>
               {{ title }}
             </h2>
@@ -35,5 +45,7 @@
         </div>
       </div> 
     </div>
+    <script src="/s/scripts/libs/jquery-2.0.3.min.js"></script>
+    <script src="/s/scripts/apps/toefl/reading.js"></script>
   </body>
 </html>

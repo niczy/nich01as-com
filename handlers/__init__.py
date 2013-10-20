@@ -11,7 +11,7 @@ JINJA_ENVIRONMENT = jinja2.Environment(
 
 class BasePageHandler(webapp2.RequestHandler):
 
-  def render(self, template_name, template_values):
+  def render(self, template_name, template_values = {}):
     template = JINJA_ENVIRONMENT.get_template(template_name)
     self.response.write(template.render(template_values))
 

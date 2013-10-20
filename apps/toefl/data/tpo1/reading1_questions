@@ -1,3 +1,182 @@
-<li class="description">Which of the following can be inferred from paragraph 1 about the ground that we walk on?<ul><li class="choice"><input type="radio">It cannot hold rainwater for long periods of time.</input></li><li class="choice"><input type="radio">It prevents most groundwater from circulating.</input></li><li class="choice"><input type="radio">It has the capacity to store large amounts of water.</input></li><li class="choice"><input type="radio">It absorbs most of the water it contains from rivers.</input></li></ul></li>
-<li class="description">Which of the following can be inferred from paragraph 1 about the ground that we walk on?<ul><li class="choice"><input type="radio">It cannot hold rainwater for long periods of time.</input></li><li class="choice"><input type="radio">It prevents most groundwater from circulating.</input></li><li class="choice"><input type="radio">It has the capacity to store large amounts of water.</input></li><li class="choice"><input type="radio">It absorbs most of the water it contains from rivers.</input></li></ul></li>
-<li class="description">Which of the following can be inferred from paragraph 1 about the ground that we walk on?<ul><li class="choice"><input type="radio">It cannot hold rainwater for long periods of time.</input></li><li class="choice"><input type="radio">It prevents most groundwater from circulating.</input></li><li class="choice"><input type="radio">It has the capacity to store large amounts of water.</input></li><li class="choice"><input type="radio">It absorbs most of the water it contains from rivers.</input></li></ul></li>
+<span class="description">Which of the following can be inferred from paragraph 1 about the ground that we walk on?</span>
+<ul>
+  <li class="choice">
+    <input type="radio">
+      It cannot hold rainwater for long periods of time.
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      It prevents most groundwater from circulating.
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio" class="right-answer">
+      It has the capacity to store large amounts of water.
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      It absorbs most of the water it contains from rivers.
+    </input>
+  </li>
+</ul>
+
+<span class="description">The word “incredible” in the passage is closest in meaning to</span>
+<ul>
+  <li class="choice">
+    <input type="radio">
+      Confusing
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">Comforting</input>
+  </li>
+  <li class="choice">
+    <input type="radio" class="right-answer">
+      Unbelievable
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Interesting
+    </input>
+  </li>
+</ul>
+
+<span class="description">The word “out of sight” in the passage is closest in meaning to</span>
+<ul>
+  <li class="choice">
+    <input type="radio">Far away </input>
+  </li>
+  <li class="choice">
+    <input type="radio" class="right-answer">Hidden</input>
+  </li>
+  <li class="choice">
+    <input type="radio"></input>Partly visible
+  </li>
+  <li class="choice">
+    <input type="radio">Discovered</input>
+  </li>
+</ul>
+
+<span class="description">According to paragraph 2, where is groundwater usually found?</span>
+<ul>
+  <li class="choice">
+    <input type="radio">
+      Inside pieces of sand and gravel
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      On top of beds of rock
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      In fast rivers that are flowing beneath the soil
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio" class="right-answer">
+      In spaces between pieces of sediment
+    </input>
+  </li>
+</ul>
+
+<span class="description">The phrase “glacial outwash” in the passage refers to</span>
+<ul>
+  <li class="choice">
+    <input type="radio">
+      Inside pieces of sand and gravel
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Fast rivers
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Glaciers
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio" class="right-answer">
+      The huge volumes of water created by glacial melting
+    </input>
+  </li>
+</ul>
+
+<span class="description">All of the following are mentioned in paragraph 3 as places that sediment-laden rivers can deposit their sediments EXCEPT</span>
+<ul>
+  <li class="choice">
+    <input type="radio" class="right-answer">
+      A mountain valley 
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Flat land
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      A lake floor
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      The seafloor
+    </input>
+  </li>
+</ul>
+
+<span class="description">The word “overlie” in the passage is closest in meaning to</span>
+<ul>
+  <li class="choice">
+    <input type="radio" class="right-answer">
+      Cover
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Change
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Separate
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Surround
+    </input>
+  </li>
+</ul>
+
+<span class="description">The phrase “so much for” in the passage is closest in meaning to</span>
+<ul>
+  <li class="choice">
+    <input type="radio" class="right-answer">
+      That is enough about
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Now let us turn to
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      Of greater concern are
+    </input>
+  </li>
+  <li class="choice">
+    <input type="radio">
+      This is related to
+    </input>
+  </li>
+</ul>
+
