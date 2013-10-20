@@ -1,25 +1,41 @@
 (function() {
-  var currentQuestionIndex = -1;
+  var currentQuestionIndex = 0;
   var questionsElements = $('.question');
-  var UpdateQuestionVisibility = function() {
-    questionsElements.removeClass(function(index, oldClass) {
-      return index == currentQuestionIndex ? 'hidden' : '';
-    }).addClass(function(index, oldClass) {
-      return index == currentQuestionIndex ? '' : 'hidden';
-    });
+  var UpdateQuestionVisibility = function(oldQuestionIndex, newQuestionIndex) {
+    if (oldQuestionIndex == newQuestionIndex) {
+      return;
+    }
+    console.log("New index is " + newQuestionIndex);
+    $('.question-' + oldQuestionIndex).addClass('hidden');
+    $('.question-' + newQuestionIndex).removeClass('hidden');
+    $('.question-highlight-' + oldQuestionIndex).removeClass('highlight');
+    $('.question-highlight-' + newQuestionIndex).addClass('highlight');
+    currentQuestionIndex = newQuestionIndex;
+    if (currentQuestionIndex == 1) {
+      $('#previous-question').prop('disabled', true)
+    } else {
+      $('#previous-question').prop('disabled', false)
+    }
+    if (currentQuestionIndex == questionsElements.length) {
+      $('#next-question').prop('disabled', true);
+    } else {
+      $('#next-question').prop('disabled', false);
+    }
   };
 
   $('#next-question').click(function() {
-    if (currentQuestionIndex + 1 < questionsElements.length) {
-      currentQuestionIndex = currentQuestionIndex + 1; 
+    var newQuestionIndex = currentQuestionIndex;
+    if (currentQuestionIndex < questionsElements.length) {
+      newQuestionIndex = currentQuestionIndex + 1; 
     }
-    UpdateQuestionVisibility();
+    UpdateQuestionVisibility(currentQuestionIndex, newQuestionIndex);
   });
   $('#previous-question').click(function() {
-    if (currentQuestionIndex > 0) {
-      currentQuestionIndex = currentQuestionIndex - 1;
+    var newQuestionIndex = currentQuestionIndex;
+    if (currentQuestionIndex > 1) {
+      newQuestionIndex = currentQuestionIndex - 1;
     }
-    UpdateQuestionVisibility();
+    UpdateQuestionVisibility(currentQuestionIndex, newQuestionIndex);
   });
   $('#show-answers').click(function() {
     questionsElements.removeClass('hidden');
@@ -31,6 +47,11 @@
       } else {
         $(element).parent().addClass('answer-wrong');
       }
+    });
+    $('.wrong-answer').each(function(index, element) {
+      if ($(element).is(':checked')) {
+        $(element).parent().addClass('answer-wrong');
+      } 
     });
   });
 

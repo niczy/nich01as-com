@@ -15,7 +15,7 @@
         <div class="question-control pull-right">
           <button id="back-to-list" class="btn btn-default">Return to list</button>
           <button id="show-answers" class="btn btn-default">Show Answers</button>
-          <button id="previous-question" class="btn btn-default">Previous</button>
+          <button id="previous-question" class="btn btn-default" disabled="true">Previous</button>
           <button id="next-question" class="btn btn-default">Next</button> 
         </div>
       </div>
@@ -25,8 +25,9 @@
             <ul>
               {% for question in questions %}
               <li class="question question-{{ loop.index }} hidden">
-                  {{ question }}
-                </li> 
+                <b>{{ loop.index }}. </b>
+                {{ question }}
+              </li> 
               {% endfor %}
             </ul>
           </div>
