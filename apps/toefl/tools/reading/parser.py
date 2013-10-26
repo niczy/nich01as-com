@@ -3,6 +3,8 @@
 import sys
 import re
 
+from string import Template
+
 
 class Question:
   def __init__(self):
@@ -19,18 +21,36 @@ class Article:
     self.questions = []
 
 def output(articles):
+  value_index = ['X', 'A', 'B', 'C', 'D', 'E', 'F', 'G']
+  paragraph_template = Template('<p>$paragraph</p>\n')
+  question_des_template = Template('<span class="description">$description</span>\n')
+  option_template = Template('''
+    <li class="choice">
+      <input type="radio" name="$name" value="$value">
+        $option
+      </input>
+    </li>\n
+  ''')
+  options_template = Template("<ul>$options</ul>\n\n")
   for article in articles:
     with open("reading_" + article.name, "w") as output_file:
-      output_file.write(article.title)
+      output_file.write(article.title + '\n')
       for paragraph in article.paragraphs:
-        output_file.write(paragraph)
+        output_file.write(paragraph_template.substitute(paragraph = paragraph))
 
+
+  
     with open('reading_question' + article.name, "w") as output_file:
       for question in article.questions:
-        output_file.write(question.description)
+        output_file.write(question_des_template.substitute(description = question.description))
+        options = '';
+        answerid = 0;
         for option in question.options:
-          output_file.write(option)
-        output_file.write('\n\n')
+          answerid = answerid + 1
+          print('answer id ' + str(answerid))
+          print(option)
+          options = options + option_template.substitute(option = option, name = 'answer-' + str(answerid), value = value_index[answerid])
+        output_file.write(options_template.substitute(options = options))
         
 
 def main(filename):
@@ -40,9 +60,7 @@ def main(filename):
   state = "init"
   with open(filename) as input_file:
     for line in input_file.readlines():
-      line = line.strip().replace('．', '. ') + '\n'
-      if article and 'TPO20-2' in article.name and state != 'paragraph':
-        print(line)
+      line = line.strip().replace('．', '. ') 
         
       if  re.match('TPO\d+-\d:?', line):
         if article:
@@ -71,18 +89,17 @@ def main(filename):
       elif state == 'intertion-2':
         state = 'option'
         question.description = question.description + line
-      elif (line.startswith('○') or 'O ' in line) and state in ['question', 'option', 'ignore']:
-        state = 'option'
-        print(line)
-        question.options.append(line)
-      elif re.match('Paragraph \d+.*', line) or line.isspace():
-        state = "ignore"
       elif re.match('\d+[\.].*', line) and state in ['ignore', 'paragraph', 'option', 'intertion-3']:
         state = 'question'
         if question:
           article.questions.append(question)
         question = Question()
         question.description = line
+      elif (line.startswith('○') or 'O ' in line) and state in ['question', 'option', 'ignore']:
+        state = 'option'
+        question.options.append(line)
+      elif re.match('Paragraph \d+.*', line) or line.isspace():
+        state = "ignore"
       elif state == 'question':
         question.description = question.description + line
       elif state == 'title' or state == 'paragraph':
