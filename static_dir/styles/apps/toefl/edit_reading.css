@@ -1,0 +1,36 @@
+.question {
+  margin: 5px 0 20px;
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(153, 147, 147);
+  padding: 5px 10px 10px;
+}
+
+.question .context input {
+}
+
+.question .context label {
+  width: 200px;
+}
+
+.question .option {
+  margin: 5px 0 20px;
+}
+
+.question .correct-option {
+  margin: 5px 0 0 0;
+}
+
+.question textarea {
+  width: 100%;
+  margin: 0 0 5px 0;
+}
+
+.question .option-des {
+  width: 80%;
+}
+
+.question .option-remove {
+  margin: 0 0 0 4px;
+}
+

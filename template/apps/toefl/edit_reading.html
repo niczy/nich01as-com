@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=false;">
+    <title> Nicholas Zhao</title>
+    <link rel="stylesheet" href="/s/v/bootstrap-3.0.0/css/bootstrap.min.css" /> 
+    <link rel="stylesheet" href="/s/styles/index.css" />
+    <link rel="icon" type="image/png" href="/s/images/myicon.jpg">
+    <link rel="stylesheet" href="/s/styles/apps/toefl/base.css" />
+    <link rel="stylesheet" href="/s/styles/apps/toefl/edit_reading.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6">
+          <div id="article">
+            This is for passage. 
+          </div>
+          <div>
+            <div id="paragraph-edit-container" class="hidden">
+              <textarea id="edit-paragraph" name="edit-prargraph" rows="10" cols="30">
+              </textarea>
+            </div>
+            <button id="add-paragraph" class="btn btn-default">
+              Add Paragraph
+            </button> 
+          </div>
+        </div> 
+        <div class="col-xs-6">
+          This is for question.
+            <div id="questions-container">
+            </div>
+            <div>
+              <button id="add-question" class="btn btn-default">
+                Add question
+              </button>
+            </div>
+        </div> 
+      </div>
+    </div>
+    <script src="/s/scripts/libs/jquery-2.0.3.min.js"></script>
+    <script src="/s/scripts/apps/toefl/edit_reading.js"></script>
+  </body>
+</html>
+

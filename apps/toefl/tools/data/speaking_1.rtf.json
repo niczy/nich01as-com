@@ -1,0 +1,43 @@
+{
+  "type": "listening", 
+  "questions": [
+    {
+      "topic": "question[1]", 
+      "audio": "audio_key_xxx"
+    }, 
+    {
+      "topic": "question[1]", 
+      "audio": "audio_key_xxx"
+    }, 
+    {
+      "image": "image_url", 
+      "question": "Question: Explain why the woman disagrees with the reasons expressed in the letter.", 
+      "audio1": "audio_key_xxx", 
+      "audio2": "audio_key_xxx", 
+      "passage": "The administration has announced plans to acquire a new sculpture for campus. We should all oppose this plan. The university's financial pool financial condition led it to increase the price for campus housing and tuition by 15% this past year. Surely then it is in no financial position to purchase such an expensive sculpture. Moreover, just look at the sculpture: several 60-foot long steel plates, jutting out of the earth at odd angles. It's so large; it'll take up all the green space in front of the campus center! This is public space that should be reserved for students to use.", 
+      "audio3": "audio_key_xxx", 
+      "passage_title": "Letter in the Centerville College News"
+    }, 
+    {
+      "image": "image_url", 
+      "question": "Question:Explain groupthink and its effects using the example of the computer company.", 
+      "audio1": "audio_key_xxx", 
+      "audio2": "audio_key_xxx", 
+      "passage": "One process by which groups may make bad or irrational decisions is known as groupthink. Individual members of a group attempt to conform their opinions to what they believe to be the group consensus even though the result may be negative. These include the desire to be like, fear of losing a job, or even not wanting to be the one employee delaying a decision that seems inevitable. These kinds of implicit pressures to conform lead group members to ultimately make decisions that each by himself or herself, might normally not make.", 
+      "audio3": "audio_key_xxx", 
+      "passage_title": "Groupthink"
+    }, 
+    {
+      "image": "image_url", 
+      "question": "Question:The speakers discuss two possible solutions to the woman's problem. Briefly summarize the problem. Then sate which solution you recommend and explain why.", 
+      "audio1": "audio_key_xxx", 
+      "audio2": "audio_key_xxx"
+    }, 
+    {
+      "image": "image_url", 
+      "question": "Question: Using the research described by the professor, explain what scientists have learned about the mathematical abilities of babies.}", 
+      "audio1": "audio_key_xxx", 
+      "audio2": "audio_key_xxx"
+    }
+  ]
+}
