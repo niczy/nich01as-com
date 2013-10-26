@@ -40,7 +40,10 @@ def main(filename):
   state = "init"
   with open(filename) as input_file:
     for line in input_file.readlines():
-      line = line.strip() + '\n'
+      line = line.strip().replace('．', '. ') + '\n'
+      if article and 'TPO20-2' in article.name and state != 'paragraph':
+        print(line)
+        
       if  re.match('TPO\d+-\d:?', line):
         if article:
           if question:
@@ -49,11 +52,12 @@ def main(filename):
           articles.append(article)
         article = Article()
         article.name = line[0: len(line)-1].replace(':', '')
+        print(line)
         state = 'name'
       elif state == 'name':
         article.title = line
         state = 'title'
-      elif '●' in line or re.match('O\s+', line):
+      elif '●' in line or ('O ' in line and len(line) < 2):
         question.answercount = question.answercount + 1
       elif 'Look at the four squares' in line and state in ['option', 'ignore', 'paragraph']:
         state = 'intertion-1'
@@ -67,18 +71,20 @@ def main(filename):
       elif state == 'intertion-2':
         state = 'option'
         question.description = question.description + line
-      elif (line.startswith('○') or re.match('O \w+.*', line)) and state in ['question', 'option']  :
+      elif (line.startswith('○') or 'O ' in line) and state in ['question', 'option', 'ignore']:
         state = 'option'
+        print(line)
         question.options.append(line)
-      elif re.match('Paragraph \d+.*', line) or len(line) == 0:
+      elif re.match('Paragraph \d+.*', line) or line.isspace():
         state = "ignore"
-      elif re.match('\d+\. .*', line) and state in ['ignore', 'paragraph', 'option', 'intertion-3']:
+      elif re.match('\d+[\.].*', line) and state in ['ignore', 'paragraph', 'option', 'intertion-3']:
         state = 'question'
         if question:
           article.questions.append(question)
         question = Question()
         question.description = line
-        print("state to question")
+      elif state == 'question':
+        question.description = question.description + line
       elif state == 'title' or state == 'paragraph':
         article.paragraphs.append(line)
         state = 'paragraph'
