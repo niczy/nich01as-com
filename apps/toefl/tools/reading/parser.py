@@ -11,6 +11,22 @@ class Question:
     self.description = ""
     self.options = []
     self.answercount = 1
+    self.paragraphs = []
+
+  def post_process(self):
+    # paragraph 5
+    # paragraph 5 and 6
+    # paragraph 5 and paragraph 6
+    m = re.search('paragraph (\d+)\.*( and( paragraph)? )?(\d+)?', self.description.lower())
+    if m:
+      self.add_paragraph(m.group(1))
+      self.add_paragraph(m.group(4))
+    self.paragraphs.sort()
+  
+  def add_paragraph(self, p):
+    if not p: return
+    p = int(p)
+    if p not in self.paragraphs: self.paragraphs.append(p)
 
 class Article:
 
@@ -19,6 +35,13 @@ class Article:
     self.title = ""
     self.paragraphs = []
     self.questions = []
+
+  def post_process(self):
+    for i in xrange(len(self.questions)):
+      q = self.questions[i]
+      q.post_process()
+      if i > 0 and len(q.paragraphs) == 0:
+        q.paragraphs = self.questions[i - 1].paragraphs
 
 def output(articles):
   value_index = ['X', 'A', 'B', 'C', 'D', 'E', 'F', 'G']
@@ -53,6 +76,7 @@ def main(filename):
   question = None
   articles = []
   state = "init"
+  paragraphs = []
   with open(filename) as input_file:
     for line in input_file.readlines():
       line = line.strip().replace('．', '. ') 
@@ -76,6 +100,8 @@ def main(filename):
         if question:
           article.questions.append(question)
         question = Question()
+        question.paragraphs = paragraphs
+        paragraphs = []
         question.description = line
       elif state == 'intertion-1':
         state = 'intertion-2'
@@ -83,11 +109,21 @@ def main(filename):
       elif state == 'intertion-2':
         state = 'option'
         question.description = question.description + line
+      elif (line.startswith('○') or 'O ' in line) and state in ['question', 'option', 'ignore']:
+        state = 'option'
+        question.options.append(line)
+      elif re.match('Paragraph \d+.*', line):
+        state = "ignore"
+        paragraphs.append(int(re.search('Paragraph (\d+).*', line).group(1)))
+      elif line.isspace():
+        state = "ignore"
       elif re.match('\d+[\.].*', line) and state in ['ignore', 'paragraph', 'option', 'intertion-3']:
         state = 'question'
         if question:
           article.questions.append(question)
         question = Question()
+        question.paragraphs = paragraphs
+        paragraphs = []
         question.description = line
       elif (line.startswith('○') or 'O ' in line) and state in ['question', 'option', 'ignore']:
         state = 'option'
@@ -105,7 +141,9 @@ def main(filename):
       article.questions.append(question)
     articles.append(article)
 
+  [a.post_process() for a in articles]
   output(articles)
 
 if __name__ == '__main__':
-  main("articles.txt")
+  file = sys.argv[1] if len(sys.argv) > 1 else "articles.txt"
+  main(file)
