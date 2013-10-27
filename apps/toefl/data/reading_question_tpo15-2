@@ -1,325 +1,327 @@
-<span class="description">1. The word interlocked in the passage is closest in meaning to</span>
+<span class="description">The word interlocked in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○intermediate
+      <input type="radio"  name="answer-1" value="A">
+        intermediate
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○linked
+      <input type="radio"  name="answer-1" value="B">
+        linked
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○frozen
+      <input type="radio" class="right-answer" name="answer-1" value="C">
+        frozen
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○fully developed
+      <input type="radio"  name="answer-1" value="D">
+        fully developed
       </input>
     </li>
 </ul>
 
-<span class="description">2. According to paragraph 1, which of the following does NOT describe a stage in the development of firn?</span>
+<span class="description">According to paragraph 1, which of the following does NOT describe a stage in the development of firn?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Hexagonal crystals become larger and interlock to form a thick layer.
+      <input type="radio" class="right-answer" name="answer-2" value="A">
+        Hexagonal crystals become larger and interlock to form a thick layer.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Snow crystals become compacted into grains.
+      <input type="radio"  name="answer-2" value="B">
+        Snow crystals become compacted into grains.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Granules recrystallize after melting, refreezing, and further compaction.
+      <input type="radio"  name="answer-2" value="C">
+        Granules recrystallize after melting, refreezing, and further compaction.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Grains become denser owing to reduced air space around them.
+      <input type="radio"  name="answer-2" value="D">
+        Grains become denser owing to reduced air space around them.
       </input>
     </li>
 </ul>
 
-<span class="description">3. The word match in the passage is closest in meaning to</span>
+<span class="description">The word match in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○measure
+      <input type="radio"  name="answer-3" value="A">
+        measure
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○enlarge
+      <input type="radio"  name="answer-3" value="B">
+        enlarge
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○approximate
+      <input type="radio"  name="answer-3" value="C">
+        approximate
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○equal
+      <input type="radio" class="right-answer" name="answer-3" value="D">
+        equal
       </input>
     </li>
 </ul>
 
-<span class="description">4. The word transform in the passage is closest in meaning to</span>
+<span class="description">The word transform in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○break
+      <input type="radio"  name="answer-4" value="A">
+        break
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○push
+      <input type="radio"  name="answer-4" value="B">
+        push
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○change
+      <input type="radio" class="right-answer" name="answer-4" value="C">
+        change
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○extend
+      <input type="radio"  name="answer-4" value="D">
+        extend
       </input>
     </li>
 </ul>
 
-<span class="description">5. According to paragraph 2, surplus snow affects a glacier in all the following ways EXCEPT:</span>
+<span class="description">According to paragraph 2, surplus snow affects a glacier in all the following ways EXCEPT:</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○It provides the pressure needed to cause glacial ice to flow.
+      <input type="radio"  name="answer-5" value="A">
+        It provides the pressure needed to cause glacial ice to flow.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○It offsets losses of ice due to melting, evaporation, and calving.
+      <input type="radio"  name="answer-5" value="B">
+        It offsets losses of ice due to melting, evaporation, and calving.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○It brings about the formation of fern in the snow it buries.
+      <input type="radio"  name="answer-5" value="C">
+        It brings about the formation of fern in the snow it buries.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○It results in temperate glaciers that are thicker than polar glaciers.
+      <input type="radio" class="right-answer" name="answer-5" value="D">
+        It results in temperate glaciers that are thicker than polar glaciers.
       </input>
     </li>
 </ul>
 
-<span class="description">6. Paragraph 2 implies that which of the following conditions produces the fastest moving glaciers?</span>
+<span class="description">Paragraph 2 implies that which of the following conditions produces the fastest moving glaciers?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○A climate characteristic of the polar regions
+      <input type="radio" class="right-answer" name="answer-6" value="A">
+        A climate characteristic of the polar regions
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○A thick layer of ice in a temperate climate F Long,
+      <input type="radio"  name="answer-6" value="B">
+        A thick layer of ice in a temperate climate F Long,
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Warm summers
+      <input type="radio"  name="answer-6" value="C">
+        Warm summers
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Snow, firm and ice that have been buried for several years
+      <input type="radio"  name="answer-6" value="D">
+        Snow, firm and ice that have been buried for several years
       </input>
     </li>
 </ul>
 
-<span class="description">7. The word deceiving in the passage is closest in meaning to</span>
+<span class="description">The word deceiving in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○approximate
+      <input type="radio"  name="answer-7" value="A">
+        approximate
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○exaggerated
+      <input type="radio" class="right-answer" name="answer-7" value="B">
+        exaggerated
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○unusual
+      <input type="radio"  name="answer-7" value="C">
+        unusual
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○misleading
+      <input type="radio"  name="answer-7" value="D">
+        misleading
       </input>
     </li>
 </ul>
 
-<span class="description">8. Why does the author consider the hypothetical melting of the world's glaciers?</span>
+<span class="description">Why does the author consider the hypothetical melting of the world's glaciers?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○To contrast the effects of this event with the opposite effects of a new ice age
+      <input type="radio"  name="answer-8" value="A">
+        To contrast the effects of this event with the opposite effects of a new ice age
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○To emphasize how much water is frozen in glaciers
+      <input type="radio"  name="answer-8" value="B">
+        To emphasize how much water is frozen in glaciers
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○To illustrate the disastrous effects of a warming trencl
+      <input type="radio" class="right-answer" name="answer-8" value="C">
+        To illustrate the disastrous effects of a warming trencl
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○To support the claim that glaciers are part of Earth' s hydrologic cycle
+      <input type="radio"  name="answer-8" value="D">
+        To support the claim that glaciers are part of Earth' s hydrologic cycle
       </input>
     </li>
 </ul>
 
-<span class="description">9. The discussion in paragraph 3 answers all the following questions EXCEPT:</span>
+<span class="description">The discussion in paragraph 3 answers all the following questions EXCEPT:</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Where is most of Earth's freshwater?
+      <input type="radio"  name="answer-9" value="A">
+        Where is most of Earth's freshwater?
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○What effect would a new ice age have on sea levels?
+      <input type="radio" class="right-answer" name="answer-9" value="B">
+        What effect would a new ice age have on sea levels?
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○What is the total amount of water in Earth's oceans?
+      <input type="radio"  name="answer-9" value="C">
+        What is the total amount of water in Earth's oceans?
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○How much of Earth's water is in ice?
+      <input type="radio"  name="answer-9" value="D">
+        How much of Earth's water is in ice?
       </input>
     </li>
 </ul>
 
-<span class="description">10. The word static in the passage is closest in meaning to</span>
+<span class="description">The word static in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○unchanging
+      <input type="radio" class="right-answer" name="answer-10" value="A">
+        unchanging
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○usable
+      <input type="radio"  name="answer-10" value="B">
+        usable
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○thick
+      <input type="radio"  name="answer-10" value="C">
+        thick
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○harmless
+      <input type="radio"  name="answer-10" value="D">
+        harmless
       </input>
     </li>
 </ul>
 
-<span class="description">11. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○As a glacier moves, it leaves behind rock formations that have been engulfed, pushed, and dragged by the glacier.
+      <input type="radio"  name="answer-11" value="A">
+        As a glacier moves, it leaves behind rock formations that have been engulfed, pushed, and dragged by the glacier.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Glaciers reshape the landscape by carving into rock and transporting the resulting debris to distant locations.
+      <input type="radio"  name="answer-11" value="B">
+        Glaciers reshape the landscape by carving into rock and transporting the resulting debris to distant locations.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Glaciers carve the hardest rock formations with great energy and slowly reshape them into debris.
+      <input type="radio"  name="answer-11" value="C">
+        Glaciers carve the hardest rock formations with great energy and slowly reshape them into debris.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○The tremendous energy of slowly moving glaciers transports and finally deposits rock debris into large rock formations.
+      <input type="radio" class="right-answer" name="answer-11" value="D">
+        The tremendous energy of slowly moving glaciers transports and finally deposits rock debris into large rock formations.
       </input>
     </li>
 </ul>
 
-<span class="description">12. According to paragraph 5, in what way is the present time unusual in the history of Earth?</span>
+<span class="description">According to paragraph 5, in what way is the present time unusual in the history of Earth?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○There are glaciers.
+      <input type="radio"  name="answer-12" value="A">
+        There are glaciers.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○More land is covered by glaciers than at anytime in the past.
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        More land is covered by glaciers than at anytime in the past.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○There is no ice age.
+      <input type="radio"  name="answer-12" value="C">
+        There is no ice age.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○No glaciers are found in Australia.
+      <input type="radio"  name="answer-12" value="D">
+        No glaciers are found in Australia.
       </input>
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.Firn has the appearance of wet sugar, but it is almost as hard as ice.Where would the sentence best fit?</span>
+<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
+<b>Firn has the appearance of wet sugar, but it is almost as hard as ice.</b>
+Where would the sentence best fit?</span>
 <ul>
 </ul>
 
-<span class="description">14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Glaciers are part of Earth's hydrologic cycle.Answer Choices</span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Glaciers are part of Earth's hydrologic cycle.Answer Choices</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Glaciers, which at present contain 80 percent of Earth's freshwater, form when accumulated snow is compressed and recrystallized into ice over a period of years.
+      <input type="radio" class="right-answer" name="answer-14" value="A">
+        Glaciers, which at present contain 80 percent of Earth's freshwater, form when accumulated snow is compressed and recrystallized into ice over a period of years.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○When there are glaciers on Earth, water is cycled through the glacier system but the cycle period may be hundreds of thousands of years during periods of ice ages.
+      <input type="radio" class="right-answer" name="answer-14" value="B">
+        When there are glaciers on Earth, water is cycled through the glacier system but the cycle period may be hundreds of thousands of years during periods of ice ages.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The glacial system is governed by precipitation and temperature in such a way that glaciers cannot form in temperate latitudes.
+      <input type="radio"  name="answer-14" value="C">
+        The glacial system is governed by precipitation and temperature in such a way that glaciers cannot form in temperate latitudes.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○When glacial ice reaches a depth of 30 meters, the weight of the ice causes ice crystals at the bottom to flow, and the resulting movement of the glacier carves the landscape.
+      <input type="radio" class="right-answer" name="answer-14" value="D">
+        When glacial ice reaches a depth of 30 meters, the weight of the ice causes ice crystals at the bottom to flow, and the resulting movement of the glacier carves the landscape.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-5" value="E">
-        ○If global warming melted the world's glaciers, sea level would rise about 60 meters worldwide.
+      <input type="radio"  name="answer-14" value="E">
+        If global warming melted the world's glaciers, sea level would rise about 60 meters worldwide.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-6" value="F">
-        ○Glaciers have had little effect on Earth's surface because only 2 percent of Earth's water is currently contained in glaciers, and there are fewer glaciers now than at most times in the past.
+      <input type="radio"  name="answer-14" value="F">
+        Glaciers have had little effect on Earth's surface because only 2 percent of Earth's water is currently contained in glaciers, and there are fewer glaciers now than at most times in the past.
       </input>
     </li>
 </ul>

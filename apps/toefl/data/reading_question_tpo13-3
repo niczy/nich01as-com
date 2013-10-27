@@ -1,325 +1,327 @@
-<span class="description">1. Paragraph 1 indicates that researchers use indirect methods primarily to observe the</span>
+<span class="description">Paragraph 1 indicates that researchers use indirect methods primarily to observe the</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○range of motor activity in neonates
+      <input type="radio"  name="answer-1" value="A">
+        range of motor activity in neonates
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○frequency and duration of various stimuli
+      <input type="radio"  name="answer-1" value="B">
+        frequency and duration of various stimuli
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○change in an infant's state following the introduction of a stimulus
+      <input type="radio" class="right-answer" name="answer-1" value="C">
+        change in an infant's state following the introduction of a stimulus
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○range of an infant's visual field
+      <input type="radio"  name="answer-1" value="D">
+        range of an infant's visual field
       </input>
     </li>
 </ul>
 
-<span class="description">2. The word uniformly in the passage is closest in meaning to</span>
+<span class="description">The word uniformly in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○clearly
+      <input type="radio"  name="answer-2" value="A">
+        clearly
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○quickly
+      <input type="radio"  name="answer-2" value="B">
+        quickly
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○consistently
+      <input type="radio" class="right-answer" name="answer-2" value="C">
+        consistently
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○occasionally
+      <input type="radio"  name="answer-2" value="D">
+        occasionally
       </input>
     </li>
 </ul>
 
-<span class="description">3. Why does the author mention repetitive following movements of the eye ?</span>
+<span class="description">Why does the author mention repetitive following movements of the eye ?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○To identify a response that indicates a neonate's perception of a stimulus
+      <input type="radio" class="right-answer" name="answer-3" value="A">
+        To identify a response that indicates a neonate's perception of a stimulus
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○To explain why a neonate is capable of responding to stimuli only through repetitive movements
+      <input type="radio"  name="answer-3" value="B">
+        To explain why a neonate is capable of responding to stimuli only through repetitive movements
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○To argue that motor activity in a neonate may be random and unrelated to stimuli
+      <input type="radio"  name="answer-3" value="C">
+        To argue that motor activity in a neonate may be random and unrelated to stimuli
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○To emphasize that responses to stimuli vary in infants according to age
+      <input type="radio"  name="answer-3" value="D">
+        To emphasize that responses to stimuli vary in infants according to age
       </input>
     </li>
 </ul>
 
-<span class="description">4. Which of the following is NOT mentioned in paragraph 2 as a problem in using the technique of direct observation?</span>
+<span class="description">Which of the following is NOT mentioned in paragraph 2 as a problem in using the technique of direct observation?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○It is impossible to be certain of the actual cause of an infant's response.
+      <input type="radio"  name="answer-4" value="A">
+        It is impossible to be certain of the actual cause of an infant's response.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Infants' responses, which occur quickly and diffusely, are often difficult to measure.
+      <input type="radio"  name="answer-4" value="B">
+        Infants' responses, which occur quickly and diffusely, are often difficult to measure.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Infants do not respond well to stimuli presented in an unnatural laboratory setting.
+      <input type="radio" class="right-answer" name="answer-4" value="C">
+        Infants do not respond well to stimuli presented in an unnatural laboratory setting.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○It may be difficult for observers to agree on the presence or the degree of a response.
+      <input type="radio"  name="answer-4" value="D">
+        It may be difficult for observers to agree on the presence or the degree of a response.
       </input>
     </li>
 </ul>
 
-<span class="description">5. The word potent in the passage is closest in meaning to</span>
+<span class="description">The word potent in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○artificial
+      <input type="radio"  name="answer-5" value="A">
+        artificial
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○powerful
+      <input type="radio" class="right-answer" name="answer-5" value="B">
+        powerful
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○common
+      <input type="radio"  name="answer-5" value="C">
+        common
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○similar
+      <input type="radio"  name="answer-5" value="D">
+        similar
       </input>
     </li>
 </ul>
 
-<span class="description">6. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Researchers using observational assessment techniques on infants must not over generalize and must base their conclusions on data from many studies.
+      <input type="radio" class="right-answer" name="answer-6" value="A">
+        Researchers using observational assessment techniques on infants must not over generalize and must base their conclusions on data from many studies.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○On the basis of the data from one or two studies, it seems that some infants develop a particular perceptual ability not observed in others.
+      <input type="radio"  name="answer-6" value="B">
+        n the basis of the data from one or two studies, it seems that some infants develop a particular perceptual ability not observed in others.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○To use data from one or two studies on infant's perceptual abilities, it is necessary to use techniques that will provide conclusive evidence.
+      <input type="radio"  name="answer-6" value="C">
+        To use data from one or two studies on infant's perceptual abilities, it is necessary to use techniques that will provide conclusive evidence.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○When researchers fail to make generalizations from their studies, their observed data is often inconclusive.
+      <input type="radio"  name="answer-6" value="D">
+        When researchers fail to make generalizations from their studies, their observed data is often inconclusive.
       </input>
     </li>
 </ul>
 
-<span class="description">7. What is the author's primary purpose in paragraph 3?</span>
+<span class="description">What is the author's primary purpose in paragraph 3?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○To explain why researchers must conduct more than one type of study when they are attempting to understand infant perception
+      <input type="radio"  name="answer-7" value="A">
+        To explain why researchers must conduct more than one type of study when they are attempting to understand infant perception
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○To describe new techniques for observing infant perception that overcome problems identified in the previous paragraph
+      <input type="radio" class="right-answer" name="answer-7" value="B">
+        To describe new techniques for observing infant perception that overcome problems identified in the previous paragraph
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○To present and evaluate the conclusions of various studies on infant perception
+      <input type="radio"  name="answer-7" value="C">
+        To present and evaluate the conclusions of various studies on infant perception
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○To point out the strengths and weaknesses of three new methods for quantifying an infant's reaction to stimuli
+      <input type="radio"  name="answer-7" value="D">
+        To point out the strengths and weaknesses of three new methods for quantifying an infant's reaction to stimuli
       </input>
     </li>
 </ul>
 
-<span class="description">8. The word quantifiable in the passage is closest in meaning to</span>
+<span class="description">The word quantifiable in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○visual
+      <input type="radio"  name="answer-8" value="A">
+        visual
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○permanent
+      <input type="radio"  name="answer-8" value="B">
+        permanent
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○meaningful
+      <input type="radio"  name="answer-8" value="C">
+        meaningful
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○measurable
+      <input type="radio" class="right-answer" name="answer-8" value="D">
+        measurable
       </input>
     </li>
 </ul>
 
-<span class="description">9. Paragraph 3 mentions all of the following as indications of an infant's heightened interest in a new stimulus EXCEPT an increase in</span>
+<span class="description">Paragraph 3 mentions all of the following as indications of an infant's heightened interest in a new stimulus EXCEPT an increase in</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○sucking behavior
+      <input type="radio"  name="answer-9" value="A">
+        sucking behavior
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○heart rate
+      <input type="radio"  name="answer-9" value="B">
+        heart rate
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○the number of breaths taken
+      <input type="radio"  name="answer-9" value="C">
+        the number of breaths taken
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○eye movements
+      <input type="radio" class="right-answer" name="answer-9" value="D">
+        eye movements
       </input>
     </li>
 </ul>
 
-<span class="description">10. According to paragraph 4, which of the following leads to the conclusion that infants are able to differentiate between stimuli in a habituation dishabituation study?</span>
+<span class="description">According to paragraph 4, which of the following leads to the conclusion that infants are able to differentiate between stimuli in a habituation dishabituation study?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Dishabituation occurs with the introduction of a new stimulus.
+      <input type="radio" class="right-answer" name="answer-10" value="A">
+        Dishabituation occurs with the introduction of a new stimulus.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Electrical responses in the infant's brain decline with each new stimulus.
+      <input type="radio"  name="answer-10" value="B">
+        Electrical responses in the infant's brain decline with each new stimulus.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Habituation is continued with the introduction of a new stimulus.
+      <input type="radio"  name="answer-10" value="C">
+        Habituation is continued with the introduction of a new stimulus.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○The infant displays little change in electrical sbrain responses.
+      <input type="radio"  name="answer-10" value="D">
+        The infant displays little change in electrical sbrain responses.
       </input>
     </li>
 </ul>
 
-<span class="description">11. In paragraph 4, what does the author suggest about the way an infant's brain perceives stimuli?</span>
+<span class="description">In paragraph 4, what does the author suggest about the way an infant's brain perceives stimuli?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○An infant's potential to respond to a stimulus may be related to the size of its brain.
+      <input type="radio"  name="answer-11" value="A">
+        An infant's potential to respond to a stimulus may be related to the size of its brain.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Changes in the electrical patterns of an infant's brain are difficult to detect.
+      <input type="radio"  name="answer-11" value="B">
+        Changes in the electrical patterns of an infant's brain are difficult to detect.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Different areas of an infant's brain respond to different types of stimuli.
+      <input type="radio" class="right-answer" name="answer-11" value="C">
+        Different areas of an infant's brain respond to different types of stimuli.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○An infant is unable to perceive more than one stimulus at a time.
+      <input type="radio"  name="answer-11" value="D">
+        An infant is unable to perceive more than one stimulus at a time.
       </input>
     </li>
 </ul>
 
-<span class="description">12. Paragraph 5 indicates that researchers who used the techniques described in the passage discovered that</span>
+<span class="description">Paragraph 5 indicates that researchers who used the techniques described in the passage discovered that</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○infants find it difficult to perceive some types of stimuli
+      <input type="radio"  name="answer-12" value="A">
+        infants find it difficult to perceive some types of stimuli
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○neonates of only a few days cannot yet discriminate between stimuli
+      <input type="radio"  name="answer-12" value="B">
+        neonates of only a few days cannot yet discriminate between stimuli
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○observational assessment is less useful for studying infant perception than researchers previously believed
+      <input type="radio"  name="answer-12" value="C">
+        observational assessment is less useful for studying infant perception than researchers previously believed
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○a neonate is able to perceive stimuli better than researchers once thought
+      <input type="radio" class="right-answer" name="answer-12" value="D">
+        a neonate is able to perceive stimuli better than researchers once thought
       </input>
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.The repetition allows researchers to observe the infant's behavior until they reach agreement about the presence and the degree of the infant's response.Where would the sentence best fit?</span>
+<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
+<b>The repetition allows researchers to observe the infant's behavior until they reach agreement about the presence and the degree of the infant's response.</b>
+Where would the sentence best fit?</span>
 <ul>
 </ul>
 
-<span class="description">14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Researchers use a number of techniques to determine how infants respond to changes in their environmentAnswer choices</span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Researchers use a number of techniques to determine how infants respond to changes in their environmentAnswer choices</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Data from observational methods must be confirmed through multiple studies.
+      <input type="radio" class="right-answer" name="answer-14" value="A">
+        Data from observational methods must be confirmed through multiple studies.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○New techniques for studying infant perception have improved the accuracy with which researchers observe and quantify infant responses
+      <input type="radio" class="right-answer" name="answer-14" value="B">
+        New techniques for studying infant perception have improved the accuracy with which researchers observe and quantify infant responses
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Indirect observation is most accurate when researchers use it to test auditory and olfactory perception in neonates.
+      <input type="radio"  name="answer-14" value="C">
+        Indirect observation is most accurate when researchers use it to test auditory and olfactory perception in neonates.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Visual indicators such as turning the head, blinking the eyes, or crying remain the best evidence of an infant’s perceptual abilities.
+      <input type="radio"  name="answer-14" value="D">
+        Visual indicators such as turning the head, blinking the eyes, or crying remain the best evidence of an infant’s perceptual abilities.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-5" value="E">
-        ○Pacifiers are commonly used in studies to calm an infant who has been presented with excessive stimuli.
+      <input type="radio"  name="answer-14" value="E">
+        Pacifiers are commonly used in studies to calm an infant who has been presented with excessive stimuli.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-6" value="F">
-        ○Sophisticated techniques that have aided new discoveries about perception in the neonate continue to be indirect measures.
+      <input type="radio" class="right-answer" name="answer-14" value="F">
+        Sophisticated techniques that have aided new discoveries about perception in the neonate continue to be indirect measures.
       </input>
     </li>
 </ul>

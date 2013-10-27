@@ -44,6 +44,7 @@ class Answer:
       text, text2 = text.split(';')
       a.choices2 = [int(c) for c in text2.split(':')]
     a.choices = [int(c) for c in text.split(':')]
+    return a
 
 class Article:
 
@@ -62,29 +63,42 @@ class Article:
 
 def output(articles):
   value_index = ['X', 'A', 'B', 'C', 'D', 'E', 'F', 'G']
-  paragraph_template = Template('<p>$paragraph</p>\n')
+  paragraph_template = Template('<p><span class="$questions paragraph-indicator hidden">&#9733;</span>$paragraph</p>\n')
   question_des_template = Template('<span class="description">$description</span>\n')
   option_template = Template('''
    <li class="choice">
-      <input type="radio" name="$name" value="$value">
+      <input type="radio" $right_answer_class name="$name" value="$value">
         $option
       </input>
     </li>''')
+  paragraph_indicator_template = Template('')
   options_template = Template('''<ul>$options\n</ul>\n\n''')
   for article in articles:
     with open("reading_" + article.name, "w") as output_file:
       output_file.write(article.title + '\n')
+      paragraphidx = 0
       for paragraph in article.paragraphs:
-        output_file.write(paragraph_template.substitute(paragraph = paragraph))
+        paragraphidx = paragraphidx + 1 
+        questions = ''
+        questionidx = 0
+        for question in article.questions:
+          questionidx = questionidx + 1 
+          if paragraphidx in question.paragraphs:
+            questions = questions + 'question-' + str(questionidx)
+        output_file.write(paragraph_template.substitute(paragraph = paragraph, questions = questions))
 
     with open('reading_question_' + article.name, "w") as output_file:
+      answerid = 0;
       for question in article.questions:
+        answerid = answerid + 1
         output_file.write(question_des_template.substitute(description = question.description))
-        options = '';
-        answerid = 0;
+        options = ''
+        optionid = 0
         for option in question.options:
-          answerid = answerid + 1
-          options = options + option_template.substitute(option = option, name = 'answer-' + str(answerid), value = value_index[answerid])
+          optionid = optionid + 1
+          right_answer_class = 'class="right-answer"' if question.answer and optionid in question.answer.choices else ''
+          options = options + option_template.substitute(
+              option = option, name = 'answer-' + str(answerid), value = value_index[optionid], right_answer_class = right_answer_class)
         output_file.write(options_template.substitute(options = options))
         
 
@@ -112,6 +126,8 @@ def parse_artiles(filename):
         state = 'title'
       elif (line.startswith('○') or line.startswith('O') and len(line) > 4) and state in ['question', 'option', 'ignore']:
         state = 'option'
+        line = line.replace('○', '')
+        line = re.sub('^O\s*', '', line)
         question.options.append(line)
       elif '●' in line or ('O ' in line and len(line) < 4):
         question.answercount = question.answercount + 1
@@ -125,23 +141,26 @@ def parse_artiles(filename):
         question.description = line
       elif state == 'intertion-1':
         state = 'intertion-2'
-        question.description = question.description + line
+        question.description = question.description + '\n<b>' + line + '</b>'
       elif state == 'intertion-2':
         state = 'option'
-        question.description = question.description + line
+        question.description = question.description + '\n' + line
       elif re.match('Paragraph \d+.*', line):
         state = "ignore"
         paragraphs.append(int(re.search('Paragraph (\d+).*', line).group(1)))
       elif line.isspace():
         state = "ignore"
       elif re.match('\d+[\.].*', line) and state in ['ignore', 'paragraph', 'option', 'intertion-3']:
-        state = 'question'
         if question:
           article.questions.append(question)
         question = Question()
         question.paragraphs = paragraphs
         paragraphs = []
+        if state != 'question':
+          line = re.sub('^\d+\.?\s*', '', line)
+          print(line)
         question.description = line
+        state = 'question'
       elif re.match('Paragraph \d+.*', line) or line.isspace():
         state = "ignore"
       elif state == 'question':
@@ -183,7 +202,6 @@ def parse_answers(filename, articles):
   for answer_set in answer_sets:
     idx += 1
     name = "tpo%d-%d" % ((idx / 3) + 1, idx % 3 + 1)
-    print "Parsing answers: " + name
     answers = [a for a in answer_set.split() if len(a) > 0 and '.' in a]
     assert sanity_check_answers(answers), "Wrong answer format:" + str(answers)
     matches = [a for a in articles if a.name == name]
@@ -195,8 +213,8 @@ def parse_answers(filename, articles):
 
     # TODO
     for qid in xrange(min(len(answers), len(article.questions))):
-      article.questions[qid].answer = Answer.from_string(answers[qid])
-    
+        article.questions[qid].answer = Answer.from_string(answers[qid])
+
   return articles
 
 if __name__ == '__main__':

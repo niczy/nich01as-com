@@ -1,301 +1,303 @@
-<span class="description">1. Fluke: the two parts that constitute the large triangular tail of a whale2. "Blowhole: a hole in the top of the head used for breathing</span>
+<span class="description">Fluke: the two parts that constitute the large triangular tail of a whale2. "Blowhole: a hole in the top of the head used for breathing</span>
 <ul>
 </ul>
 
-<span class="description">1. In paragraph 1, what does the author say about the presence of a blowhole in cetaceans?</span>
+<span class="description">In paragraph 1, what does the author say about the presence of a blowhole in cetaceans?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○It clearly indicates that cetaceans are mammals.
+      <input type="radio" class="right-answer" name="answer-2" value="A">
+        It clearly indicates that cetaceans are mammals.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○It cannot conceal the fact that cetaceans are mammals.
+      <input type="radio"  name="answer-2" value="B">
+        It cannot conceal the fact that cetaceans are mammals.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○It is the main difference between cetaceans and land-dwelling mammals.
+      <input type="radio"  name="answer-2" value="C">
+        It is the main difference between cetaceans and land-dwelling mammals.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○It cannot yield clues about the origins of cetaceans.
-      </input>
-    </li>
-</ul>
-
-<span class="description">2. Which of the following can be inferred from paragraph 1 about early sea otters?</span>
-<ul>
-   <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○It is not difficult to imagine what they looked like
-      </input>
-    </li>
-   <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○There were great numbers of them.
-      </input>
-    </li>
-   <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○They lived in the sea only.
-      </input>
-    </li>
-   <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○They did not leave many fossil remains.
+      <input type="radio"  name="answer-2" value="D">
+        It cannot yield clues about the origins of cetaceans.
       </input>
     </li>
 </ul>
 
-<span class="description">3. The word precious in the passage is closest in meaning to</span>
+<span class="description">Which of the following can be inferred from paragraph 1 about early sea otters?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Exact
+      <input type="radio"  name="answer-3" value="A">
+        It is not difficult to imagine what they looked like
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Scarce
+      <input type="radio"  name="answer-3" value="B">
+        There were great numbers of them.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Valuable
+      <input type="radio" class="right-answer" name="answer-3" value="C">
+        They lived in the sea only.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Initial
+      <input type="radio"  name="answer-3" value="D">
+        They did not leave many fossil remains.
       </input>
     </li>
 </ul>
 
-<span class="description">4. Pakicetus and modern cetaceans have similar</span>
+<span class="description">The word precious in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Hearing structures
+      <input type="radio"  name="answer-4" value="A">
+        Exact
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Adaptations for diving
+      <input type="radio"  name="answer-4" value="B">
+        Scarce
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Skull shapes
+      <input type="radio" class="right-answer" name="answer-4" value="C">
+        Valuable
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Breeding locations
+      <input type="radio"  name="answer-4" value="D">
+        Initial
       </input>
     </li>
 </ul>
 
-<span class="description">5. The word it in the passage refers to</span>
+<span class="description">Pakicetus and modern cetaceans have similar</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Pakicetus
+      <input type="radio" class="right-answer" name="answer-5" value="A">
+        Hearing structures
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Fish
+      <input type="radio"  name="answer-5" value="B">
+        Adaptations for diving
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Life
+      <input type="radio"  name="answer-5" value="C">
+        Skull shapes
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ocean
+      <input type="radio"  name="answer-5" value="D">
+        Breeding locations
       </input>
     </li>
 </ul>
 
-<span class="description">6. The word exposed in the passage is closest in meaning to</span>
+<span class="description">The word it in the passage refers to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Explained
+      <input type="radio"  name="answer-6" value="A">
+        Pakicetus
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Visible
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+        Fish
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Identified
+      <input type="radio"  name="answer-6" value="C">
+        Life
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Located
+      <input type="radio"  name="answer-6" value="D">
+        ocean
       </input>
     </li>
 </ul>
 
-<span class="description">7. The hind leg of Basilosaurus was a significant find because it showed that Basilosaurus</span>
+<span class="description">The word exposed in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Lived later than Ambulocetus natans
+      <input type="radio"  name="answer-7" value="A">
+        Explained
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Lived at the same time as Pakicetus
+      <input type="radio"  name="answer-7" value="B">
+        Visible
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Was able to swim well
+      <input type="radio"  name="answer-7" value="C">
+        Identified
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Could not have walked on land
+      <input type="radio" class="right-answer" name="answer-7" value="D">
+        Located
       </input>
     </li>
 </ul>
 
-<span class="description">8. It can be inferred that Basilosaurus bred and gave birth in which of the following locations</span>
+<span class="description">The hind leg of Basilosaurus was a significant find because it showed that Basilosaurus</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○On land
+      <input type="radio"  name="answer-8" value="A">
+        Lived later than Ambulocetus natans
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Both on land and at sea
+      <input type="radio"  name="answer-8" value="B">
+        Lived at the same time as Pakicetus
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○In shallow water
+      <input type="radio"  name="answer-8" value="C">
+        Was able to swim well
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○In a marine environment
+      <input type="radio" class="right-answer" name="answer-8" value="D">
+        Could not have walked on land
       </input>
     </li>
 </ul>
 
-<span class="description">9. Why does the author use the word luckily in mentioning that the Ambulocetus natans fossil included hind legs?</span>
+<span class="description">It can be inferred that Basilosaurus bred and gave birth in which of the following locations</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Fossil legs of early whales are a rare find.
+      <input type="radio"  name="answer-9" value="A">
+        n land
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The legs provided important information about the evolution of cetaceans.
+      <input type="radio" class="right-answer" name="answer-9" value="B">
+        Both on land and at sea
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The discovery allowed scientists to reconstruct a complete skeleton of the whale.
+      <input type="radio"  name="answer-9" value="C">
+        In shallow water
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Until that time, only the front legs of early whales had been discovered.
+      <input type="radio"  name="answer-9" value="D">
+        In a marine environment
       </input>
     </li>
 </ul>
 
-<span class="description">10. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<span class="description">Why does the author use the word luckily in mentioning that the Ambulocetus natans fossil included hind legs?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Even though Ambulocetus swam by moving its body up and down, it did not have a backbone.
+      <input type="radio"  name="answer-10" value="A">
+        Fossil legs of early whales are a rare find.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The backbone of Ambulocetus, which allowed it to swim, provides evidence of its missing fluke.
+      <input type="radio"  name="answer-10" value="B">
+        The legs provided important information about the evolution of cetaceans.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Although Ambulocetus had no fluke, its backbone structure shows that it swam like modern whales.
+      <input type="radio" class="right-answer" name="answer-10" value="C">
+        The discovery allowed scientists to reconstruct a complete skeleton of the whale.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○By moving the rear parts of their bodies up and down, modern whales swim in a different way from the way Ambulocetus swam.
+      <input type="radio"  name="answer-10" value="D">
+        Until that time, only the front legs of early whales had been discovered.
       </input>
     </li>
 </ul>
 
-<span class="description">11. The word propulsion in the passage is closest in meaning to</span>
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?Incorrect choices change the meaning in important ways or leave out essential information.</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Staying afloat
+      <input type="radio"  name="answer-11" value="A">
+        Even though Ambulocetus swam by moving its body up and down, it did not have a backbone.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Changing direction
+      <input type="radio"  name="answer-11" value="B">
+        The backbone of Ambulocetus, which allowed it to swim, provides evidence of its missing fluke.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Decreasing weight
+      <input type="radio"  name="answer-11" value="C">
+        Although Ambulocetus had no fluke, its backbone structure shows that it swam like modern whales.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Moving forward
+      <input type="radio" class="right-answer" name="answer-11" value="D">
+        By moving the rear parts of their bodies up and down, modern whales swim in a different way from the way Ambulocetus swam.
       </input>
     </li>
 </ul>
 
-<span class="description">12. Look at the four squares [■] that indicate where the following sentence can be added to the passage.This is a question that has puzzled scientists for ages.Where would the sentence best fit?</span>
+<span class="description">The word propulsion in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Recent discoveries of fossils have helped to show the link between land mammals and cetaceans.
+      <input type="radio"  name="answer-12" value="A">
+        Staying afloat
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The discovery of Ambulocetus natans provided evidence for a whale that lived both on land and at sea.
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        Changing direction
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The skeleton of Basilosaurus was found in what had been the Tethys Sea, an area rich in fossil evidence.
+      <input type="radio"  name="answer-12" value="C">
+        Decreasing weight
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Pakicetus is the oldest fossil whale yet to be found.
+      <input type="radio"  name="answer-12" value="D">
+        Moving forward
+      </input>
+    </li>
+</ul>
+
+<span class="description">12. Look at the four squares [■] that indicate where the following sentence can be added to the passage.
+<b>This is a question that has puzzled scientists for ages.</b>
+Where would the sentence best fit?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="A">
+        Recent discoveries of fossils have helped to show the link between land mammals and cetaceans.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-5" value="E">
-        ○Fossils thought to be transitional forms between walking mammals and swimming whales were found.
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        The discovery of Ambulocetus natans provided evidence for a whale that lived both on land and at sea.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-6" value="F">
-        ○Ambulocetus' hind legs were used for propulsion in the water.
+      <input type="radio"  name="answer-13" value="C">
+        The skeleton of Basilosaurus was found in what had been the Tethys Sea, an area rich in fossil evidence.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        Pakicetus is the oldest fossil whale yet to be found.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="E">
+        Fossils thought to be transitional forms between walking mammals and swimming whales were found.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="F">
+        Ambulocetus' hind legs were used for propulsion in the water.
       </input>
     </li>
 </ul>

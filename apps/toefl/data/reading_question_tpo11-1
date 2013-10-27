@@ -1,325 +1,327 @@
-<span class="description">1. The word vital in the passage is closest in</span>
+<span class="description">The word vital in the passage is closest in</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ attractive
+      <input type="radio"  name="answer-1" value="A">
+         attractive
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ essential
+      <input type="radio" class="right-answer" name="answer-1" value="B">
+         essential
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ usual
+      <input type="radio"  name="answer-1" value="C">
+         usual
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ practical
+      <input type="radio"  name="answer-1" value="D">
+         practical
       </input>
     </li>
 </ul>
 
-<span class="description">2. Paragraph 1 suggests that one reason Egyptian art is viewed less favorably than other art is that Egyptian art lacks</span>
+<span class="description">Paragraph 1 suggests that one reason Egyptian art is viewed less favorably than other art is that Egyptian art lacks</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ a realistic sense of human body proportion
+      <input type="radio"  name="answer-2" value="A">
+         a realistic sense of human body proportion
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ a focus on distinctive forms of varying sizes
+      <input type="radio"  name="answer-2" value="B">
+         a focus on distinctive forms of varying sizes
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ the originality of European art
+      <input type="radio"  name="answer-2" value="C">
+         the originality of European art
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ the capacity to show the human body in motion
+      <input type="radio" class="right-answer" name="answer-2" value="D">
+         the capacity to show the human body in motion
       </input>
     </li>
 </ul>
 
-<span class="description">3. In paragraph 1, the author mentions all of the following as necessary in appreciating Egyptian art EXCEPT an understanding of</span>
+<span class="description">In paragraph 1, the author mentions all of the following as necessary in appreciating Egyptian art EXCEPT an understanding of</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ the reasons why the art was made
+      <input type="radio"  name="answer-3" value="A">
+         the reasons why the art was made
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ the nature of aristocratic Egyptian beliefs
+      <input type="radio"  name="answer-3" value="B">
+         the nature of aristocratic Egyptian beliefs
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ the influences of Egyptian art on later art such as classical Greek art
+      <input type="radio" class="right-answer" name="answer-3" value="C">
+         the influences of Egyptian art on later art such as classical Greek art
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ how the art was used
+      <input type="radio"  name="answer-3" value="D">
+         how the art was used
       </input>
     </li>
 </ul>
 
-<span class="description">4. According to paragraph 2, why are Egyptian statues portrayed frontalty?</span>
+<span class="description">According to paragraph 2, why are Egyptian statues portrayed frontalty?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ To create a psychological effect of distance and isolation
+      <input type="radio"  name="answer-4" value="A">
+         To create a psychological effect of distance and isolation
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ To allow them to fulfill their important role in ceremonies of Egyptian life
+      <input type="radio" class="right-answer" name="answer-4" value="B">
+         To allow them to fulfill their important role in ceremonies of Egyptian life
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ To provide a contrast to statues with a decorative function
+      <input type="radio"  name="answer-4" value="C">
+         To provide a contrast to statues with a decorative function
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ To suggest the rigid, unchanging Egyptian philosophical attitudes
+      <input type="radio"  name="answer-4" value="D">
+         To suggest the rigid, unchanging Egyptian philosophical attitudes
       </input>
     </li>
 </ul>
 
-<span class="description">5. The word context in the passage is closest in meaning to</span>
+<span class="description">The word context in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ connection
+      <input type="radio"  name="answer-5" value="A">
+         connection
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ influence
+      <input type="radio"  name="answer-5" value="B">
+         influence
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ environment
+      <input type="radio" class="right-answer" name="answer-5" value="C">
+         environment
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ requirement
+      <input type="radio"  name="answer-5" value="D">
+         requirement
       </input>
     </li>
 </ul>
 
-<span class="description">6. The author mentions an architectural setting in the passage in order to</span>
+<span class="description">The author mentions an architectural setting in the passage in order to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ suggest that architecture was as important as sculpture to Egyptian artists
+      <input type="radio"  name="answer-6" value="A">
+         suggest that architecture was as important as sculpture to Egyptian artists
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ offer 3 further explanation for the frontal pose of Egyptian statues
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+         offer 3 further explanation for the frontal pose of Egyptian statues
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ explain how the display of statues replaced other forms of architectural decoration
+      <input type="radio"  name="answer-6" value="C">
+         explain how the display of statues replaced other forms of architectural decoration
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ illustrate the religious function of Egyptian statues
+      <input type="radio"  name="answer-6" value="D">
+         illustrate the religious function of Egyptian statues
       </input>
     </li>
 </ul>
 
-<span class="description">7. The word they in the passage refers to</span>
+<span class="description">The word they in the passage refers to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ statues
+      <input type="radio" class="right-answer" name="answer-7" value="A">
+         statues
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ gateways
+      <input type="radio"  name="answer-7" value="B">
+         gateways
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ temples
+      <input type="radio"  name="answer-7" value="C">
+         temples
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ pillared courts
+      <input type="radio"  name="answer-7" value="D">
+         pillared courts
       </input>
     </li>
 </ul>
 
-<span class="description">8. According to paragraph 3, why were certain areas of a stone statue left uncarved?</span>
+<span class="description">According to paragraph 3, why were certain areas of a stone statue left uncarved?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ To prevent damage by providing physical stability
+      <input type="radio" class="right-answer" name="answer-8" value="A">
+         To prevent damage by providing physical stability
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ To emphasize that the material was as important as the figure itself
+      <input type="radio"  name="answer-8" value="B">
+         To emphasize that the material was as important as the figure itself
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ To emphasize that the figure was not meant to be a real human being
+      <input type="radio"  name="answer-8" value="C">
+         To emphasize that the figure was not meant to be a real human being
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ To provide another artist with the chance to finish the carving
+      <input type="radio"  name="answer-8" value="D">
+         To provide another artist with the chance to finish the carving
       </input>
     </li>
 </ul>
 
-<span class="description">9. The word core in the passage is closest in meaning to</span>
+<span class="description">The word core in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ material
+      <input type="radio"  name="answer-9" value="A">
+         material
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ layer
+      <input type="radio"  name="answer-9" value="B">
+         layer
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ center
+      <input type="radio" class="right-answer" name="answer-9" value="C">
+         center
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ frame
+      <input type="radio"  name="answer-9" value="D">
+         frame
       </input>
     </li>
 </ul>
 
-<span class="description">10. According to paragraph 3, which of the following statements about wooden statues is true?</span>
+<span class="description">According to paragraph 3, which of the following statements about wooden statues is true?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ Wooden statues were usually larger than stone statues.
+      <input type="radio"  name="answer-10" value="A">
+         Wooden statues were usually larger than stone statues.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ Wooden statues were made from a single piece of wood.
+      <input type="radio"  name="answer-10" value="B">
+         Wooden statues were made from a single piece of wood.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ Wooden statues contained pieces of metal or stone attached to the front.
+      <input type="radio"  name="answer-10" value="C">
+         Wooden statues contained pieces of metal or stone attached to the front.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Wooden statues had a different effect on the viewer than stone statues.
+      <input type="radio" class="right-answer" name="answer-10" value="D">
+         Wooden statues had a different effect on the viewer than stone statues.
       </input>
     </li>
 </ul>
 
-<span class="description">11. The word depicts in the passage is closest in meaning to</span>
+<span class="description">The word depicts in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ imagines
+      <input type="radio"  name="answer-11" value="A">
+         imagines
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ classifies
+      <input type="radio"  name="answer-11" value="B">
+         classifies
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ elevates
+      <input type="radio"  name="answer-11" value="C">
+         elevates
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ portrays
+      <input type="radio" class="right-answer" name="answer-11" value="D">
+         portrays
       </input>
     </li>
 </ul>
 
-<span class="description">12. According to paragraph 4, what is the difference between statues that represent the Egyptian elite and statues that represent the nonelite classes?</span>
+<span class="description">According to paragraph 4, what is the difference between statues that represent the Egyptian elite and statues that represent the nonelite classes?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ Statues of the elite are included in tombs, but statues of the nonelite are not.
+      <input type="radio"  name="answer-12" value="A">
+         Statues of the elite are included in tombs, but statues of the nonelite are not.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ Statues of the elite are in motionless poses, while statues of the nonelite are in active poses.
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+         Statues of the elite are in motionless poses, while statues of the nonelite are in active poses.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ Statues of the elite are shown standing, while statues of the nonelite are shown sitting or kneeling
+      <input type="radio"  name="answer-12" value="C">
+         Statues of the elite are shown standing, while statues of the nonelite are shown sitting or kneeling
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Statues of the elite serve an important function, while statues of the nonelite are decorative
+      <input type="radio"  name="answer-12" value="D">
+         Statues of the elite serve an important function, while statues of the nonelite are decorative
       </input>
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.In fact, it is the action and not the figure itself that is important.Where would the sentence best fit?</span>
+<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
+<b>In fact, it is the action and not the figure itself that is important.</b>
+Where would the sentence best fit?</span>
 <ul>
 </ul>
 
-<span class="description">14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.The distinctive look of ancient Egyptian sculpture was determined largely by its function.Answer Choices</span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.The distinctive look of ancient Egyptian sculpture was determined largely by its function.Answer Choices</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ The twisted forms of Egyptian statues indicate their importance in ritual actions.
+      <input type="radio"  name="answer-14" value="A">
+         The twisted forms of Egyptian statues indicate their importance in ritual actions.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ The reason Egyptian statues are motionless is linked to their central role in cultural rituals.
+      <input type="radio" class="right-answer" name="answer-14" value="B">
+         The reason Egyptian statues are motionless is linked to their central role in cultural rituals.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ Stone, wood, and metal statues all display the feature of frontality.
+      <input type="radio" class="right-answer" name="answer-14" value="C">
+         Stone, wood, and metal statues all display the feature of frontality.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Statues were more often designed to be viewed in isolation rather than placed within buildings.
+      <input type="radio"  name="answer-14" value="D">
+         Statues were more often designed to be viewed in isolation rather than placed within buildings.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-5" value="E">
-        ○ The contrasting poses used in statues of elite and nonelite Egyptians reveal their difference in social status.
+      <input type="radio" class="right-answer" name="answer-14" value="E">
+         The contrasting poses used in statues of elite and nonelite Egyptians reveal their difference in social status.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-6" value="F">
-        ○ Although the appearances of formal and generic statues differ, they share the same function.
+      <input type="radio"  name="answer-14" value="F">
+         Although the appearances of formal and generic statues differ, they share the same function.
       </input>
     </li>
 </ul>

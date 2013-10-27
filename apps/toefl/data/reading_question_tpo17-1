@@ -1,296 +1,298 @@
-<span class="description">1. The word impetus in the passage is closest in meaning to</span>
+<span class="description">The word impetus in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Return
+      <input type="radio"  name="answer-1" value="A">
+        Return
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Opportunity
+      <input type="radio"  name="answer-1" value="B">
+        pportunity
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Stimulus
+      <input type="radio" class="right-answer" name="answer-1" value="C">
+        Stimulus
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Obstacle
+      <input type="radio"  name="answer-1" value="D">
+        bstacle
       </input>
     </li>
 </ul>
 
-<span class="description">2. According to paragraph 1 why was it necessary to find a new way for European merchants to reach the East?</span>
+<span class="description">According to paragraph 1 why was it necessary to find a new way for European merchants to reach the East?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○People in China were finally ready to trade with Europeans
+      <input type="radio"  name="answer-2" value="A">
+        People in China were finally ready to trade with Europeans
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The European economy was failing because there was no trade with the East
+      <input type="radio"  name="answer-2" value="B">
+        The European economy was failing because there was no trade with the East
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Traditional ways of trading with the East had becomevery costly
+      <input type="radio"  name="answer-2" value="C">
+        Traditional ways of trading with the East had becomevery costly
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Commercial routes over land had become blocked because of political events
+      <input type="radio" class="right-answer" name="answer-2" value="D">
+        Commercial routes over land had become blocked because of political events
       </input>
     </li>
 </ul>
 
-<span class="description">3. According to paragraph 2. what was the main difficulty Europeans had to overcome in order to develop a new way of trading with the East?</span>
+<span class="description">According to paragraph 2. what was the main difficulty Europeans had to overcome in order to develop a new way of trading with the East?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Europeans were unwilling to invest in large-scale commercial ventures.
+      <input type="radio"  name="answer-3" value="A">
+        Europeans were unwilling to invest in large-scale commercial ventures.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Europeans lacked the means for navigating long distances across oceans.
+      <input type="radio" class="right-answer" name="answer-3" value="B">
+        Europeans lacked the means for navigating long distances across oceans.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Europeans were unwilling to experiment with new business techniques.
+      <input type="radio"  name="answer-3" value="C">
+        Europeans were unwilling to experiment with new business techniques.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Europeans lacked knowledge about the commercial methods of other peoples.
+      <input type="radio"  name="answer-3" value="D">
+        Europeans lacked knowledge about the commercial methods of other peoples.
       </input>
     </li>
 </ul>
 
-<span class="description">4. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○The high cost to investors of developing trade by sea between East and West indicates the great size of the profits that such trade could produce.
+      <input type="radio" class="right-answer" name="answer-4" value="A">
+        The high cost to investors of developing trade by sea between East and West indicates the great size of the profits that such trade could produce.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The profits that could be created by sea trade between East and West were immense compared with the investment required to develop such trade.
+      <input type="radio"  name="answer-4" value="B">
+        The profits that could be created by sea trade between East and West were immense compared with the investment required to develop such trade.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The increase in commercial activity by using sea routes reflects the importance trade between East and West had for investors seeking great profits.
+      <input type="radio"  name="answer-4" value="C">
+        The increase in commercial activity by using sea routes reflects the importance trade between East and West had for investors seeking great profits.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Because people made large investments in sea commerce between East and West. They expected to make immense profits.
+      <input type="radio"  name="answer-4" value="D">
+        Because people made large investments in sea commerce between East and West. They expected to make immense profits.
       </input>
     </li>
 </ul>
 
-<span class="description">5. The word dramatically in the passage is closest in meaning to</span>
+<span class="description">The word dramatically in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Artificially
+      <input type="radio"  name="answer-5" value="A">
+        Artificially
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Greatly
+      <input type="radio" class="right-answer" name="answer-5" value="B">
+        Greatly
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Immediately
+      <input type="radio"  name="answer-5" value="C">
+        Immediately
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Regularly
+      <input type="radio"  name="answer-5" value="D">
+        Regularly
       </input>
     </li>
 </ul>
 
-<span class="description">6. It can be inferred from paragraph 2 that spices from Asia were desirable in Europe in the Middle Ages because they</span>
+<span class="description">It can be inferred from paragraph 2 that spices from Asia were desirable in Europe in the Middle Ages because they</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○were easily transported in large quantities
+      <input type="radio"  name="answer-6" value="A">
+        were easily transported in large quantities
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○could not be produced in European countries
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+        could not be produced in European countries
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○could be traded for products such as perfumes and medicines
+      <input type="radio"  name="answer-6" value="C">
+        could be traded for products such as perfumes and medicines
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○were expected to increase in value over time
+      <input type="radio"  name="answer-6" value="D">
+        were expected to increase in value over time
       </input>
     </li>
 </ul>
 
-<span class="description">7. According to paragraph 3, all of the following statements comparing the caravel with the galley are true EXCEPT:</span>
+<span class="description">According to paragraph 3, all of the following statements comparing the caravel with the galley are true EXCEPT:</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○The caravel had fewer masts than the galley.
+      <input type="radio" class="right-answer" name="answer-7" value="A">
+        The caravel had fewer masts than the galley.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The caravel had a wider hull than the galley.
+      <input type="radio"  name="answer-7" value="B">
+        The caravel had a wider hull than the galley.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The caravel could carry more cargo than the galley.
+      <input type="radio"  name="answer-7" value="C">
+        The caravel could carry more cargo than the galley.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○The caravel was more stable in rough water than the galley.
+      <input type="radio"  name="answer-7" value="D">
+        The caravel was more stable in rough water than the galley.
       </input>
     </li>
 </ul>
 
-<span class="description">8. According to paragraph 3, what did the lateen sail contribute to the caravel as a sailing ship?</span>
+<span class="description">According to paragraph 3, what did the lateen sail contribute to the caravel as a sailing ship?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○It provided stability for the front part of the ship.
+      <input type="radio"  name="answer-8" value="A">
+        It provided stability for the front part of the ship.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○It made it possible for the hull to be wider and deeper.
+      <input type="radio"  name="answer-8" value="B">
+        It made it possible for the hull to be wider and deeper.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○It added considerably to the speed of the wind-driven ship.
+      <input type="radio"  name="answer-8" value="C">
+        It added considerably to the speed of the wind-driven ship.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○It improved the capacity of the ship to be guided.
+      <input type="radio" class="right-answer" name="answer-8" value="D">
+        It improved the capacity of the ship to be guided.
       </input>
     </li>
 </ul>
 
-<span class="description">9. Why does the author include the information that Western Europeans had developed and put into use the magnetic compass</span>
+<span class="description">Why does the author include the information that Western Europeans had developed and put into use the magnetic compass</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○To provide an example of an instrument that was developed after caravels had begun traveling across oceans
+      <input type="radio"  name="answer-9" value="A">
+        To provide an example of an instrument that was developed after caravels had begun traveling across oceans
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○To provide an example of an improvement that resulted directly from the invention of the astrolabe
+      <input type="radio"  name="answer-9" value="B">
+        To provide an example of an improvement that resulted directly from the invention of the astrolabe
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○To identify one of the technological advances that made sea trade with the East possible
+      <input type="radio" class="right-answer" name="answer-9" value="C">
+        To identify one of the technological advances that made sea trade with the East possible
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○To explain how the problem of determining longitude was solved
+      <input type="radio"  name="answer-9" value="D">
+        To explain how the problem of determining longitude was solved
       </input>
     </li>
 </ul>
 
-<span class="description">10. The word refined in the passage is closest in meaning to</span>
+<span class="description">The word refined in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Completed
+      <input type="radio"  name="answer-10" value="A">
+        Completed
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Improved
+      <input type="radio" class="right-answer" name="answer-10" value="B">
+        Improved
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Drawn
+      <input type="radio"  name="answer-10" value="C">
+        Drawn
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Checked
+      <input type="radio"  name="answer-10" value="D">
+        Checked
       </input>
     </li>
 </ul>
 
-<span class="description">11. The word norms in the passage is closest in meaning to</span>
+<span class="description">The word norms in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○purposes
+      <input type="radio"  name="answer-11" value="A">
+        purposes
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○skills
+      <input type="radio"  name="answer-11" value="B">
+        skills
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○activities
+      <input type="radio"  name="answer-11" value="C">
+        activities
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○rules
+      <input type="radio" class="right-answer" name="answer-11" value="D">
+        rules
       </input>
     </li>
 </ul>
 
-<span class="description">12. According to paragraph 4, which of the following is true of the maritime code developed in Europe in the fourteenth century?</span>
+<span class="description">According to paragraph 4, which of the following is true of the maritime code developed in Europe in the fourteenth century?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○It mapped out lanes in the seas for trading ships to follow.
+      <input type="radio"  name="answer-12" value="A">
+        It mapped out lanes in the seas for trading ships to follow.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○It defined the ways in which people should behave at sea.
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        It defined the ways in which people should behave at sea.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○It replaced an earlier code that could not be adapted to the sea trade with the East.
+      <input type="radio"  name="answer-12" value="C">
+        It replaced an earlier code that could not be adapted to the sea trade with the East.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○It gave instructions on how to navigate a ship.
+      <input type="radio"  name="answer-12" value="D">
+        It gave instructions on how to navigate a ship.
       </input>
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.They were highly valued for a couple of reasons.Where would the sentence best fit?</span>
+<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
+<b>They were highly valued for a couple of reasons.</b>
+Where would the sentence best fit?</span>
 <ul>
 </ul>
 
-<span class="description">14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Because land routes to Asia had been cut off in the fourteenth century. Europeans had to find a new way to trade with Asia.Answer Choices1. Reports by travelers indicated that people in Asia were interested in renewing trade with Europeans.2. For trade in Asian goods such as spices to be profitable.3. European galleys were able to bring Asian goods across the these items needed to be transported in large quantities by​Indian Ocean and around the African coastline.4. Wind-driven caravels were developed to carry cargo across the oceans.5. The development of maps. navigational instruments. and a maritime code of conduct provided crucial elements for long-distance navigation.6. Europeans wanted to import spices from Asia in order to improve the taste of food and to make perfumes and medicines.</span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Because land routes to Asia had been cut off in the fourteenth century. Europeans had to find a new way to trade with Asia.Answer Choices1. Reports by travelers indicated that people in Asia were interested in renewing trade with Europeans.2. For trade in Asian goods such as spices to be profitable.3. European galleys were able to bring Asian goods across the these items needed to be transported in large quantities by​Indian Ocean and around the African coastline.4. Wind-driven caravels were developed to carry cargo across the oceans.5. The development of maps. navigational instruments. and a maritime code of conduct provided crucial elements for long-distance navigation.6. Europeans wanted to import spices from Asia in order to improve the taste of food and to make perfumes and medicines.</span>
 <ul>
 </ul>
 

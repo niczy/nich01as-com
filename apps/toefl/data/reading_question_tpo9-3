@@ -1,325 +1,327 @@
-<span class="description">1. The phrase at random in the passage is closest in meaning to</span>
+<span class="description">The phrase at random in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○finally
+      <input type="radio"  name="answer-1" value="A">
+        finally
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○over a long period of time
+      <input type="radio"  name="answer-1" value="B">
+        over a long period of time
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○successfully
+      <input type="radio"  name="answer-1" value="C">
+        successfully
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○without a definite pattern
+      <input type="radio" class="right-answer" name="answer-1" value="D">
+        without a definite pattern
       </input>
     </li>
 </ul>
 
-<span class="description">2. It can be inferred from paragraph 2 that the fungi in lichens benefit from their symbiotic relationship with algae in what way?</span>
+<span class="description">It can be inferred from paragraph 2 that the fungi in lichens benefit from their symbiotic relationship with algae in what way?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○The algae help the fungi meet some of their energy needs.
+      <input type="radio" class="right-answer" name="answer-2" value="A">
+        The algae help the fungi meet some of their energy needs.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The algae protect the fungi from the Sun's radiation.
+      <input type="radio"  name="answer-2" value="B">
+        The algae protect the fungi from the Sun's radiation.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The algae provide the fungi with greater space for absorbing water.
+      <input type="radio"  name="answer-2" value="C">
+        The algae provide the fungi with greater space for absorbing water.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○The fungi produce less waste in the presence of algae.
+      <input type="radio"  name="answer-2" value="D">
+        The fungi produce less waste in the presence of algae.
       </input>
     </li>
 </ul>
 
-<span class="description">3. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Some of the earliest important examples of symbiosis-the close cooperation of two or more living things-occur in island communities.
+      <input type="radio"  name="answer-3" value="A">
+        Some of the earliest important examples of symbiosis-the close cooperation of two or more living things-occur in island communities.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Symbiosis-the close cooperation of pairs or small groups of living organisms-is especially important in these island environments.
+      <input type="radio"  name="answer-3" value="B">
+        Symbiosis-the close cooperation of pairs or small groups of living organisms-is especially important in these island environments.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The first organisms on these islands worked together closely in a relationship known as symbiosis, which is particularly important on islands.
+      <input type="radio" class="right-answer" name="answer-3" value="C">
+        The first organisms on these islands worked together closely in a relationship known as symbiosis, which is particularly important on islands.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○It is significant to note that organisms in the beginning stages of the development of island life cannot survive without close cooperation.
+      <input type="radio"  name="answer-3" value="D">
+        It is significant to note that organisms in the beginning stages of the development of island life cannot survive without close cooperation.
       </input>
     </li>
 </ul>
 
-<span class="description">4. The word abundantly in the passage is closest in meaning to</span>
+<span class="description">The word abundantly in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○occasionally
+      <input type="radio"  name="answer-4" value="A">
+        occasionally
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○plentifully
+      <input type="radio" class="right-answer" name="answer-4" value="B">
+        plentifully
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○usefully
+      <input type="radio"  name="answer-4" value="C">
+        usefully
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○fortunately
+      <input type="radio"  name="answer-4" value="D">
+        fortunately
       </input>
     </li>
 </ul>
 
-<span class="description">5. The word propagate in the passage is closest in meaning to</span>
+<span class="description">The word propagate in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○multiply
+      <input type="radio" class="right-answer" name="answer-5" value="A">
+        multiply
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○emerge
+      <input type="radio"  name="answer-5" value="B">
+        emerge
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○live
+      <input type="radio"  name="answer-5" value="C">
+        live
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○evolve
+      <input type="radio"  name="answer-5" value="D">
+        evolve
       </input>
     </li>
 </ul>
 
-<span class="description">6. According to paragraph 3, what was the relationship between lichens and ferns in the development of plant life on Hawaii?</span>
+<span class="description">According to paragraph 3, what was the relationship between lichens and ferns in the development of plant life on Hawaii?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Ferns were able to grow because lichens created suitable soil.
+      <input type="radio" class="right-answer" name="answer-6" value="A">
+        Ferns were able to grow because lichens created suitable soil.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The decomposition of ferns produced minerals that were used by lichens.
+      <input type="radio"  name="answer-6" value="B">
+        The decomposition of ferns produced minerals that were used by lichens.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Lichens and ferns competed to grow in the same rocky environments.
+      <input type="radio"  name="answer-6" value="C">
+        Lichens and ferns competed to grow in the same rocky environments.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Lichens and ferns were typically found together in volcanic areas.
+      <input type="radio"  name="answer-6" value="D">
+        Lichens and ferns were typically found together in volcanic areas.
       </input>
     </li>
 </ul>
 
-<span class="description">7. The word This in the passage refers to</span>
+<span class="description">The word This in the passage refers to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○the spread of ferns and mosses in Hawaii
+      <input type="radio"  name="answer-7" value="A">
+        the spread of ferns and mosses in Hawaii
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○the creation of the Hawaiian Islands
+      <input type="radio"  name="answer-7" value="B">
+        the creation of the Hawaiian Islands
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○the evolution of ferns
+      <input type="radio"  name="answer-7" value="C">
+        the evolution of ferns
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○the development of plants that produce seeds
+      <input type="radio" class="right-answer" name="answer-7" value="D">
+        the development of plants that produce seeds
       </input>
     </li>
 </ul>
 
-<span class="description">8. According to paragraph 4, why do seeds have a greater chance of survival than spores do? To receive credit, you must select TWO answer choices.</span>
+<span class="description">According to paragraph 4, why do seeds have a greater chance of survival than spores do? To receive credit, you must select TWO answer choices.</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Seeds need less water to grow into a mature plant than spores do.
+      <input type="radio"  name="answer-8" value="A">
+        Seeds need less water to grow into a mature plant than spores do.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Seeds do not need to rely on outside sources of nutrients.
+      <input type="radio" class="right-answer" name="answer-8" value="B">
+        Seeds do not need to rely on outside sources of nutrients.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Seeds are better protected from environmental dangers than spores are.
+      <input type="radio"  name="answer-8" value="C">
+        Seeds are better protected from environmental dangers than spores are.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Seeds are heavier than spores and are therefore more likely to take root and grow.
+      <input type="radio"  name="answer-8" value="D">
+        Seeds are heavier than spores and are therefore more likely to take root and grow.
       </input>
     </li>
 </ul>
 
-<span class="description">9. Why does the author mention a nut, a peach, and a cherry?</span>
+<span class="description">Why does the author mention a nut, a peach, and a cherry?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○To indicate that some seeds are less likely to survive than others
+      <input type="radio"  name="answer-9" value="A">
+        To indicate that some seeds are less likely to survive than others
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○To point out that many angiosperms can be eaten
+      <input type="radio"  name="answer-9" value="B">
+        To point out that many angiosperms can be eaten
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○To provide examples of blooming plants
+      <input type="radio"  name="answer-9" value="C">
+        To provide examples of blooming plants
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○To illustrate the variety of coverings among angiosperm seeds
+      <input type="radio" class="right-answer" name="answer-9" value="D">
+        To illustrate the variety of coverings among angiosperm seeds
       </input>
     </li>
 </ul>
 
-<span class="description">10. The word dormant in the passage is closest in meaning to</span>
+<span class="description">The word dormant in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○hidden
+      <input type="radio"  name="answer-10" value="A">
+        hidden
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○inactive
+      <input type="radio" class="right-answer" name="answer-10" value="B">
+        inactive
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○underground
+      <input type="radio"  name="answer-10" value="C">
+        underground
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○preserved
+      <input type="radio"  name="answer-10" value="D">
+        preserved
       </input>
     </li>
 </ul>
 
-<span class="description">11. According to paragraph 5, a major reason that coconuts can establish themselves in distant locations is that their seeds can</span>
+<span class="description">According to paragraph 5, a major reason that coconuts can establish themselves in distant locations is that their seeds can</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○survive long exposure to heat on island beaches
+      <input type="radio"  name="answer-11" value="A">
+        survive long exposure to heat on island beaches
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○float and survive for long periods in ocean water
+      <input type="radio" class="right-answer" name="answer-11" value="B">
+        float and survive for long periods in ocean water
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○use saltwater for maintenance and growth
+      <input type="radio"  name="answer-11" value="C">
+        use saltwater for maintenance and growth
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○maintain hard, protective coats even after growing roots
+      <input type="radio"  name="answer-11" value="D">
+        maintain hard, protective coats even after growing roots
       </input>
     </li>
 </ul>
 
-<span class="description">12. According to the passage, which of the following characteristics do spores and seeds have in common?</span>
+<span class="description">According to the passage, which of the following characteristics do spores and seeds have in common?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○They may be surrounded by several layers of covering
+      <input type="radio"  name="answer-12" value="A">
+        They may be surrounded by several layers of covering
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○They are produced by flowering plants.
+      <input type="radio"  name="answer-12" value="B">
+        They are produced by flowering plants.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○They may be spread by wind.
+      <input type="radio" class="right-answer" name="answer-12" value="C">
+        They may be spread by wind.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○They are able to grow in barren soils.
+      <input type="radio"  name="answer-12" value="D">
+        They are able to grow in barren soils.
       </input>
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.So since the chances of survival for any individual spore are small, the plants have to produce many spores in order to propagate.Where could the sentence best fit?</span>
+<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
+<b>So since the chances of survival for any individual spore are small, the plants have to produce many spores in order to propagate.</b>
+Where could the sentence best fit?</span>
 <ul>
 </ul>
 
-<span class="description">14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.After the formation of the Hawaiian Islands, much time passed before conditions were suitable for plant life.Answers Choices</span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.After the formation of the Hawaiian Islands, much time passed before conditions were suitable for plant life.Answers Choices</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Algae are classified as symbiotic because they produce energy through the process of photosynthesis.
+      <input type="radio"  name="answer-14" value="A">
+        Algae are classified as symbiotic because they produce energy through the process of photosynthesis.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The first successful plants on Hawaii were probably lichens, which consist of algae and fungi living in a symbiotic relationship.
+      <input type="radio" class="right-answer" name="answer-14" value="B">
+        The first successful plants on Hawaii were probably lichens, which consist of algae and fungi living in a symbiotic relationship.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Lichens helped create favorable conditions for the growth of spore-producing plants such as ferns and mosses.
+      <input type="radio" class="right-answer" name="answer-14" value="C">
+        Lichens helped create favorable conditions for the growth of spore-producing plants such as ferns and mosses.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Seed-bearing plants evolved much later than spore-producing plants, but both types of plants had evolved well before the formation of the Hawaiian Islands.
+      <input type="radio"  name="answer-14" value="D">
+        Seed-bearing plants evolved much later than spore-producing plants, but both types of plants had evolved well before the formation of the Hawaiian Islands.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-5" value="E">
-        ○Unlike spores, seeds must move to new habitats in order to have a strong chance of survival and growth.
+      <input type="radio"  name="answer-14" value="E">
+        Unlike spores, seeds must move to new habitats in order to have a strong chance of survival and growth.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-6" value="F">
-        ○Seed-bearing plants arrived and spread quickly in Hawaii, thanks to characteristics that increased their seeds’ ability to survive and to move to different areas.
+      <input type="radio" class="right-answer" name="answer-14" value="F">
+        Seed-bearing plants arrived and spread quickly in Hawaii, thanks to characteristics that increased their seeds’ ability to survive and to move to different areas.
       </input>
     </li>
 </ul>

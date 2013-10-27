@@ -1,325 +1,327 @@
-<span class="description">1.​The word traumatic meaning to</span>
+<span class="description">​The word traumatic meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Essential
+      <input type="radio"  name="answer-1" value="A">
+        Essential
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○highly stressful
+      <input type="radio" class="right-answer" name="answer-1" value="B">
+        highly stressful
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○highly unusual
+      <input type="radio"  name="answer-1" value="C">
+        highly unusual
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○unwise
+      <input type="radio"  name="answer-1" value="D">
+        unwise
       </input>
     </li>
 </ul>
 
-<span class="description">2.​The word intense in the passage is closest in meaning to</span>
+<span class="description">​The word intense in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○strong
+      <input type="radio" class="right-answer" name="answer-2" value="A">
+        strong
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○questionable
+      <input type="radio"  name="answer-2" value="B">
+        questionable
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○obvious
+      <input type="radio"  name="answer-2" value="C">
+        obvious
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○deliberate
+      <input type="radio"  name="answer-2" value="D">
+        deliberate
       </input>
     </li>
 </ul>
 
-<span class="description">3. According to paragraph 1, before the thirteenth century the people of southwestern North America lived in households that</span>
+<span class="description">According to paragraph 1, before the thirteenth century the people of southwestern North America lived in households that</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○shared daily chores with neighboring households
+      <input type="radio"  name="answer-3" value="A">
+        shared daily chores with neighboring households
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○occupied dwellings that were built into the sides of cliffs
+      <input type="radio"  name="answer-3" value="B">
+        occupied dwellings that were built into the sides of cliffs
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○were largely free to conduct their lives as they pleased
+      <input type="radio" class="right-answer" name="answer-3" value="C">
+        were largely free to conduct their lives as they pleased
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○enforced common standards of behavior and cooperative conduct within their communities
+      <input type="radio"  name="answer-3" value="D">
+        enforced common standards of behavior and cooperative conduct within their communities
       </input>
     </li>
 </ul>
 
-<span class="description">4.  Which of the following best indicates the organization of paragraph 1?</span>
+<span class="description">Which of the following best indicates the organization of paragraph 1?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○It presents the conditions that caused a change in a population' s living patterns and then explains why those conditions got worse.
+      <input type="radio"  name="answer-4" value="A">
+        It presents the conditions that caused a change in a population' s living patterns and then explains why those conditions got worse.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○It identifies certain present-day cultural traditions and rules and then traces them to their roots in the thirteenth century.
+      <input type="radio"  name="answer-4" value="B">
+        It identifies certain present-day cultural traditions and rules and then traces them to their roots in the thirteenth century.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○It casts doubt on one explanation of the move to pueblos and then introduces an alternative explanation that the passage will defend.
+      <input type="radio"  name="answer-4" value="C">
+        It casts doubt on one explanation of the move to pueblos and then introduces an alternative explanation that the passage will defend.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○It describes a major change in a population' s living patterns and then presents a number of problems that resulted from that change.
+      <input type="radio" class="right-answer" name="answer-4" value="D">
+        It describes a major change in a population' s living patterns and then presents a number of problems that resulted from that change.
       </input>
     </li>
 </ul>
 
-<span class="description">5. According to paragraph 3, which of the following was one of the consequences of increasing population densities?</span>
+<span class="description">According to paragraph 3, which of the following was one of the consequences of increasing population densities?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ People were increasingly crowded into collections of large housing units.
+      <input type="radio" class="right-answer" name="answer-5" value="A">
+         People were increasingly crowded into collections of large housing units.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○People stopped planting crops that have relatively low yields.
+      <input type="radio"  name="answer-5" value="B">
+        People stopped planting crops that have relatively low yields.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Domestic buildings were pushed beyond the canyon limits.
+      <input type="radio"  name="answer-5" value="C">
+        Domestic buildings were pushed beyond the canyon limits.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○The natural landscape was destroyed.
+      <input type="radio"  name="answer-5" value="D">
+        The natural landscape was destroyed.
       </input>
     </li>
 </ul>
 
-<span class="description">6.​Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<span class="description">​Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Some scholars even claim that the intensification of farmers' various efforts during the 1200s led to further population growth and the consequent need for more arable land.
+      <input type="radio"  name="answer-6" value="A">
+        Some scholars even claim that the intensification of farmers' various efforts during the 1200s led to further population growth and the consequent need for more arable land.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Evidence of intensifying agriculture in the 1200s indicates a need to feed a larger population and so extends the argument that a growing population was the cause of the move to pueblos.
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+        Evidence of intensifying agriculture in the 1200s indicates a need to feed a larger population and so extends the argument that a growing population was the cause of the move to pueblos.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○During the 1200s, farmers met the demand for more arable land, but they also succeeded in cultivating existing land more intensively with the help of agricultural construction projects.
+      <input type="radio"  name="answer-6" value="C">
+        During the 1200s, farmers met the demand for more arable land, but they also succeeded in cultivating existing land more intensively with the help of agricultural construction projects.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Some scholars feel strongly that the construction of small dams, reservoirs, terraces, and field houses in the thirteenth century is independent evidence for growth in the number of people.
+      <input type="radio"  name="answer-6" value="D">
+        Some scholars feel strongly that the construction of small dams, reservoirs, terraces, and field houses in the thirteenth century is independent evidence for growth in the number of people.
       </input>
     </li>
 </ul>
 
-<span class="description">7. The word transition in the passage is closest in meaning to</span>
+<span class="description">The word transition in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○change
+      <input type="radio" class="right-answer" name="answer-7" value="A">
+        change
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○climate
+      <input type="radio"  name="answer-7" value="B">
+        climate
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○decline
+      <input type="radio"  name="answer-7" value="C">
+        decline
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○problem
+      <input type="radio"  name="answer-7" value="D">
+        problem
       </input>
     </li>
 </ul>
 
-<span class="description">8.​Why does the author state that "Growing food at these elevations is always difficult because of the short growing season"?</span>
+<span class="description">​Why does the author state that "Growing food at these elevations is always difficult because of the short growing season"?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○To explain why the higher elevations were always relatively sparsely populated
+      <input type="radio"  name="answer-8" value="A">
+        To explain why the higher elevations were always relatively sparsely populated
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○To suggest that any worsening of conditions would have significant consequences
+      <input type="radio" class="right-answer" name="answer-8" value="B">
+        To suggest that any worsening of conditions would have significant consequences
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○To emphasize how resourceful the people growing food at these elevations were
+      <input type="radio"  name="answer-8" value="C">
+        To emphasize how resourceful the people growing food at these elevations were
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○To argue that farming was not the primary source of food at high elevations
+      <input type="radio"  name="answer-8" value="D">
+        To argue that farming was not the primary source of food at high elevations
       </input>
     </li>
 </ul>
 
-<span class="description">9.​According to paragraph 4, what did farmers do in response to falling temperatures during the Little Ice Age?</span>
+<span class="description">​According to paragraph 4, what did farmers do in response to falling temperatures during the Little Ice Age?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Moved to areas away from Mesa Verde
+      <input type="radio"  name="answer-9" value="A">
+        Moved to areas away from Mesa Verde
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Moved closer to the northeastern part of Mesa Verde
+      <input type="radio"  name="answer-9" value="B">
+        Moved closer to the northeastern part of Mesa Verde
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Began to cultivate crops adapted to a short growing season
+      <input type="radio"  name="answer-9" value="C">
+        Began to cultivate crops adapted to a short growing season
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Gave up the cultivation of the highest-lying lands
+      <input type="radio" class="right-answer" name="answer-9" value="D">
+        Gave up the cultivation of the highest-lying lands
       </input>
     </li>
 </ul>
 
-<span class="description">10.​According to paragraph 5, major ceremonial events were occasions for</span>
+<span class="description">​According to paragraph 5, major ceremonial events were occasions for</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○leaders to persuade people from the countryside to move into a pueblo
+      <input type="radio"  name="answer-10" value="A">
+        leaders to persuade people from the countryside to move into a pueblo
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○farmers to collect information about where crops could be reliably grown
+      <input type="radio"  name="answer-10" value="B">
+        farmers to collect information about where crops could be reliably grown
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○people to develop better techniques for producing pottery and crafts
+      <input type="radio"  name="answer-10" value="C">
+        people to develop better techniques for producing pottery and crafts
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○people in the early Puebloan era to share farm and craft products
+      <input type="radio" class="right-answer" name="answer-10" value="D">
+        people in the early Puebloan era to share farm and craft products
       </input>
     </li>
 </ul>
 
-<span class="description">11.​According to paragraph 5, which of the following was a reason people in the Mesa Verde area formed communal villages in the thirteenth century?</span>
+<span class="description">​According to paragraph 5, which of the following was a reason people in the Mesa Verde area formed communal villages in the thirteenth century?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○The climate in the Mesa Verde area became more locally diverse.
+      <input type="radio"  name="answer-11" value="A">
+        The climate in the Mesa Verde area became more locally diverse.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Individuals were no longer interested in exchanging pottery and food.
+      <input type="radio"  name="answer-11" value="B">
+        Individuals were no longer interested in exchanging pottery and food.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Cooperation between people became more important for survival.
+      <input type="radio" class="right-answer" name="answer-11" value="C">
+        Cooperation between people became more important for survival.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Bad years of farming began to occur more frequently.
+      <input type="radio"  name="answer-11" value="D">
+        Bad years of farming began to occur more frequently.
       </input>
     </li>
 </ul>
 
-<span class="description">12.​Paragraph 5 supports which of the following statements about cooperation among the people in the Mesa Verde area from the eleventh through the thirteenth century?</span>
+<span class="description">​Paragraph 5 supports which of the following statements about cooperation among the people in the Mesa Verde area from the eleventh through the thirteenth century?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ Cooperation allowed many households to give up farming and to specialize in making pottery and crafts.
+      <input type="radio"  name="answer-12" value="A">
+         Cooperation allowed many households to give up farming and to specialize in making pottery and crafts.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○People went from exchanging food and crafts they individually produced to sharing in a cooperative effort to produce as much food as possible.
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        People went from exchanging food and crafts they individually produced to sharing in a cooperative effort to produce as much food as possible.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ Overtime there was less cooperation as farmers competed with each other for trade with distant areas.
+      <input type="radio"  name="answer-12" value="C">
+         Overtime there was less cooperation as farmers competed with each other for trade with distant areas.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Individuals stopped cooperating with each other because they did not have enough food for themselves.
+      <input type="radio"  name="answer-12" value="D">
+         Individuals stopped cooperating with each other because they did not have enough food for themselves.
       </input>
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.Performing everyday household tasks required more effort.Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
+<span class="description">13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
+<b>Performing everyday household tasks required more effort.</b>
+Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
 </ul>
 
-<span class="description">14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some      sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage.This question is worth 2 points.In the thirteenth century, the people in the Mesa Verde area went from living in scattered independent households to living in large pueblos.Answer Choices</span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some      sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage.This question is worth 2 points.In the thirteenth century, the people in the Mesa Verde area went from living in scattered independent households to living in large pueblos.Answer Choices</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Because the thirteenth-century inhabitants of the Mesa Verde area did not have the cultural expectations of today's city dwellers, they easily adapted to communal life.
+      <input type="radio"  name="answer-14" value="A">
+        Because the thirteenth-century inhabitants of the Mesa Verde area did not have the cultural expectations of today's city dwellers, they easily adapted to communal life.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Even though living in pueblos had disadvantages, the population of the area had grown so large that there may have been no other arrangement that would have met its needs.
+      <input type="radio"  name="answer-14" value="B">
+        Even though living in pueblos had disadvantages, the population of the area had grown so large that there may have been no other arrangement that would have met its needs.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○From the eleventh century onward, farmers began to increase food production on existing farmland and started bringing more land under cultivation.
+      <input type="radio"  name="answer-14" value="C">
+        From the eleventh century onward, farmers began to increase food production on existing farmland and started bringing more land under cultivation.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○A development that contributed to increasing population densities was a cooling climate that led many people to leave the coldest areas and crowd into climatically more favorable areas.
+      <input type="radio" class="right-answer" name="answer-14" value="D">
+        A development that contributed to increasing population densities was a cooling climate that led many people to leave the coldest areas and crowd into climatically more favorable areas.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-5" value="E">
-        ○The primary reason for moving to pueblos was the social benefits associated with communal life.
+      <input type="radio" class="right-answer" name="answer-14" value="E">
+        The primary reason for moving to pueblos was the social benefits associated with communal life.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-6" value="F">
-        ○People were brought together by the need to produce food cooperatively, as the use of food surpluses in one place to relieve shortages in another ended due to a change in climate.
+      <input type="radio" class="right-answer" name="answer-14" value="F">
+        People were brought together by the need to produce food cooperatively, as the use of food surpluses in one place to relieve shortages in another ended due to a change in climate.
       </input>
     </li>
 </ul>

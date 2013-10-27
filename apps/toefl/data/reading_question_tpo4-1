@@ -1,325 +1,327 @@
-<span class="description">1. According to paragraph 1, which of the following is true of the white-tailed deer of Puget Sound?</span>
+<span class="description">According to paragraph 1, which of the following is true of the white-tailed deer of Puget Sound?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○It is native to lowlands and marshes.
+      <input type="radio"  name="answer-1" value="A">
+        It is native to lowlands and marshes.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○It is more closely related to the mule deer of eastern Washington than to other types of deer.
+      <input type="radio"  name="answer-1" value="B">
+        It is more closely related to the mule deer of eastern Washington than to other types of deer.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○It has replaced the black-tailed deer in the open prairie.
+      <input type="radio"  name="answer-1" value="C">
+        It has replaced the black-tailed deer in the open prairie.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○It no longer lives in a particular type of habitat that it once occupied.
+      <input type="radio" class="right-answer" name="answer-1" value="D">
+        It no longer lives in a particular type of habitat that it once occupied.
       </input>
     </li>
 </ul>
 
-<span class="description">2.  It can be inferred from the discussion in paragraph 2 that winter conditions</span>
+<span class="description">It can be inferred from the discussion in paragraph 2 that winter conditions</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ Cause some deer to hibernate
+      <input type="radio"  name="answer-2" value="A">
+         Cause some deer to hibernate
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ Make food unavailable in the highlands for deer
+      <input type="radio"  name="answer-2" value="B">
+         Make food unavailable in the highlands for deer
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ Make it easier for deer to locate understory plants
+      <input type="radio" class="right-answer" name="answer-2" value="C">
+         Make it easier for deer to locate understory plants
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Prevent deer from migrating during the winter
+      <input type="radio"  name="answer-2" value="D">
+        Prevent deer from migrating during the winter
       </input>
     </li>
 </ul>
 
-<span class="description">3. The word "inhibits" in the passage is closest in meaning to</span>
+<span class="description">The word "inhibits" in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ Consists of
+      <input type="radio"  name="answer-3" value="A">
+         Consists of
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ Combines
+      <input type="radio"  name="answer-3" value="B">
+         Combines
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ Restricts
+      <input type="radio" class="right-answer" name="answer-3" value="C">
+         Restricts
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Establishes
+      <input type="radio"  name="answer-3" value="D">
+         Establishes
       </input>
     </li>
 </ul>
 
-<span class="description">4. The phrase "in the same breath" in the passage is closest in meaning to</span>
+<span class="description">The phrase "in the same breath" in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ Impatiently
+      <input type="radio"  name="answer-4" value="A">
+         Impatiently
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ Humorously
+      <input type="radio"  name="answer-4" value="B">
+         Humorously
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ Continuously
+      <input type="radio"  name="answer-4" value="C">
+         Continuously
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Immediately
+      <input type="radio" class="right-answer" name="answer-4" value="D">
+         Immediately
       </input>
     </li>
 </ul>
 
-<span class="description">5. The author tells the story of the explorers Lewis and Clark in paragraph 3 in order to illustrate which of the following points?</span>
+<span class="description">The author tells the story of the explorers Lewis and Clark in paragraph 3 in order to illustrate which of the following points?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○The number of deer within the Puget sound region has varied over time.
+      <input type="radio" class="right-answer" name="answer-5" value="A">
+        The number of deer within the Puget sound region has varied over time.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ Most of the explorers who came to the Puget sound area were primarily interested than in the West.
+      <input type="radio"  name="answer-5" value="B">
+         Most of the explorers who came to the Puget sound area were primarily interested than in the West.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○There was more game for hunting in the East of the United States than in the West.
+      <input type="radio"  name="answer-5" value="C">
+        There was more game for hunting in the East of the United States than in the West.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Individual explorers were not as successful at locating games as were the trading companies.
+      <input type="radio"  name="answer-5" value="D">
+        Individual explorers were not as successful at locating games as were the trading companies.
       </input>
     </li>
 </ul>
 
-<span class="description">6. According to paragraph 3, how had Fort Vancouver changed by the time David Douglas returned in 1832?</span>
+<span class="description">According to paragraph 3, how had Fort Vancouver changed by the time David Douglas returned in 1832?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○The fort had become the headquarters for the Hudson's Bay Company.
+      <input type="radio"  name="answer-6" value="A">
+        The fort had become the headquarters for the Hudson's Bay Company.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Deer had begun populating the meadows around the fort.
+      <input type="radio"  name="answer-6" value="B">
+        Deer had begun populating the meadows around the fort.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Deer populations near the fort had been destroyed.
+      <input type="radio" class="right-answer" name="answer-6" value="C">
+        Deer populations near the fort had been destroyed.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Crop yields in the area around the fort had decreased.
+      <input type="radio"  name="answer-6" value="D">
+        Crop yields in the area around the fort had decreased.
       </input>
     </li>
 </ul>
 
-<span class="description">7. Why does the author ask readers to recall “the fate of the Columbian white-tailed deer” in the discussion of changes in the wilderness landscape?</span>
+<span class="description">Why does the author ask readers to recall “the fate of the Columbian white-tailed deer” in the discussion of changes in the wilderness landscape?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○To provide support for the idea that habitat destruction would lead to population decline
+      <input type="radio" class="right-answer" name="answer-7" value="A">
+        To provide support for the idea that habitat destruction would lead to population decline
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○To compare how two species of deer caused biotic changes in the wilderness environment
+      <input type="radio"  name="answer-7" value="B">
+        To compare how two species of deer caused biotic changes in the wilderness environment
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○To provide an example of a species of deer that has successfully adapted to human settlement
+      <input type="radio"  name="answer-7" value="C">
+        To provide an example of a species of deer that has successfully adapted to human settlement
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○To argue that some deer species must be given a protected status
+      <input type="radio"  name="answer-7" value="D">
+        To argue that some deer species must be given a protected status
       </input>
     </li>
 </ul>
 
-<span class="description">8. The phrase “indefinite period” in the passage is closest in meaning to period</span>
+<span class="description">The phrase “indefinite period” in the passage is closest in meaning to period</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ Whose end has not been determined
+      <input type="radio" class="right-answer" name="answer-8" value="A">
+         Whose end has not been determined
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ That does not begin when expected
+      <input type="radio"  name="answer-8" value="B">
+         That does not begin when expected
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ That lasts only briefly
+      <input type="radio"  name="answer-8" value="C">
+         That lasts only briefly
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Whose importance remains unknown
+      <input type="radio"  name="answer-8" value="D">
+         Whose importance remains unknown
       </input>
     </li>
 </ul>
 
-<span class="description">9. Which of the following statements about deer populations is supported by the information in paragraph 4?</span>
+<span class="description">Which of the following statements about deer populations is supported by the information in paragraph 4?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Deer populations reached their highest point during the 1940s and then began to decline.
+      <input type="radio"  name="answer-9" value="A">
+        Deer populations reached their highest point during the 1940s and then began to decline.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○The activities of settlers contributed in unexpected ways to the growth of some deer populations in later times.
+      <input type="radio" class="right-answer" name="answer-9" value="B">
+        The activities of settlers contributed in unexpected ways to the growth of some deer populations in later times.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The cleaning of wilderness land for construction caused biotic changes from which the black-tailed deer population has never recovered.
+      <input type="radio"  name="answer-9" value="C">
+        The cleaning of wilderness land for construction caused biotic changes from which the black-tailed deer population has never recovered.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Since the 1940s the winter populations of deer have fluctuated more than the summer populations have.
+      <input type="radio"  name="answer-9" value="D">
+        Since the 1940s the winter populations of deer have fluctuated more than the summer populations have.
       </input>
     </li>
 </ul>
 
-<span class="description">10. The word “rebound” in the passage is closest in meaning to</span>
+<span class="description">The word “rebound” in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ Decline
+      <input type="radio"  name="answer-10" value="A">
+         Decline
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ Recovery
+      <input type="radio" class="right-answer" name="answer-10" value="B">
+         Recovery
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ Exchange
+      <input type="radio"  name="answer-10" value="C">
+         Exchange
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Movement
+      <input type="radio"  name="answer-10" value="D">
+         Movement
       </input>
     </li>
 </ul>
 
-<span class="description">11. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○Arthur Einarsen’s longtime family with the Pacific Northwest helped him discover areas where deer had an increase in suitable browse.
+      <input type="radio"  name="answer-11" value="A">
+        Arthur Einarsen’s longtime family with the Pacific Northwest helped him discover areas where deer had an increase in suitable browse.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Arthur Einarsen found that deforested feeding grounds provided deer with more and better food.
+      <input type="radio" class="right-answer" name="answer-11" value="B">
+        Arthur Einarsen found that deforested feeding grounds provided deer with more and better food.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○Biologist like Einarsen believe it is important to find additional open areas with suitable browse for deer to inhabit.
+      <input type="radio"  name="answer-11" value="C">
+        Biologist like Einarsen believe it is important to find additional open areas with suitable browse for deer to inhabit.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○According to Einarsen, huckleberry and vine maple are examples of vegetation that may someday improve the nutrition of deer in the open areas of the Pacific Northwest.
+      <input type="radio"  name="answer-11" value="D">
+        According to Einarsen, huckleberry and vine maple are examples of vegetation that may someday improve the nutrition of deer in the open areas of the Pacific Northwest.
       </input>
     </li>
 </ul>
 
-<span class="description">12. Which of the following is NOT mentioned in paragraph 5 as a factor that has increased deer populations?</span>
+<span class="description">Which of the following is NOT mentioned in paragraph 5 as a factor that has increased deer populations?</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○A reduction in the number of predators
+      <input type="radio"  name="answer-12" value="A">
+        A reduction in the number of predators
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○Restrictions on hunting
+      <input type="radio"  name="answer-12" value="B">
+        Restrictions on hunting
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○The effects of logging and fire
+      <input type="radio"  name="answer-12" value="C">
+        The effects of logging and fire
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○Laws that protected feeding grounds of deer
+      <input type="radio" class="right-answer" name="answer-12" value="D">
+        Laws that protected feeding grounds of deer
       </input>
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares [█] that indicate where the following sentence could be added to the passage.There food is available and accessible throughout the winter.Where would the sentence best fit?</span>
+<span class="description">13. Look at the four squares [█] that indicate where the following sentence could be added to the passage.
+<b>There food is available and accessible throughout the winter.</b>
+Where would the sentence best fit?</span>
 <ul>
 </ul>
 
-<span class="description">14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Deer in the Puget Sound area eat a wide variety of foods and migrate seasonally foodAnswer Choices</span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Deer in the Puget Sound area eat a wide variety of foods and migrate seasonally foodAnswer Choices</span>
 <ul>
    <li class="choice">
-      <input type="radio" name="answer-1" value="A">
-        ○ The balance of deer species in the Puget Sound region has changed over time, with the Columbian white-tailed deer now outnumbering other types of deer.
+      <input type="radio"  name="answer-14" value="A">
+         The balance of deer species in the Puget Sound region has changed over time, with the Columbian white-tailed deer now outnumbering other types of deer.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-2" value="B">
-        ○ Deer populations naturally fluctuate, but early settlers in the Puget Sound environment caused an overall decline in the deer populations of the areas at that time.
+      <input type="radio" class="right-answer" name="answer-14" value="B">
+         Deer populations naturally fluctuate, but early settlers in the Puget Sound environment caused an overall decline in the deer populations of the areas at that time.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-3" value="C">
-        ○ In the long term, black-tailed deer in the Puget Sound area have benefitted from human activities through the elimination of their natural predators, and more and better food in deforested areas.
+      <input type="radio" class="right-answer" name="answer-14" value="C">
+         In the long term, black-tailed deer in the Puget Sound area have benefitted from human activities through the elimination of their natural predators, and more and better food in deforested areas.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-4" value="D">
-        ○ Because Puget Sound deer migrate, it was and still remains difficult to determine accurately how many deers are living at any one time the western United States.
+      <input type="radio"  name="answer-14" value="D">
+         Because Puget Sound deer migrate, it was and still remains difficult to determine accurately how many deers are living at any one time the western United States.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-5" value="E">
-        ○ Although it was believed that human settlement of American West would cause the total number of deer to decrease permanently, the opposite has occurred for certain types of deer.
+      <input type="radio" class="right-answer" name="answer-14" value="E">
+         Although it was believed that human settlement of American West would cause the total number of deer to decrease permanently, the opposite has occurred for certain types of deer.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" name="answer-6" value="F">
-        ○ Wildlife biologists have long been concerned that the loss of forests may create nutritional deficiencies for deer.
+      <input type="radio"  name="answer-14" value="F">
+         Wildlife biologists have long been concerned that the loss of forests may create nutritional deficiencies for deer.
       </input>
     </li>
 </ul>
