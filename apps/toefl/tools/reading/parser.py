@@ -71,7 +71,7 @@ def output(articles):
         output_file.write(options_template.substitute(options = options))
         
 
-def main(filename):
+def parse_artiles(filename):
   article = None
   question = None
   articles = []
@@ -142,8 +142,36 @@ def main(filename):
     articles.append(article)
 
   [a.post_process() for a in articles]
-  output(articles)
+  return articles
+
+def parse_anwsers(filename):
+  with open(filename) as input_file:
+    for line in input_file.readlines():
+      line = line.strip().replace('．', '. ') 
+        
+      if  re.match('TPO\d+-\d:?', line, re.IGNORECASE):
+        if article:
+          if question:
+            article.questions.append(question)
+            question = None
+          articles.append(article)
+        article = Article()
+        article.name = line.replace(':', '').lower()
+        state = 'name'
+      elif state == 'name':
+        article.title = line
+        state = 'title'
+      elif '●' in line or ('O ' in line and len(line) < 2):
+        question.answercount = question.answercount + 1
+      elif 'Look at the four squares' in line and state in ['option', 'ignore', 'paragraph']:
+        state = 'intertion-1'
+        if question:
+          article.questions.append(question)
+        question = Question()
+        question.paragraphs = paragraphs
+        paragraphs = []
 
 if __name__ == '__main__':
   file = sys.argv[1] if len(sys.argv) > 1 else "articles.txt"
-  main(file)
+  articles = parse_artiles(file)
+  output(partiles)
