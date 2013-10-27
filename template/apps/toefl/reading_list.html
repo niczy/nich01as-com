@@ -12,7 +12,11 @@
   <body>
     <div class="container">
       <h2> TPO Reading Practice </h2>
-      <a href="/toefl/reading?name=tpo1-1">TPO1 Reading 1</a>
+      {% for name in names %}
+      <div>
+        <a href="/toefl/reading?name={{ name }}">{{ name }}</a>
+      </div> 
+      {% endfor %}
     </div>
   </body>
 </html>
