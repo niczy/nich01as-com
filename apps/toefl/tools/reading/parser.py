@@ -12,6 +12,7 @@ class Question:
     self.options = []
     self.answercount = 1
     self.paragraphs = []
+    self.answer = None
 
   def post_process(self):
     # paragraph 5
@@ -34,6 +35,16 @@ class Answer:
     # For Two-classes classification problems.
     self.choices2 = []
 
+  @staticmethod
+  def from_string(text):
+    text = text[(text.find('.') + 1):]
+    if text.endswith(','): text = text[:-1]
+    a = Answer()
+    if ';' in text:
+      text, text2 = text.split(';')
+      a.choices2 = [int(c) for c in text2.split(':')]
+    a.choices = [int(c) for c in text.split(':')]
+
 class Article:
 
   def __init__(self):
@@ -41,7 +52,6 @@ class Article:
     self.title = ""
     self.paragraphs = []
     self.questions = []
-    self.answers = []
 
   def post_process(self):
     for i in xrange(len(self.questions)):
@@ -158,7 +168,6 @@ def sanity_check_answers(answers):
   for a in answers:
     idx += 1
     if not (a.startswith(str(idx) + '.') or a.startswith(str(idx) + '-')):
-      print "A " + a
       return False
   return True
 
@@ -170,24 +179,28 @@ def parse_answers(filename, articles):
   answer_sets = []
   for t in tpos:
     answers = [a for a in t.split('--') if len(a) > 0][:3]
-    print answers 
     for a in answers:
       answer_sets.append(a)
 
-  idx = 0
+  idx = -1
   for answer_set in answer_sets:
+    idx += 1
     name = "tpo%d-%d" % ((idx / 3) + 1, idx % 3 + 1)
     print "Parsing answers: " + name
     answers = [a for a in answer_set.split() if len(a) > 0 and '.' in a]
     assert sanity_check_answers(answers), "Wrong answer format:" + str(answers)
-    article = [a for a in articles if a.name == name][0]
-    print len(article.questions)
-    assert len(article.questions) == len(answers)
-    idx += 1
-  print len(answer_sets)
-  print len(articles)
-  assert len(tpos) == 24
-  # assert len(answer_sets) == len(articles)
+    matches = [a for a in articles if a.name == name]
+    if len(matches) == 0:
+      print "ERROR: Can't find article for " + name
+      continue
+    article = matches[0]
+    # TODO assert len(article.questions) == len(answers)
+
+    # TODO
+    for qid in xrange(min(len(answers), len(article.questions))):
+      article.questions[qid].answer = Answer.from_string(answers[qid])
+    
+  return articles
 
 if __name__ == '__main__':
   file = sys.argv[1] if len(sys.argv) > 1 else "articles.txt"
