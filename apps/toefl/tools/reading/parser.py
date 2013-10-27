@@ -28,6 +28,12 @@ class Question:
     p = int(p)
     if p not in self.paragraphs: self.paragraphs.append(p)
 
+class Answer:
+  def __init__(self):
+    self.choices = []
+    # For Two-classes classification problems.
+    self.choices2 = []
+
 class Article:
 
   def __init__(self):
@@ -35,6 +41,7 @@ class Article:
     self.title = ""
     self.paragraphs = []
     self.questions = []
+    self.answers = []
 
   def post_process(self):
     for i in xrange(len(self.questions)):
@@ -144,34 +151,46 @@ def parse_artiles(filename):
   [a.post_process() for a in articles]
   return articles
 
-def parse_anwsers(filename):
-  with open(filename) as input_file:
-    for line in input_file.readlines():
-      line = line.strip().replace('．', '. ') 
-        
-      if  re.match('TPO\d+-\d:?', line, re.IGNORECASE):
-        if article:
-          if question:
-            article.questions.append(question)
-            question = None
-          articles.append(article)
-        article = Article()
-        article.name = line.replace(':', '').lower()
-        state = 'name'
-      elif state == 'name':
-        article.title = line
-        state = 'title'
-      elif '●' in line or ('O ' in line and len(line) < 2):
-        question.answercount = question.answercount + 1
-      elif 'Look at the four squares' in line and state in ['option', 'ignore', 'paragraph']:
-        state = 'intertion-1'
-        if question:
-          article.questions.append(question)
-        question = Question()
-        question.paragraphs = paragraphs
-        paragraphs = []
+def sanity_check_answers(answers):
+  idx = 0
+  if len(answers) < 13 or len(answers) > 14:
+    return False
+  for a in answers:
+    idx += 1
+    if not (a.startswith(str(idx) + '.') or a.startswith(str(idx) + '-')):
+      print "A " + a
+      return False
+  return True
+
+def parse_answers(filename, articles):
+  f = open(filename)
+  text = f.read()
+  f.close()
+  tpos = text.split('TPO')[1:]
+  answer_sets = []
+  for t in tpos:
+    answers = [a for a in t.split('--') if len(a) > 0][:3]
+    print answers 
+    for a in answers:
+      answer_sets.append(a)
+
+  idx = 0
+  for answer_set in answer_sets:
+    name = "tpo%d-%d" % ((idx / 3) + 1, idx % 3 + 1)
+    print "Parsing answers: " + name
+    answers = [a for a in answer_set.split() if len(a) > 0 and '.' in a]
+    assert sanity_check_answers(answers), "Wrong answer format:" + str(answers)
+    article = [a for a in articles if a.name == name][0]
+    print len(article.questions)
+    assert len(article.questions) == len(answers)
+    idx += 1
+  print len(answer_sets)
+  print len(articles)
+  assert len(tpos) == 24
+  # assert len(answer_sets) == len(articles)
 
 if __name__ == '__main__':
   file = sys.argv[1] if len(sys.argv) > 1 else "articles.txt"
   articles = parse_artiles(file)
-  output(partiles)
+  articles = parse_answers("answers.txt", articles)
+  output(articles)
