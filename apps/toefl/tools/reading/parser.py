@@ -93,7 +93,10 @@ def main(filename):
       elif state == 'name':
         article.title = line
         state = 'title'
-      elif '●' in line or ('O ' in line and len(line) < 2):
+      elif (line.startswith('○') or line.startswith('O') and len(line) > 4) and state in ['question', 'option', 'ignore']:
+        state = 'option'
+        question.options.append(line)
+      elif '●' in line or ('O ' in line and len(line) < 4):
         question.answercount = question.answercount + 1
       elif 'Look at the four squares' in line and state in ['option', 'ignore', 'paragraph']:
         state = 'intertion-1'
@@ -109,9 +112,6 @@ def main(filename):
       elif state == 'intertion-2':
         state = 'option'
         question.description = question.description + line
-      elif (line.startswith('○') or 'O ' in line) and state in ['question', 'option', 'ignore']:
-        state = 'option'
-        question.options.append(line)
       elif re.match('Paragraph \d+.*', line):
         state = "ignore"
         paragraphs.append(int(re.search('Paragraph (\d+).*', line).group(1)))
@@ -125,9 +125,6 @@ def main(filename):
         question.paragraphs = paragraphs
         paragraphs = []
         question.description = line
-      elif (line.startswith('○') or 'O ' in line) and state in ['question', 'option', 'ignore']:
-        state = 'option'
-        question.options.append(line)
       elif re.match('Paragraph \d+.*', line) or line.isspace():
         state = "ignore"
       elif state == 'question':

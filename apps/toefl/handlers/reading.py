@@ -27,5 +27,9 @@ class ReadingHandler(handlers.BasePageHandler):
       tpo1_questions.close()
       self.render('apps/toefl/reading.html', {'title': title, 'paragraphs': paragraphs, 'questions': questions})
     else:
-      self.render('apps/toefl/reading_list.html', {'names': ['tpo1-1', 'tpo1-2', 'tpo1-3', 'tpo10-1', 'tpo10-2', 'tpo10-3', 'tpo11-1', 'tpo11-3', 'tpo12-2', 'tpo12-3']})
+      names = []
+      for i in xrange(23):
+        for j in xrange(1, 4):
+          names.append('tpo%d-%d' % (i, j))
+      self.render('apps/toefl/reading_list.html', {'names': names})
   
