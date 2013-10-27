@@ -25,30 +25,25 @@ def output(articles):
   paragraph_template = Template('<p>$paragraph</p>\n')
   question_des_template = Template('<span class="description">$description</span>\n')
   option_template = Template('''
-    <li class="choice">
+   <li class="choice">
       <input type="radio" name="$name" value="$value">
         $option
       </input>
-    </li>\n
-  ''')
-  options_template = Template("<ul>$options</ul>\n\n")
+    </li>''')
+  options_template = Template('''<ul>$options\n</ul>\n\n''')
   for article in articles:
     with open("reading_" + article.name, "w") as output_file:
       output_file.write(article.title + '\n')
       for paragraph in article.paragraphs:
         output_file.write(paragraph_template.substitute(paragraph = paragraph))
 
-
-  
-    with open('reading_question' + article.name, "w") as output_file:
+    with open('reading_question_' + article.name, "w") as output_file:
       for question in article.questions:
         output_file.write(question_des_template.substitute(description = question.description))
         options = '';
         answerid = 0;
         for option in question.options:
           answerid = answerid + 1
-          print('answer id ' + str(answerid))
-          print(option)
           options = options + option_template.substitute(option = option, name = 'answer-' + str(answerid), value = value_index[answerid])
         output_file.write(options_template.substitute(options = options))
         
@@ -62,15 +57,14 @@ def main(filename):
     for line in input_file.readlines():
       line = line.strip().replace('．', '. ') 
         
-      if  re.match('TPO\d+-\d:?', line):
+      if  re.match('TPO\d+-\d:?', line, re.IGNORECASE):
         if article:
           if question:
             article.questions.append(question)
             question = None
           articles.append(article)
         article = Article()
-        article.name = line[0: len(line)-1].replace(':', '')
-        print(line)
+        article.name = line.replace(':', '').lower()
         state = 'name'
       elif state == 'name':
         article.title = line
