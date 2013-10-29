@@ -675,7 +675,7 @@ Paragraph 4：Even development in architecture has been the result of major tech
 ○They weigh less in relation to their size than buildings constructed one hundred years ago.
 ○They take a long time to build as a result of their complex construction methods.
 Paragraph 5: Modern architectural forms generally have three separate components comparable to elements of the human body; a supporting skeleton or frame, an outer skin enclosing the interior spaces, equipment, similar to the body’s vital organs and systems. The equipment includes plumbing, electrical wiring, hot water, and air-conditioning. Of course in early architecture—such as igloos and adobe structures—there was no such equipment, and the skeleton and skin were often one.
-8. Which of the following correctly characterizes the relationship between the human body and architecture that is described in paragraph5?
+8. Which of the following correctly characterizes the relationship between the human body and architecture that is described in paragraph 5?
 ○Complex equipment inside buildings is the one element in modern architecture that resembles a component of the human body.
 ○The components in early buildings were similar to three particular elements of the human body.
 ○Modern buildings have components that are as likely to change as the human body is.
@@ -1847,7 +1847,7 @@ Paragraph 7: These three explanations of infantile amnesia are not mutually excl
 ○It explains how particular theories discussed earlier in the passage may work in combination.
 ○It evaluates which of the theories discussed earlier is most likely to be true.
 Paragraph 1: What do you remember about your life before you were three? █Few people can remember anything that happened to them in their early years．█Adults' memories of the next few years also tend to be scanty．█Most people remember only a few events--usually ones that were meaningful and distinctive，such as being hospitalized or a sibling’s birth. █
-13.Look at the four squares[█]that indicate where the following sentence could be added to the passage
+13.Look at the four squares [█] that indicate where the following sentence could be added to the passage
   Other important occasions are school graduations and weddings.
  Where would the sentence best fit?
 14. There are several possible explanations why people cannot easily remember their early childhoods．
@@ -6347,7 +6347,7 @@ O Research involving foraminifera fossil shells show that ocean temperatures in 
  
  
  
-TPO：20-1
+TPO20-1
 Westward Migration
 The story of the westward movement of population in the United States is, in the main, the story of the expansion of American agriculture—of the development of new areas for the raising of livestock and the cultivation of wheat, corn, tobacco, and cotton. After 1815 improved transportation enabled more and more western farmers to escape a self-sufficient way of life and enter a national market economy. During periods when commodity prices were high, the rate of westward migration increased spectacularly. "Old America seemed to be breaking up and moving westward," observed an English visitor in 1817,during the first great wave of migration. Emigration to the West reached a peak in the 1830's. Whereas in 1810 only a seventh of the American people lived west of the Appalachian Mountains, by 1840 more than a third lived there.
 Why were these hundreds of thousands of settlers—most of them farmers, some of them artisans—drawn away from the cleared fields and established cities and villages of the East? Certain characteristics of American society help to explain this remarkable migration. The European ancestors of some Americans had for centuries lived rooted to the same village or piece of land until some religious, political, or economic crisis uprooted them and drove them across the Atlantic. Many of those who experienced this sharp break thereafter lacked the ties that had bound them and their ancestors to a single place. Moreover, European society was relatively stratified; occupation and social status were inherited. In American society, however, the class structure was less rigid; some people changed occupations easily and believed it was their duty to improve their social and economic position. As a result, many Americans were an inveterately restless, rootless, and ambitious people. Therefore, these social traits helped to produce the nomadic and daring settlers who kept pushing westward beyond the fringes of settlement. In addition, there were other immigrants who migrated west in search of new homes, material success, and better lives.
@@ -6673,7 +6673,7 @@ O Thin films of carbon may remain as an indication of soft tissue or actual tiss
  
  
  
-TPO-21
+TPO21-1
 Geothermal Energy
    Earth's internal heat, fueled by radioactivity, provides the energy for plate tectonics and continental drift, mountain building, and earthquakes. It can also be harnessed to drive electric generators and heat homes. Geothermal energy becomes available in a practical form when underground heat is transferred by water that is heated as it passes through a subsurface region of hot rocks (a heat reservoir) that may be hundreds or thousands of feet deep. The water is usually naturally occurring groundwater that seeps down along fractures in the rock; less typically, the water is artificially introduced by being pumped down from the surface. The water is brought to the surface, as a liquid or steam, through holes drilled for the purpose.
  
@@ -7129,7 +7129,7 @@ O Children who have acquired a concept of the self and of various mental states 
  
  
  
-TPO-22-1
+TPO22-1
 Spartina
 Spartina alterniflora, known as cordgrass, is a deciduous, perennial flowering plant native to the Atlantic coast and the Gulf Coast of the United States. It is the dominant native species of the lower salt marshes along these coasts, where it grows in the intertidal zone (the area covered by water some parts of the day and exposed others).
  
@@ -7254,7 +7254,7 @@ O Spartina has physiological adaptations that allow it to grow in environments w
  
  
  
-22-2
+TPO22-2
 The Birth of Photography
 Perceptions of the visible world were greatly altered by the invention of photography in the middle of the nineteenth century. In particular, and quite logically, the art of painting was forever changed, though not always in the ways one might have expected. The realistic and naturalistic painters of the mid- and late-nineteenth century were all intently aware of photography—as a thing to use, to learn from, and react to.
  
@@ -7540,7 +7540,7 @@ O Irregularly shaped inclusions in Allende are composed of minerals that are res
 O The matrix that holds the chondrules and inclusions together in Allende consists mainly of grains of nebular dust that were trapped inside the meteor before they could be melted.
 O Except for being depleted in volatile elements, chondritic meteorites are probably very similar in composition to the matter from which planets were assembled.
  
-TPO-23-1
+TPO23-1
 Urban Climates
 The city is an extraordinary processor of mass and energy and has its own metabolism. A daily input of water, food, and energy of various kinds is matched by an output of sewage, solid waste, air pollutants, energy, and materials that have been transformed in some way. The quantities involved are enormous. Many aspects of this energy use affect the atmosphere of a city, particularly in the production of heat.
  
@@ -7677,7 +7677,7 @@ Answer Choices
  
  
  
-TPO 23-2
+TPO23-2
 Seventeenth-Century Dutch Agriculture
 Agriculture and fishing formed the primary sector of the economy in the Netherlands in the seventeenth century. Dutch agriculture was modernized and commercialized new crops and agricultural techniques raised levels of production so that they were in line with market demands, and cheap grain was imported annually from the Baltic region in large quantities. According to estimates, about 120,000 tons of imported grain fed about 600,000 people: that is about a third of the Dutch population. Importing the grain, which would have been expensive and time consuming for the Dutch to have produced themselves, kept the price of grain low and thus stimulated individual demand for other foodstuffs and consumer goods.
  

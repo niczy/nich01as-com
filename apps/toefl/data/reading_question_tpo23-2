@@ -1,0 +1,328 @@
+<span class="description">By indicating that production was in line with market demands the author means that Dutch farmers were able to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+         exceed other European countries in agricultural production
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+         produce crops mat were similar to those popular in other European countries
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="C">
+         supply sufficient quantities of the agricultural products that the Dutch population wanted to buy
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="D">
+         satisfy the demand for high quality agricultural products from the Baltic region
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+         Buying imported grain led to the Dutch demanding that other foodstuffs and consumer goods be imported.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="B">
+         Because the Dutch were able to import inexpensive grain, they had money available to create a demand for other food products and consumer goods.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+         Keeping the price of grain low was a primary goal of the Dutch at a time when they could not produce enough grain to provide for all their needs.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+         The demand for other foodstuffs and consumer goods forced the Dutch to import grain and other products at a time when maintaining low prices was especially important.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The phrase "Apart from" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="A">
+         Besides
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+         Despite
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+         As a result of
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+         Instead of
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 2, the increases demands on Dutch agriculture made by urban consumers had which of the following results?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+         Seasonal shortages of the products consumers most wanted
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+         Increased production of high-quality grain products
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+         Raised prices charged by peasants to urban consumers
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="D">
+         Different ways of caring for dairy-producing animals
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "consumption" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+         sale
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+         storage
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+         exportation
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="D">
+         utilization
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 3, the modernization of agriculture in the Netherlands was evident in all of the following ways EXCEPT:</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+         The production of fruits and vegetables became a commercial venture.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+         The wealthy stopped growing fruits and vegetables in their gardens and grew flowers instead.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+         Horticultural produce was transported to city markets by water.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+         Many more people were able to afford to eat fresh fruits and vegetables.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Select the TWO answer choices that, according to paragraph 4, indicate two methods people used to increase the productivity of their land. To receive credit you must select TWO answers</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="A">
+         They planted different crops in different sections of the farm each year.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+         They used improved irrigation methods to increase the yield of crops.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="C">
+         They increased the use of fertilizers to supply more nutrients to plants.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+         They used new horticultural practices to produce different varieties of plants in the same section of the farm.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "they" in the passage refers to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="A">
+         merchants
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+         hectares
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="C">
+         windmills
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+         drainage pumps
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 5, which of the following was an important reason why land-reclamation projects in the first half of the seventeenth century proceeded rapidly?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+         Windmills became powerful enough to run drainage pumps efficiently.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="B">
+         Merchants invested large amounts of money in reclamation.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+         High interest rates discouraged people from buying land already available.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="D">
+         Reclaimed land was much more suitable for agriculture than the existing land.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "legendary" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+         continuous
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+         well documented
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="C">
+         famous
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+         expensive
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "astonishing" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="A">
+         incredible
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="B">
+         unfortunate
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+         predicted
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+         evident
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the following best describes the organization of the passage?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+         A presentation of a theory and the evidence in favor of it
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+         A general statement followed by examples and relevant details
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+         A analysis of a problem and its solution
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+         A series of statements leading to a conclusion
+      </input>
+    </li>
+</ul>
+
+<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage
+<quote><b>Some villages specialized in growing cabbages and carrots; others grew onions, mustard, and coriander; and still others produced fruit and cultivated trees in nurseries.</b></quote>
+Where would the sentence best fit?</span>
+<ul>
+</ul>
+
+<span class="description">Direction: An introductory sentence for a brief summary of the passage is provides below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p></p><p>Agriculture formed one of the primary sectors of the economy in seventeenth-century Netherlands.</p><p>Answer Choices</p><p></p></span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="A">
+         The Baltic region produced large quantities of grain for export to other regions, including the Netherlands.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="B">
+         The richest people grew enough fruits and vegetables to supply the entire country with fresh produce.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="C">
+         An agricultural crisis that began in Europe did not affect Dutch land-reclamation projects.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-14" value="D">
+         Specialization in dairy farming, industrial crops, and horticulture allowed the Dutch to be more productivehan some other regions in Europe.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-14" value="E">
+         Land reclamation and improvement allowed the Dutch to meet demands for their agricultural products.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-14" value="F">
+         Because the Dutch had specialized their agricultural output they were less susceptible to the crisis that Europe experienced from the beginning of the century.
+      </input>
+    </li>
+</ul>
+

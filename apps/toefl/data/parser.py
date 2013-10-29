@@ -25,12 +25,8 @@ class Question:
       self.add_paragraph(m.group(4))
     self.paragraphs.sort()
     m = re.search('The word ["]?(\w+)["]?', self.description)
-    if 'devised' in self.description:
-      print(self.description)
     if m:
       self.highlight = m.group(1)
-      if self.highlight == 'devised':
-        print(self.highlight)
   
   def add_paragraph(self, p):
     if not p: return
@@ -73,6 +69,15 @@ class Article:
         pidx = q.paragraphs[0]
         self.paragraphs[pidx - 1] = self.paragraphs[pidx - 1].replace(
             q.highlight, highlight_template.substitute(highlight_template, word = q.highlight, qidx = i+1))
+
+def post_process_question(previous_question, question, paragraphs):
+  if paragraphs:
+    question.paragraphs = paragraphs
+    return
+  question.post_process()
+  if previous_question and len(question.paragraphs) == 0:
+        question.paragraphs = previous_question.paragraphs
+
 
 def output(articles):
   value_index = ['X', 'A', 'B', 'C', 'D', 'E', 'F', 'G']
@@ -122,6 +127,7 @@ def parse_artiles(filename):
   articles = []
   state = "init"
   paragraphs = []
+  ignored_paragraph = ''
   with open(filename) as input_file:
     for line in input_file.readlines():
       line = line.strip().replace('．', '. ').replace('”', '"').replace('“', '"') 
@@ -147,12 +153,21 @@ def parse_artiles(filename):
         question.answercount = question.answercount + 1
       elif 'Look at the four squares' in line and state in ['option', 'ignore', 'paragraph']:
         state = 'intertion-1'
+        line = line.replace('█', 'A').replace('■', 'A').replace('[A]', 'A').replace('【】', 'A').replace('HI', 'A').replace('[Ⓐ] [Ⓑ] [Ⓒ] and [Ⓓ]', 'A').replace('III', 'A')
+        m = re.search('Paragraph (\d+).*', ignored_paragraph)
+        m = re.search('Look at the four squares (A)', line)
+        if m:
+          pass
+        else:
+          print(ignored_paragraph)
+          print(line)
         if question:
           article.questions.append(question)
         question = Question()
         question.paragraphs = paragraphs
         paragraphs = []
         question.description = line
+        
       elif state == 'intertion-1':
         state = 'intertion-2'
         question.description = question.description + '\n<quote><b>' + line + '</b></quote>'
@@ -162,6 +177,7 @@ def parse_artiles(filename):
       elif re.match('Paragraph \d+.*', line):
         state = "ignore"
         paragraphs.append(int(re.search('Paragraph (\d+).*', line).group(1)))
+        ignored_paragraph = line
       elif line.isspace():
         state = "ignore"
       elif re.match('\d+[\.].*', line) and state in ['ignore', 'paragraph', 'option', 'intertion-3']:
@@ -171,7 +187,7 @@ def parse_artiles(filename):
         question.paragraphs = paragraphs
         paragraphs = []
         if state != 'question':
-          line = re.sub('^\d+\.?\s*', '', line)
+          line = re.sub('^[\s]*\d+\.?\s*', '', line)
         question.description = line
         state = 'question'
       elif re.match('Paragraph \d+.*', line) or line.isspace():
