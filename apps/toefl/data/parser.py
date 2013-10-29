@@ -8,10 +8,11 @@ from string import Template
 
 class Question:
   def __init__(self):
-    self.description = ""
+    self.description = '' 
     self.options = []
     self.answercount = 1
     self.paragraphs = []
+    self.highlight = ''
     self.answer = None
 
   def post_process(self):
@@ -23,6 +24,13 @@ class Question:
       self.add_paragraph(m.group(1))
       self.add_paragraph(m.group(4))
     self.paragraphs.sort()
+    m = re.search('The word ["]?(\w+)["]?', self.description)
+    if 'devised' in self.description:
+      print(self.description)
+    if m:
+      self.highlight = m.group(1)
+      if self.highlight == 'devised':
+        print(self.highlight)
   
   def add_paragraph(self, p):
     if not p: return
@@ -55,11 +63,16 @@ class Article:
     self.questions = []
 
   def post_process(self):
+    highlight_template = Template('<span class="question-highlight-$qidx">$word</span>')
     for i in xrange(len(self.questions)):
       q = self.questions[i]
       q.post_process()
       if i > 0 and len(q.paragraphs) == 0:
         q.paragraphs = self.questions[i - 1].paragraphs
+      if q.highlight and q.paragraphs:
+        pidx = q.paragraphs[0]
+        self.paragraphs[pidx - 1] = self.paragraphs[pidx - 1].replace(
+            q.highlight, highlight_template.substitute(highlight_template, word = q.highlight, qidx = i+1))
 
 def output(articles):
   value_index = ['X', 'A', 'B', 'C', 'D', 'E', 'F', 'G']
@@ -84,6 +97,7 @@ def output(articles):
         for question in article.questions:
           questionidx = questionidx + 1 
           if paragraphidx in question.paragraphs:
+            if questions: questions = questions + ' '
             questions = questions + 'question-' + str(questionidx)
         output_file.write(paragraph_template.substitute(paragraph = paragraph, questions = questions))
 
@@ -110,7 +124,7 @@ def parse_artiles(filename):
   paragraphs = []
   with open(filename) as input_file:
     for line in input_file.readlines():
-      line = line.strip().replace('．', '. ') 
+      line = line.strip().replace('．', '. ').replace('”', '"').replace('“', '"') 
         
       if  re.match('TPO\d+-\d:?', line, re.IGNORECASE):
         if article:
@@ -141,7 +155,7 @@ def parse_artiles(filename):
         question.description = line
       elif state == 'intertion-1':
         state = 'intertion-2'
-        question.description = question.description + '\n<b>' + line + '</b>'
+        question.description = question.description + '\n<quote><b>' + line + '</b></quote>'
       elif state == 'intertion-2':
         state = 'option'
         question.description = question.description + '\n' + line
@@ -158,13 +172,12 @@ def parse_artiles(filename):
         paragraphs = []
         if state != 'question':
           line = re.sub('^\d+\.?\s*', '', line)
-          print(line)
         question.description = line
         state = 'question'
       elif re.match('Paragraph \d+.*', line) or line.isspace():
         state = "ignore"
       elif state == 'question':
-        question.description = question.description + line
+        question.description = question.description + '<p>' + line + '</p>'
       elif state == 'title' or state == 'paragraph':
         article.paragraphs.append(line)
         state = 'paragraph'

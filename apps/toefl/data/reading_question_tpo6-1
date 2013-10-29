@@ -142,7 +142,7 @@
     </li>
 </ul>
 
-<span class="description">Why does the author use the phrase “Quartz is quartz"?</span>
+<span class="description">Why does the author use the phrase "Quartz is quartz"?</span>
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-7" value="A">
@@ -214,7 +214,7 @@
     </li>
 </ul>
 
-<span class="description">The word “virtually” in the passage is closest in meaning to</span>
+<span class="description">The word "virtually" in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-10" value="A">
@@ -262,7 +262,7 @@
     </li>
 </ul>
 
-<span class="description">In mentioning "trilobite”, the author is making which of the following points?</span>
+<span class="description">In mentioning "trilobite", the author is making which of the following points?</span>
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-12" value="A">
@@ -287,12 +287,12 @@
 </ul>
 
 <span class="description">13.Look at the four squares [█]that indicate where the following sentence could be added to the passage
-<b>The findings of these geologists inspired others to examine the rock and fossil records in different parts of the world. </b>
+<quote><b>The findings of these geologists inspired others to examine the rock and fossil records in different parts of the world. </b></quote>
 Where would the sentence best fit?</span>
 <ul>
 </ul>
 
-<span class="description">William Smith’s contributions to geology have increased our knowledge of the Each’s history. Answer Choices</span>
+<span class="description">William Smith’s contributions to geology have increased our knowledge of the Each’s history. <p>Answer Choices</p></span>
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-14" value="A">
@@ -311,7 +311,7 @@ Where would the sentence best fit?</span>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-14" value="D">
-        Smith was named “the father of English geology” for his maps rather than for his other contributions to the field.
+        Smith was named "the father of English geology" for his maps rather than for his other contributions to the field.
       </input>
     </li>
    <li class="choice">

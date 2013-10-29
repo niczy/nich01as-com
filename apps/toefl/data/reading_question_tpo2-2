@@ -214,7 +214,7 @@
     </li>
 </ul>
 
-<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?<p>Incorrect choices change the meaning in important ways or leave out essential information.</p></span>
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-10" value="A">
@@ -263,7 +263,7 @@
 </ul>
 
 <span class="description">12. Look at the four squares [■] that indicate where the following sentence can be added to the passage.
-<b>This economic reliance on livestock in certain regions makes large tracts of land susceptible to overgrazing.</b>
+<quote><b>This economic reliance on livestock in certain regions makes large tracts of land susceptible to overgrazing.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
    <li class="choice">

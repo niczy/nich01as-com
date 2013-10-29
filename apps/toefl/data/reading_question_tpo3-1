@@ -22,7 +22,7 @@
     </li>
 </ul>
 
-<span class="description">The word “feasible” in the passage is closet in meaning to</span>
+<span class="description">The word "feasible" in the passage is closet in meaning to</span>
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-2" value="A">
@@ -50,22 +50,27 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-3" value="A">
-        Unchanging physical laws have limited the size and strength of buildings that can be made with materials discovered long ago. Building materials have changed in order to increase architectural size and strength, but physical laws of structure have not changed.
+        Unchanging physical laws have limited the size and strength of buildings that can be made with materials discovered long ago.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="B">
-        When people first started to build, the structural methods used to provide strength and size were inadequate because they were not based on physical laws.
+        Building materials have changed in order to increase architectural size and strength, but physical laws of structure have not changed.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="C">
+        When people first started to build, the structural methods used to provide strength and size were inadequate because they were not based on physical laws.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="D">
         Unlike building materials, the methods of support used in architecture have not changed over time because they are based on physical laws.
       </input>
     </li>
 </ul>
 
-<span class="description">The word “devised” in the passage is closest in meaning to</span>
+<span class="description">The word "devised" in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-4" value="A">
@@ -89,7 +94,7 @@
     </li>
 </ul>
 
-<span class="description">The word “integral” is closet in meaning to</span>
+<span class="description">The word "integral" is closet in meaning to</span>
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-5" value="A">
@@ -185,7 +190,7 @@
     </li>
 </ul>
 
-<span class="description">The word “arduous” in the passage is closest in meaning to</span>
+<span class="description">The word "arduous" in the passage is closest in meaning to</span>
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-9" value="A">
@@ -209,7 +214,7 @@
     </li>
 </ul>
 
-<span class="description">Why does the author include a description of how the “doorways and windows” of Machu Picchu were constructed?</span>
+<span class="description">Why does the author include a description of how the "doorways and windows" of Machu Picchu were constructed?</span>
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-10" value="A">
@@ -258,12 +263,12 @@
 </ul>
 
 <span class="description">12. Look at the four squares [█] that indicate where the following sentence could be added to the passage.
-<b>However, some modern architectural designs, such as those using folded plates of concreter or air-inflated structures, are again unifying skeleton and skin.</b>
+<quote><b>However, some modern architectural designs, such as those using folded plates of concreter or air-inflated structures, are again unifying skeleton and skin.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
 </ul>
 
-<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.Architecture uses forms and space to express cultural values.Answer choices</span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Architecture uses forms and space to express cultural values.</p><p>Answer choices</p></span>
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-13" value="A">
@@ -277,7 +282,7 @@ Where would the sentence best fit? Click on a square to add the sentence to the 
     </li>
    <li class="choice">
       <input type="radio"  name="answer-13" value="C">
-        Throughout history buildings have been constructed like human bodies, needing distinct “organ” systems in order to function.
+        Throughout history buildings have been constructed like human bodies, needing distinct "organ" systems in order to function.
       </input>
     </li>
    <li class="choice">

@@ -630,7 +630,7 @@ TPO3-1:
 ARCHITECTURE
 Architecture is the art and science of designing structures that organize and enclose space for practical and symbolic purposes. Because architecture grows out of human needs and aspirations, it clearly communicates cultural values. Of all the visual arts, architecture affects our lives most directly for it determines the character of the human environment in major ways.
 Architecture is a three-dimensional form. It utilizes space, mass, texture, line, light, and color. To be architecture, a building must achieve a working harmony with a variety of elements. Humans instinctively seek structures that will shelter and enhance their way of life. It is the work of architects to create buildings that are not simply constructions but also offer inspiration and delight. Buildings contribute to human life when they provide shelter, enrich space, complement their site, suit the climate, and are economically feasible. The client who pays for the building and defines its function is an important member of the architectural team. The mediocre design of many contemporary buildings can be traced to both clients and architects.
-In order for the structure to achieve the size and strength necessary to meet its purpose, architecture employs methods of support that, because they are based on physical laws, have changed little since people first discovered them-even while building materials have changed dramatically. The world’s architectural structures have also been devised in relation to the objective limitations of materials. Structures can be analyzed in terms of how they deal with downward forces created by gravity. They are designed to withstand the forces of compression (pushing together), tension (pulling apart), bending, or a combination of these in different parts of the structure.
+<span class="question-highlight-3">In order for the structure to achieve the size and strength necessary to meet its purpose, architecture employs methods of support that, because they are based on physical laws, have changed little since people first discovered them-even while building materials have changed dramatically.</span> The world’s architectural structures have also been devised in relation to the objective limitations of materials. Structures can be analyzed in terms of how they deal with downward forces created by gravity. They are designed to withstand the forces of compression (pushing together), tension (pulling apart), bending, or a combination of these in different parts of the structure.
 Even development in architecture has been the result of major technological changes. Materials and methods of construction are integral parts of the design of architecture structures. In earlier times it was necessary to design structural systems suitable for the materials that were available, such as wood, stone, brick. Today technology has progressed to the point where it is possible to invent new building materials to suit the type of structure desired. Enormous changes in materials and techniques of construction within the last few generations have made it possible to enclose space with much greater ease and speed and with a minimum of material. Progress in this area can be measured by the difference in weight between buildings built now and those of comparable size built one hundred years ago.
 Modern architectural forms generally have three separate components comparable to elements of the human body? a supporting skeleton or frame, an outer skin enclosing the interior spaces, equipment, similar to the body’s vital organs and systems. The equipment includes plumbing, electrical wiring, hot water, and air-conditioning. Of course in early architecture—such as igloos and adobe structures—there was no such equipment, and the skeleton and skin were often one.
 Much of the world’s great architecture has been constructed of stone because of its beauty, permanence, and availability. In the past, whole cities grew from the arduous task of cutting and piling stone upon. Some of the world’s finest stone architecture can be seen in the ruins of the ancient Inca city of Machu Picchu high in the eastern Andes Mountains of Peru. The doorways and windows are made possible by placing over the open spaces thick stone beams that support the weight from above. A structural invention had to be made before the physical limitations of stone could be overcome and new architectural forms could be created. That invention was the arch, a curved structure originally made of separate stone or brick segments. The arch was used by the early cultures of the Mediterranean area chiefly for underground drains, but it was the Romans who first developed and used the arch extensively in aboveground structures. Roman builders perfected the semicircular arch made of separate blocks of stone. As a method of spanning space, the arch can support greater weight than a horizontal beam. It works in compression to divert the weight above it out to the sides, where the weight is borne by the vertical elements on either side of the arch. The arch is among the many important structural breakthroughs that have characterized architecture throughout the centuries.
@@ -649,7 +649,8 @@ Paragraph 2：Architecture is a three-dimensional form. It utilizes space, mass,
 ○Most likely
 Paragraph 3：In order for the structure to achieve the size and strength necessary to meet its purpose, architecture employs methods of support that, because they are based on physical laws, have changed little since people first discovered them-even while building materials have changed dramatically. The world’s architectural structures have also been devised in relation to the objective limitations of materials. Structures can be analyzed in terms of how they deal with downward forces created by gravity. They are designed to withstand the forces of compression (pushing together), tension (pulling apart), bending, or a combination of these in different parts of the structure.
 3. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
-○Unchanging physical laws have limited the size and strength of buildings that can be made with materials discovered long ago. ○Building materials have changed in order to increase architectural size and strength, but physical laws of structure have not changed.
+○Unchanging physical laws have limited the size and strength of buildings that can be made with materials discovered long ago.
+○Building materials have changed in order to increase architectural size and strength, but physical laws of structure have not changed.
 ○When people first started to build, the structural methods used to provide strength and size were inadequate because they were not based on physical laws.
 ○Unlike building materials, the methods of support used in architecture have not changed over time because they are based on physical laws.
 4. The word “devised” in the passage is closest in meaning to
@@ -1455,72 +1456,72 @@ Speculation on the origin of these Pacific islanders began as soon as outsiders 
 The basic cultural requirements for the successful colonization of the Pacific islands include the appropriate boat-building, sailing, and navigation skills to get to the islands in the first place, domesticated plants and gardening skills suited to often marginal conditions, and a varied inventory of fishing implements and techniques. It is now generally believed that these prerequisites originated with peoples speaking Austronesian languages (a group of several hundred related languages) and began to emerge in Southeast Asia by about 5000 B. C.E. The culture of that time, based on archaeology and linguistic reconstruction, is assumed to have had a broad inventory of cultivated plants including taro, yarns, banana, sugarcane, breadfruit, coconut, sago, and rice. Just as important, the culture also possessed the basic foundation for an effective maritime adaptation, including outrigger canoes and a variety of fishing techniques that could be effective for overseas voyaging.
 Contrary to the arguments of some that much of the pacific was settled by Polynesians accidentally marooned after being lost and adrift, it seems reasonable that this feat was accomplished by deliberate colonization expeditions that set out fully stocked with food and domesticated plants and animals. Detailed studies of the winds and currents using computer simulations suggest that drifting canoes would have been a most unlikely means of colonizing the Pacific. These expeditions were likely driven by population growth and political dynamics on the home islands, as well as the challenge and excitement of exploring unknown waters. Because all Polynesians, Micronesians, and many Melanesians speak Austronesian languages and grow crops derived from Southeast Asia, all these peoples most certainly derived from that region and not the New World or elsewhere. The undisputed pre-Columbian presence in Oceania of the sweet potato, which is a New World domesticate, has sometimes been used to support Heyerdahl’s “American Indians in the Pacific” theories. However, this is one plant out of a long list of Southeast Asian domesticates. As Patrick Kirch, an American anthropologist, points out, rather than being brought by rafting South Americans, sweet potatoes might just have easily been brought back by returning Polynesian navigators who could have reached the west coast of South America.
  
-Paragraph1: The greater Pacific region, traditionally called Oceania, consists of three cultural areas: Melanesia, Micronesia, and Polynesia. Melanesia, in the southwest Pacific, contains the large islands of New Guinea, the Solomons, Vanuatu, and New Caledonia. Micronesia, the area north of Melanesia, consists primarily of small scattered islands. Polynesia is the central Pacific area in the great triangle defined by Hawaii, Easter Island, and New Zealand. Before the arrival of Europeans, the islands in the two largest cultural areas, Polynesia and Micronesia, together contained a population estimated at 700,000.
+Paragraph 1: The greater Pacific region, traditionally called Oceania, consists of three cultural areas: Melanesia, Micronesia, and Polynesia. Melanesia, in the southwest Pacific, contains the large islands of New Guinea, the Solomons, Vanuatu, and New Caledonia. Micronesia, the area north of Melanesia, consists primarily of small scattered islands. Polynesia is the central Pacific area in the great triangle defined by Hawaii, Easter Island, and New Zealand. Before the arrival of Europeans, the islands in the two largest cultural areas, Polynesia and Micronesia, together contained a population estimated at 700,000.
 1. According to Paragraph1, all of the following are true statements about Melanesia, Micronesia, and Polynesia EXCEPT
- Collectively, these regions are traditionally known as Oceania.
- These islands of Micronesia are small and spread out
- Hawaii, Easter Island, and New Zealand mark the boundaries of Polynesia.
- Melanesia is situated to the north of Micronesia.
-Paragraph2: Speculation on the origin of these Pacific islanders began as soon as outsiders encountered them, in the absence of solid linguistic, archaeological, and biological data, many fanciful and mutually exclusive theories were devised. Pacific islanders ere variously thought to have come from North America, South America, Egypt, Israel, and India, as well as Southeast Asia. Many older theories implicitly deprecated the navigational abilities and overall cultural creativity of the Pacific islanders. For example, British anthropologists G. Elliot Smith and W. J. Perry assumed that only Egyptians would have been skilled enough to navigate and colonize the Pacific. They inferred that the Egyptians even crossed the Pacific to found the great civilizations of the New World (North and South America). In1947 Norwegian adventurer Thor Heyerdahl drifted on a balsa-log raft westward with the winds and currents across the Pacific from South America to prove his theory that Pacific islanders were Native Americans (also called American Indians). Later Heyerdahl suggested that the Pacific was peopled by three migrations: by Native Americans from the Pacific Northwest of North America drifting to Hawaii, by Peruvians drifting to Easter Island, and by Melanesians. In 1969 he crossed the Atlantic in an Egyptian style reed boat to prove Egyptian influences in the Americas. Contrary to these theorists, the overwhelming evidence of physical anthropology, linguistics, and archaeology shows that the Pacific islanders came from Southeast Asia and were skilled enough as navigators to sail against the prevailing winds and currents.
+O Collectively, these regions are traditionally known as Oceania.
+O These islands of Micronesia are small and spread out
+O Hawaii, Easter Island, and New Zealand mark the boundaries of Polynesia.
+O Melanesia is situated to the north of Micronesia.
+Paragraph 2: Speculation on the origin of these Pacific islanders began as soon as outsiders encountered them, in the absence of solid linguistic, archaeological, and biological data, many fanciful and mutually exclusive theories were devised. Pacific islanders ere variously thought to have come from North America, South America, Egypt, Israel, and India, as well as Southeast Asia. Many older theories implicitly deprecated the navigational abilities and overall cultural creativity of the Pacific islanders. For example, British anthropologists G. Elliot Smith and W. J. Perry assumed that only Egyptians would have been skilled enough to navigate and colonize the Pacific. They inferred that the Egyptians even crossed the Pacific to found the great civilizations of the New World (North and South America). In1947 Norwegian adventurer Thor Heyerdahl drifted on a balsa-log raft westward with the winds and currents across the Pacific from South America to prove his theory that Pacific islanders were Native Americans (also called American Indians). Later Heyerdahl suggested that the Pacific was peopled by three migrations: by Native Americans from the Pacific Northwest of North America drifting to Hawaii, by Peruvians drifting to Easter Island, and by Melanesians. In 1969 he crossed the Atlantic in an Egyptian style reed boat to prove Egyptian influences in the Americas. Contrary to these theorists, the overwhelming evidence of physical anthropology, linguistics, and archaeology shows that the Pacific islanders came from Southeast Asia and were skilled enough as navigators to sail against the prevailing winds and currents.
 2. By stating that the theories are mutually exclusive the author means that
- if one of the theories is true, then all the others must be false
- the differences between the theories are unimportant
- taken together, the theories cover all possibilities
- the theories support each other
+O if one of the theories is true, then all the others must be false
+O the differences between the theories are unimportant
+O taken together, the theories cover all possibilities
+O the theories support each other
 3. The word overwhelming in the passage is closest in meaning to
- powerful
- favorable
- current
- reasonable
+O powerful
+O favorable
+O current
+O reasonable
 4. According to Paragraph2, which of the following led some early researchers to believe that the Pacific islanders originally came from Egypt?
- Egyptians were known to have founded other great civilizations.
- Sailors from other parts of the world were believed to lack the skills needed to travel across the ocean.
- Linguistic, archaeological, and biological data connected the islands to Egypt.
- Egyptian accounts claimed responsibility for colonizing the Pacific as well as the Americas.
+O Egyptians were known to have founded other great civilizations.
+O Sailors from other parts of the world were believed to lack the skills needed to travel across the ocean.
+O Linguistic, archaeological, and biological data connected the islands to Egypt.
+O Egyptian accounts claimed responsibility for colonizing the Pacific as well as the Americas.
 5. Which of the following can be inferred from Paragraph2 about early theories of where the first inhabitants of the Pacific islands came from?
- They were generally based on solid evidence.
- They tried to account for the origin of the characteristic features of the languages spoken by Pacific islanders.
- They assumed that the peoples living in Southeast Asia did not have the skills needed to sail to the Pacific islands.
- They questioned the ideas of G. Elliot Smith and W. J. Perry.
-Paragraph3: The basic cultural requirements for the successful colonization of the Pacific islands include the appropriate boat-building, sailing, and navigation skills to get to the islands in the first place, domesticated plants and gardening skills suited to often marginal conditions, and a varied inventory of fishing implements and techniques. It is now generally believed that these prerequisites originated with peoples speaking Austronesian languages (a group of several hundred related languages) and began to emerge in Southeast Asia by about 5000 B. C.E. The culture of that time, based on archaeology and linguistic reconstruction, is assumed to have had a broad inventory of cultivated plants including taro, yarns, banana, sugarcane, breadfruit, coconut, sago, and rice, Just as important, the culture also possessed the basic foundation for an effective maritime adaptation, including outrigger canoes and a variety of fishing techniques that could be effective for overseas voyaging.
+O They were generally based on solid evidence.
+O They tried to account for the origin of the characteristic features of the languages spoken by Pacific islanders.
+O They assumed that the peoples living in Southeast Asia did not have the skills needed to sail to the Pacific islands.
+O They questioned the ideas of G. Elliot Smith and W. J. Perry.
+Paragraph 3: The basic cultural requirements for the successful colonization of the Pacific islands include the appropriate boat-building, sailing, and navigation skills to get to the islands in the first place, domesticated plants and gardening skills suited to often marginal conditions, and a varied inventory of fishing implements and techniques. It is now generally believed that these prerequisites originated with peoples speaking Austronesian languages (a group of several hundred related languages) and began to emerge in Southeast Asia by about 5000 B. C.E. The culture of that time, based on archaeology and linguistic reconstruction, is assumed to have had a broad inventory of cultivated plants including taro, yarns, banana, sugarcane, breadfruit, coconut, sago, and rice, Just as important, the culture also possessed the basic foundation for an effective maritime adaptation, including outrigger canoes and a variety of fishing techniques that could be effective for overseas voyaging.
 6. The word implements in the passage is closest in meaning to
- skills
- tools
- opportunities
- practices
+O skills
+O tools
+O opportunities
+O practices
 7. All of the following are mentioned in Paragraph3 as required for successful colonization of the Pacific islands EXCEPT
- knowledge of various Austronesian languages
- a variety of fishing techniques
- navigational skills
- knowledge of plant cultivation
+O knowledge of various Austronesian languages
+O a variety of fishing techniques
+O navigational skills
+O knowledge of plant cultivation
 8. In Paragraph3, why does the author provide information about the types of crops grown and boats used in Southeast Asia during the period around 5000 B. C. E.?
- To evaluate the relative importance of agriculture and fishing to early Austronesian peoples.
- To illustrate the effectiveness of archaeological and linguistic methods in discovering details about life in ancient times.
- To contrast living conditions on the continent of Asia with living conditions on the Pacific islands.
- To demonstrate that people from this region had the skills and resources necessary to travel to and survive on the Pacific islands.
-Paragraph4: Contrary to the arguments of some that much of the pacific was settled by Polynesians accidentally marooned after being lost and adrift, it seems reasonable that this feat was accomplished by deliberate colonization expeditions that set out fully stocked with food and domesticated plants and animals. Detailed studies of the winds and currents using computer simulations suggest that drifting canoes would have been a most unlikely means of colonizing the Pacific. These expeditions were likely driven by population growth and political dynamics on the home islands, as well as the challenge and excitement of exploring unknown waters. Because all Polynesians, Micronesians, and many Melanesians speak Austronesian languages and grow crops derived from Southeast Asia, all these peoples most certainly derived from that region and not the New World or elsewhere. The undisputed pre-Columbian presence in Oceania of the sweet potato, which is a New World domesticate, has sometimes been used to support Heyerdahl’s “American Indians in the Pacific” theories. However, this is one plant out of a long list of Southeast Asian domesticates. As Patrick Kirch, an American anthropologist, points out, rather than being brought by rafting South Americans, sweet potatoes might just have easily been brought back by returning Polynesian navigators who could have reached the west coast of South America.
+O To evaluate the relative importance of agriculture and fishing to early Austronesian peoples.
+O To illustrate the effectiveness of archaeological and linguistic methods in discovering details about life in ancient times.
+O To contrast living conditions on the continent of Asia with living conditions on the Pacific islands.
+O To demonstrate that people from this region had the skills and resources necessary to travel to and survive on the Pacific islands.
+Paragraph 4: Contrary to the arguments of some that much of the pacific was settled by Polynesians accidentally marooned after being lost and adrift, it seems reasonable that this feat was accomplished by deliberate colonization expeditions that set out fully stocked with food and domesticated plants and animals. Detailed studies of the winds and currents using computer simulations suggest that drifting canoes would have been a most unlikely means of colonizing the Pacific. These expeditions were likely driven by population growth and political dynamics on the home islands, as well as the challenge and excitement of exploring unknown waters. Because all Polynesians, Micronesians, and many Melanesians speak Austronesian languages and grow crops derived from Southeast Asia, all these peoples most certainly derived from that region and not the New World or elsewhere. The undisputed pre-Columbian presence in Oceania of the sweet potato, which is a New World domesticate, has sometimes been used to support Heyerdahl’s “American Indians in the Pacific” theories. However, this is one plant out of a long list of Southeast Asian domesticates. As Patrick Kirch, an American anthropologist, points out, rather than being brought by rafting South Americans, sweet potatoes might just have easily been brought back by returning Polynesian navigators who could have reached the west coast of South America.
 9. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?
 Incorrect choices change the meaning in important ways or leave out essential information.
- Some people have argued that the Pacific was settled by traders who became lost while transporting domesticated plants and animals.
- The original Polynesian settlers were probably marooned on the islands, but they may have been joined later by carefully prepared colonization expeditions.
- Although it seems reasonable to believe that colonization expeditions would set out fully stocked, this is contradicted by much of the evidence.
- The settlement of the Pacific islands was probably intentional and well planned rather than accidental as some people have proposed.
+O Some people have argued that the Pacific was settled by traders who became lost while transporting domesticated plants and animals.
+O The original Polynesian settlers were probably marooned on the islands, but they may have been joined later by carefully prepared colonization expeditions.
+O Although it seems reasonable to believe that colonization expeditions would set out fully stocked, this is contradicted by much of the evidence.
+O The settlement of the Pacific islands was probably intentional and well planned rather than accidental as some people have proposed.
 10. The word undisputed in the passage is closest in meaning to
- mysterious
- unexpected
- acknowledged
- significant
+O mysterious
+O unexpected
+O acknowledged
+O significant
 11. According to Paragraph4, which of the following is NOT an explanation for why a group of people might have wanted to colonize the Pacific islands?
- As their numbers increased, they needed additional territory.
- The winds and currents made the islands easy to reach.
- The political situation at home made emigration desirable,
- They found exploration challenging and exciting.
+O As their numbers increased, they needed additional territory.
+O The winds and currents made the islands easy to reach.
+O The political situation at home made emigration desirable,
+O They found exploration challenging and exciting.
 12. Why does the author mention the views of “Patrick Kirch”?
- To present evidence in favor of Heyerdahl’s idea about American Indians reaching Oceania
- To emphasize the familiarity of Pacific islanders with crops from many different regions of the world
- To indicate that supposed proof for Heyerdahl’s theory has an alternative explanation.
- To demonstrate that some of the same crops were cultivated in both South America and Oceania.
-Paragraph2: Speculation on the origin of these Pacific islanders began as soon as outsiders encountered them, in the absence of solid linguistic, archaeological, and biological data, many fanciful and mutually exclusive theories were devised. Pacific islanders ere variously thought to have come from North America, South America, Egypt, Israel, and India, as well as Southeast Asia. ■ Many older theories implicitly deprecated the navigational abilities and overall cultural creativity of the Pacific islanders. ■ For example, British anthropologists G. Elliot Smith and W. J. Perry assumed that only Egyptians would have been skilled enough to navigate and colonize the Pacific. ■ They inferred that the Egyptians even crossed the Pacific to found the great civilizations of the New World (North and South America). ■ In 1947 Norwegian adventurer Thor Heyerdahl drifted on a balsa-log raft westward with the winds and currents across the Pacific from South America to prove his theory that Pacific islanders were Native Americans (also called American Indians). Later Heyerdahl suggested that the Pacific was peopled by three migrations: by Native Americans from the Pacific Northwest of North America drifting to Hawaii, by Peruvians drifting to Easter Island, and by Melanesians. In 1969 he crossed the Atlantic in an Egyptian style reed boat to prove Egyptian influences in the Americas. Contrary to these theorists, the overwhelming evidence of physical anthropology, linguistics, and archaeology shows that the Pacific islanders came from Southeast Asia and were skilled enough as navigators to sail against the prevailing winds and currents.
+O To present evidence in favor of Heyerdahl’s idea about American Indians reaching Oceania
+O To emphasize the familiarity of Pacific islanders with crops from many different regions of the world
+O To indicate that supposed proof for Heyerdahl’s theory has an alternative explanation.
+O To demonstrate that some of the same crops were cultivated in both South America and Oceania.
+Paragraph 2: Speculation on the origin of these Pacific islanders began as soon as outsiders encountered them, in the absence of solid linguistic, archaeological, and biological data, many fanciful and mutually exclusive theories were devised. Pacific islanders ere variously thought to have come from North America, South America, Egypt, Israel, and India, as well as Southeast Asia. ■ Many older theories implicitly deprecated the navigational abilities and overall cultural creativity of the Pacific islanders. ■ For example, British anthropologists G. Elliot Smith and W. J. Perry assumed that only Egyptians would have been skilled enough to navigate and colonize the Pacific. ■ They inferred that the Egyptians even crossed the Pacific to found the great civilizations of the New World (North and South America). ■ In 1947 Norwegian adventurer Thor Heyerdahl drifted on a balsa-log raft westward with the winds and currents across the Pacific from South America to prove his theory that Pacific islanders were Native Americans (also called American Indians). Later Heyerdahl suggested that the Pacific was peopled by three migrations: by Native Americans from the Pacific Northwest of North America drifting to Hawaii, by Peruvians drifting to Easter Island, and by Melanesians. In 1969 he crossed the Atlantic in an Egyptian style reed boat to prove Egyptian influences in the Americas. Contrary to these theorists, the overwhelming evidence of physical anthropology, linguistics, and archaeology shows that the Pacific islanders came from Southeast Asia and were skilled enough as navigators to sail against the prevailing winds and currents.
 13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
 Later theories concentrate on journeys in the other direction.
 Where could the sentence best fit?
@@ -1562,74 +1563,74 @@ A slightly younger fossil formation containing animal remains is the Tommotian f
 A third fossil formation containing both soft-bodied and hard-bodied animals provides evidence of the result of the Cambrian explosion. This fossil formation, called the Burgess Shale, is in Yoho National Park in the Canadian Rocky Mountains of British Columbia. Shortly after the Cambrian explosion, mud slides rapidly buried thousands of marine animals under conditions that favored fossilization. These fossil beds provide evidence of about 32 modern animal groups, plus about 20 other animal body forms that are so different from any modern animals that they cannot be assigned to any one of the modern groups. These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate detritus or algae. The Burgess Shale formation also has fossils of many extinct representatives of modern animal groups. For example, a well-known Burgess Shale animal called Sidneyia is a representative of a previously unknown group of arthropods (a category of animals that includes insects, spiders, mites, and crabs).
 Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression. The Cambrian explosion involved rapid evolutionary diversification, followed by the extinction of many unique animals. Why was this evolution so rapid? No one really knows. Many zoologists believe that it was because so many ecological niches were available with virtually no competition from existing species. Will zoologists ever know the evolutionary sequences in the Cambrian explosion? Perhaps another ancient fossil bed of soft-bodied animals from 600-million-year-old seas is awaiting discovery.
  
-Paragraph1: The geologic timescale is marked by significant geologic and biological events, including the origin of Earth about 4.6 billion years ago, the origin of life about 3.5 billion years ago, the origin of eukaryotic life-forms (living things that have cells with true nuclei) about 1.5 billion years ago, and the origin of animals about 0.6 billion years ago. The last event marks the beginning of the Cambrian period. Animals originated relatively late in the history of Earth – in only the last 10 percent of Earth’s history. During a geologically brief 100-million-year period, all modern animal groups (along with other animals that are now extinct) evolved. This rapid origin and diversification of animals is often referred to as “the Cambrian explosion.”
+Paragraph 1: The geologic timescale is marked by significant geologic and biological events, including the origin of Earth about 4.6 billion years ago, the origin of life about 3.5 billion years ago, the origin of eukaryotic life-forms (living things that have cells with true nuclei) about 1.5 billion years ago, and the origin of animals about 0.6 billion years ago. The last event marks the beginning of the Cambrian period. Animals originated relatively late in the history of Earth – in only the last 10 percent of Earth’s history. During a geologically brief 100-million-year period, all modern animal groups (along with other animals that are now extinct) evolved. This rapid origin and diversification of animals is often referred to as “the Cambrian explosion.”
 1. The word significant in the passage is closest in meaning to
- numerous
- important
- unexplained
- sudden
+O numerous
+O important
+O unexplained
+O sudden
 2. The word relatively in the passage is closest in meaning to
- surprisingly
- collectively
- comparatively
- characteristically
+O surprisingly
+O collectively
+O comparatively
+O characteristically
 3. The word diversification in the passage is closest in meaning to
- emergence of many varieties
- steady decline in number
- gradual increase in body size
- sudden disappearance
-Paragraph2: Scientists have asked important questions about this explosion for more than a century. Why did it occur so late in the history of Earth? The origin of multicellular forms of life seems a relatively simple step compared to the origin of life itself. Why does the fossil record not document the series of evolutionary changes during the evolution of animals? Why did animal life evolve so quickly? Paleontologists continue to search the fossil record for answers to these questions.
+O emergence of many varieties
+O steady decline in number
+O gradual increase in body size
+O sudden disappearance
+Paragraph 2: Scientists have asked important questions about this explosion for more than a century. Why did it occur so late in the history of Earth? The origin of multicellular forms of life seems a relatively simple step compared to the origin of life itself. Why does the fossil record not document the series of evolutionary changes during the evolution of animals? Why did animal life evolve so quickly? Paleontologists continue to search the fossil record for answers to these questions.
 4. The period discussed in the passage is referred to as an explosion because it
- occurred 0.6 billion years ago, late in Earth’s history
- was characterized by the unusually fast evolution of many new life-forms.
- Was characterized by widespread animal extinction
- Was characterized by violent volcanic eruptions
+O occurred 0.6 billion years ago, late in Earth’s history
+O was characterized by the unusually fast evolution of many new life-forms.
+O Was characterized by widespread animal extinction
+O Was characterized by violent volcanic eruptions
 5. According to Paragraph2, which of the following is NOT a question that paleontologists asked about the Cambrian explosion?
- Why was the origin of life a simple step in Earth’s history?
- Why did it take so long for multicellular organisms to develop?
- Why did animal life evolve so rapidly?
- Why does the fossil record lack evidence of animal evolution during that time?
+O Why was the origin of life a simple step in Earth’s history?
+O Why did it take so long for multicellular organisms to develop?
+O Why did animal life evolve so rapidly?
+O Why does the fossil record lack evidence of animal evolution during that time?
 6. Which of the following best describes the relationship between Paragraph2 and Paragraph3?
- Paragraph2 puts forward several scientific claims, one of which is rejected in Paragraph3
- Paragraph2 poses several questions, and Paragraph3offers a possible answer to one of them
- Paragraph2 presents outdated traditional views, while Paragraph3presents the current scientific conclusions.
- Paragraph2 introduces a generalization that is illustrated by specific examples in Paragraph3
+O Paragraph 2 puts forward several scientific claims, one of which is rejected in Paragraph3
+O Paragraph 2 poses several questions, and Paragraph3offers a possible answer to one of them
+O Paragraph 2 presents outdated traditional views, while Paragraph3presents the current scientific conclusions.
+O Paragraph 2 introduces a generalization that is illustrated by specific examples in Paragraph3
 Paragraph3: One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize. Fossilization of soft-bodied animals is less likely than fossilization of hard-bodied animals, but it does occur. Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition. In fact, fossil beds containing soft-bodied animals have been known for many years.
 7. The word promote in the passage is closest in meaning to
- complicate
- prevent
- encourage
- affect
-Paragraph4: The Ediacara fossil formation, which contains the oldest known animal fossils, consists exclusively of soft-bodied forms. Although named after a site in Australia, the Ediacara formation is worldwide in distribution and dates to Precambrian times. This 700-million-year-old formation gives few clues to the origins of modern animals, however, because paleontologists believe it represents an evolutionary experiment that failed. It contains no ancestors of modern animal groups.
+O complicate
+O prevent
+O encourage
+O affect
+Paragraph 4: The Ediacara fossil formation, which contains the oldest known animal fossils, consists exclusively of soft-bodied forms. Although named after a site in Australia, the Ediacara formation is worldwide in distribution and dates to Precambrian times. This 700-million-year-old formation gives few clues to the origins of modern animals, however, because paleontologists believe it represents an evolutionary experiment that failed. It contains no ancestors of modern animal groups.
 8. Which of the following is NOT mentioned in Paragraph4 as being true of the Ediacara formation?
- It contains fossils that date back to the Precambrian period.
- It contains only soft-bodied animal fossils.
- It is located on a single site in Australia.
- It does not contain any fossils of the ancestors of modern animals.
-Paragraph5: A slightly younger fossil formation containing animal remains is the Tommotian formation, named after a locale in Russia. It dates to the very early Cambrian period, and it also contains only soft-bodied forms. At one time, the animals present in these fossil beds were assigned to various modern animal groups, but most paleontologists now agree that all Tommotian fossils represent unique body forms that arose in the early Cambrian period and disappeared before the end of the period, leaving no descendants in modern animal groups.
+O It contains fossils that date back to the Precambrian period.
+O It contains only soft-bodied animal fossils.
+O It is located on a single site in Australia.
+O It does not contain any fossils of the ancestors of modern animals.
+Paragraph 5: A slightly younger fossil formation containing animal remains is the Tommotian formation, named after a locale in Russia. It dates to the very early Cambrian period, and it also contains only soft-bodied forms. At one time, the animals present in these fossil beds were assigned to various modern animal groups, but most paleontologists now agree that all Tommotian fossils represent unique body forms that arose in the early Cambrian period and disappeared before the end of the period, leaving no descendants in modern animal groups.
 9. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
- The animals found in the Tommotian fossil bed were once thought to belong to a variety of modern animal groups, but now they are thought to have descended from a single group.
- Animals in the Tommotian fossil beds were initially assigned to modern animal groups but are now thought to belong to groups that emerged and died out during the Cambrian period.
- Though at first they thought otherwise, paleontologists now agree that the animals in the Tommotian have body forms from which modern animals have descended.
- It is unclear whether the Tommotian fossils from the early Cambrian period represent unique body forms or whether they should be assigned to various modern animal groups.
-Paragraph6: A third fossil formation containing both soft-bodied and hard-bodied animals provides evidence of the result of the Cambrian explosion. This fossil formation, called the Burgess Shale, is in Yoho National Park in the Canadian Rocky Mountains of British Columbia. Shortly after the Cambrian explosion, mud slides rapidly buried thousands of marine animals under conditions that favored fossilization. These fossil beds provide evidence of about 32 modern animal groups, plus about 20 other animal body forms that are so different from any modern animals that they cannot be assigned to any one of the modern groups. These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate detritus or algae. The Burgess Shale formation also has fossils of many extinct representatives of modern animal groups. For example, a well-known Burgess Shale animal called Sidneyia is a representative of a previously unknown group of arthropods (a category of animals that includes insects, spiders, mites, and crabs).
+O The animals found in the Tommotian fossil bed were once thought to belong to a variety of modern animal groups, but now they are thought to have descended from a single group.
+O Animals in the Tommotian fossil beds were initially assigned to modern animal groups but are now thought to belong to groups that emerged and died out during the Cambrian period.
+O Though at first they thought otherwise, paleontologists now agree that the animals in the Tommotian have body forms from which modern animals have descended.
+O It is unclear whether the Tommotian fossils from the early Cambrian period represent unique body forms or whether they should be assigned to various modern animal groups.
+Paragraph 6: A third fossil formation containing both soft-bodied and hard-bodied animals provides evidence of the result of the Cambrian explosion. This fossil formation, called the Burgess Shale, is in Yoho National Park in the Canadian Rocky Mountains of British Columbia. Shortly after the Cambrian explosion, mud slides rapidly buried thousands of marine animals under conditions that favored fossilization. These fossil beds provide evidence of about 32 modern animal groups, plus about 20 other animal body forms that are so different from any modern animals that they cannot be assigned to any one of the modern groups. These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate detritus or algae. The Burgess Shale formation also has fossils of many extinct representatives of modern animal groups. For example, a well-known Burgess Shale animal called Sidneyia is a representative of a previously unknown group of arthropods (a category of animals that includes insects, spiders, mites, and crabs).
 10. Why does the author mention Anomalocans and Wiwaxia?
- To contrast predators with animals that eat plants such as algae
- To question the effects of rapid mud slides on fossilization
- To suggest that much is still unknown about animals found in the Burgess Shale
- To provide examples of fossils that cannot be assigned to a modern animal group
+O To contrast predators with animals that eat plants such as algae
+O To question the effects of rapid mud slides on fossilization
+O To suggest that much is still unknown about animals found in the Burgess Shale
+O To provide examples of fossils that cannot be assigned to a modern animal group
 11. Sidneyia is an example of
- a relative of Anomalocaris and Wiwaxia
- a previously unknown Burgess Shale animal
- an extinct member of a currently existing category of animals
- an animal that cannot be assigned to any modern animal group
-Paragraph7: Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression. The Cambrian explosion involved rapid evolutionary diversification, followed by the extinction of many unique animals. Why was this evolution so rapid? No one really knows. Many zoologists believe that it was because so many ecological niches were available with virtually no competition from existing species. Will zoologists ever know the evolutionary sequences in the Cambrian explosion? Perhaps another ancient fossil bed of soft-bodied animals from 600-million-year-old seas is awaiting discovery.
+O a relative of Anomalocaris and Wiwaxia
+O a previously unknown Burgess Shale animal
+O an extinct member of a currently existing category of animals
+O an animal that cannot be assigned to any modern animal group
+Paragraph 7: Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression. The Cambrian explosion involved rapid evolutionary diversification, followed by the extinction of many unique animals. Why was this evolution so rapid? No one really knows. Many zoologists believe that it was because so many ecological niches were available with virtually no competition from existing species. Will zoologists ever know the evolutionary sequences in the Cambrian explosion? Perhaps another ancient fossil bed of soft-bodied animals from 600-million-year-old seas is awaiting discovery.
 12. What can be inferred from Paragraph7 about why the Cambrian explosion is so unusual?
- It generated new ecological niches through the extinction of many unique animals.
- It was a period of rapid evolution, and evolution is often thought of as a slow process.
- It is a period whose evolutionary sequences are clearly marked.
- It generated a very large number of ancient fossil beds containing soft-bodied animals.
-Paragraph3: One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize. ■ Fossilization of soft-bodied animals is less likely than fossilization of hard-bodied animals, but it does occur. ■ Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition.■ In fact, fossil beds containing soft-bodied animals have been known for many years. ■
+O It generated new ecological niches through the extinction of many unique animals.
+O It was a period of rapid evolution, and evolution is often thought of as a slow process.
+O It is a period whose evolutionary sequences are clearly marked.
+O It generated a very large number of ancient fossil beds containing soft-bodied animals.
+Paragraph 3: One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize. ■ Fossilization of soft-bodied animals is less likely than fossilization of hard-bodied animals, but it does occur. ■ Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition.■ In fact, fossil beds containing soft-bodied animals have been known for many years. ■
 13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
 It is relatively rare because the fossilization of soft-bodied animals requires a special environment.
 Where could the sentence best fit?
@@ -5205,7 +5206,7 @@ Answer Choices
  
  
  
-16-3:
+TPO16-3:
 Planets in Our Solar System
 The Sun is the hub of a huge rotating system consisting of nine planets, their satellites, and numerous small bodies, including asteroids, comets, and meteoroids. An estimated 99.85 percent of the mass of our solar system is contained within the Sun, while the planets collectively make up most of the remaining 0.15 percent. The planets, in order of their distance from the Sun, are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto. Under the control of the Sun's gravitational force, each planet maintains an elliptical orbit and all of them travel in the same direction.
 The planets in our solar system fall into two groups: the terrestrial (Earth-like) planets (Mercury, Venus, Earth, and Mars) and the Jovian (Jupiter-like) planets (Jupiter, Saturn, Uranus, and Neptune). Pluto is not included in either category, because its great distance from Earth and its small size make this planet's true nature a mystery.
