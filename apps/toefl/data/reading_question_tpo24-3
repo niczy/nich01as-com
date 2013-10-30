@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares [■] that indicate where the following sentence could be added to the passage.
 <quote><b>Performing everyday household tasks required more effort.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some      sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage.<p>This question is worth 2 points.</p><p>In the thirteenth century, the people in the Mesa Verde area went from living in scattered independent households to living in large pueblos.</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
         Because the thirteenth-century inhabitants of the Mesa Verde area did not have the cultural expectations of today's city dwellers, they easily adapted to communal life.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
         Even though living in pueblos had disadvantages, the population of the area had grown so large that there may have been no other arrangement that would have met its needs.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         From the eleventh century onward, farmers began to increase food production on existing farmland and started bringing more land under cultivation.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="D">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
         A development that contributed to increasing population densities was a cooling climate that led many people to leave the coldest areas and crowd into climatically more favorable areas.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
         The primary reason for moving to pueblos was the social benefits associated with communal life.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         People were brought together by the need to produce food cooperatively, as the use of food surpluses in one place to relieve shortages in another ended due to a change in climate.
       </input>
     </li>

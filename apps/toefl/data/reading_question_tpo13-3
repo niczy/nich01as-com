@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>The repetition allows researchers to observe the infant's behavior until they reach agreement about the presence and the degree of the infant's response.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Researchers use a number of techniques to determine how infants respond to changes in their environment</p><p>Answer choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
         Data from observational methods must be confirmed through multiple studies.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="B">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
         New techniques for studying infant perception have improved the accuracy with which researchers observe and quantify infant responses
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         Indirect observation is most accurate when researchers use it to test auditory and olfactory perception in neonates.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
         Visual indicators such as turning the head, blinking the eyes, or crying remain the best evidence of an infant’s perceptual abilities.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
         Pacifiers are commonly used in studies to calm an infant who has been presented with excessive stimuli.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         Sophisticated techniques that have aided new discoveries about perception in the neonate continue to be indirect measures.
       </input>
     </li>

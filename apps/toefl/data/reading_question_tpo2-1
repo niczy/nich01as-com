@@ -266,37 +266,61 @@
     </li>
 </ul>
 
-<span class="description">12. Look at the four squares A that indicate where the following sentence can be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence can be added to the passage.
 <quote><b>This is a question that has puzzled scientists for ages.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="A">
+      <input type="checkbox" class="right-answer" name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>This passage discusses fossils that help to explain the likely origins of cetaceans-whales, porpoises, and dolphins.</p><p>Answer Choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="A">
         Recent discoveries of fossils have helped to show the link between land mammals and cetaceans.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="B">
+      <input type="radio"  name="answer-14" value="B">
         The discovery of Ambulocetus natans provided evidence for a whale that lived both on land and at sea.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="C">
+      <input type="radio"  name="answer-14" value="C">
         The skeleton of Basilosaurus was found in what had been the Tethys Sea, an area rich in fossil evidence.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="D">
+      <input type="radio"  name="answer-14" value="D">
         Pakicetus is the oldest fossil whale yet to be found.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="E">
+      <input type="radio"  name="answer-14" value="E">
         Fossils thought to be transitional forms between walking mammals and swimming whales were found.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="F">
+      <input type="radio"  name="answer-14" value="F">
         Ambulocetus' hind legs were used for propulsion in the water.
       </input>
     </li>

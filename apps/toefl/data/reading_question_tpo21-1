@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>In either case, the heated water will usually be under considerable pressure, and so may have a temperature that is well above its sea-level boiling point of 100° centigrade.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor<p>ideas in the passage. This question is worth 2 points.</p><p>Heat reservoirs in the form of hot rock far beneath Earth's surface are a potential source of usable geothermal energy.</p><p>O</p><p>O</p><p>O</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
         Heat reservoirs with a temperature from 80° to 180° centigrade can be used, as in France and Iceland, to heat buildings.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
         A number of countries now use geothermal reservoirs that contain water or steam above 180° centigrade to generate electricity.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         Most heat reservoirs with a temperature above 180° centigrade cannot be used for energy because they are usually too close to recent volcanic activity.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="D">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
         The sinking of land above heat reservoirs and other environmental problems arise when water is pumped into a heat reservoir under high pressure.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
         Experiments are under way to determine if geothermally heated waters could be used as a source of certain minerals that have been dissolved out of hot rocks deep within Earth.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         A number of issues, including how to extract heat from reservoirs that do not have a natural supply of water, will significantly limit the use of geothermal energy for the foreseeable future.
       </input>
     </li>

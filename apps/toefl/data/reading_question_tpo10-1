@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares Athat indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares Athat indicate where the following sentence could be added to the passage.
 <quote><b>Foreign trade was also responsible for certain innovations in coloring.</b></quote>
 Where could the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Ceramics have been produced in China for a very long time.</p><p>Answer choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
          The Chinese produced earthenware, stoneware, and porcelain pottery and they used their ceramics for a variety of utilitarian, architectural, and ceremonial purposes.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
          The shape and decoration of ceramics produced for religious use in China were influenced by Chinese ceramics produced for export.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
          As a result of trade relations. Chinese ceramic production changed and Chinese influenced the ceramics production of other countries
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
          Chinese burial ceramics have the longest and most varied history of production and were frequently decorated with written texts that help scholars date them.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
          Before China had contact with the West, the meaning of various designs used to decorate Chinese ceramics was well understood.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="F">
+      <input type="checkbox"  name="answer-14" value="F">
          Ceramics made in imperial factories were used in both religious and non-religious contexts
       </input>
     </li>

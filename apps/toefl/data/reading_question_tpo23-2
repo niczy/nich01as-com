@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage
 <quote><b>Some villages specialized in growing cabbages and carrots; others grew onions, mustard, and coriander; and still others produced fruit and cultivated trees in nurseries.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Direction: An introductory sentence for a brief summary of the passage is provides below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p></p><p>Agriculture formed one of the primary sectors of the economy in seventeenth-century Netherlands.</p><p>Answer Choices</p><p></p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
          The Baltic region produced large quantities of grain for export to other regions, including the Netherlands.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
          The richest people grew enough fruits and vegetables to supply the entire country with fresh produce.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
          An agricultural crisis that began in Europe did not affect Dutch land-reclamation projects.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="D">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
          Specialization in dairy farming, industrial crops, and horticulture allowed the Dutch to be more productivehan some other regions in Europe.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
          Land reclamation and improvement allowed the Dutch to meet demands for their agricultural products.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
          Because the Dutch had specialized their agricultural output they were less susceptible to the crisis that Europe experienced from the beginning of the century.
       </input>
     </li>

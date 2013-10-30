@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>These people had a significant linguistic impact on the continent as well.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Direction: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Agriculture and iron working probably spread to Africa from neighboring regions.</p><p>Answer choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
         nce Africans developed their own crops, they no longer borrowed from other regions.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
         The harshness of the African climate meant that agriculture could not develop until after the introduction of iron tools.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
         The use of livestock improved transportation and trade and allowed for new forms of political control.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
         As the Sahara expanded, the camel gained in importance, eventually coming to have religious significance.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
         The spread of iron working had far-reaching effects on social, economic, and political organization in Africa.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         Today's Bantu-speaking peoples are descended from a technologically advanced people who spread throughout Africa.
       </input>
     </li>

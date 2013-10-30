@@ -262,41 +262,61 @@
     </li>
 </ul>
 
-<span class="description">12. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>However, changing teachers’ thinking about reflection will not succeed unless there is support for reflection in the teaching environment.</b></quote>
 Where could the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Wildman and Niles have conducted research on reflection in teaching</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="A">
+      <input type="checkbox"  name="answer-13" value="A">
         Through their work with Virginia teachers, Wildman and Niles proved conclusively that reflection, though difficult, benefits both teachers and students.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="B">
+      <input type="checkbox" class="right-answer" name="answer-13" value="B">
         Wildman and Niles found that considerable training and practice are required to understand classroom events and develop the skills involved in reflection.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="C">
+      <input type="checkbox"  name="answer-13" value="C">
         Wildman and Niles identified three principles that teachers can use to help themselves cope with problems that may arise as a result of reflection.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="D">
+      <input type="checkbox" class="right-answer" name="answer-13" value="D">
         Wildman and Niles concluded that teachers need sufficient resources as well as the cooperation and encouragement of others to practice reflection.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="E">
+      <input type="checkbox" class="right-answer" name="answer-13" value="E">
         There are numerous obstacles to implementing reflection in schools and insufficient understanding of why teachers might want to reflect.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="F">
+      <input type="checkbox"  name="answer-13" value="F">
         Whether teachers can overcome the difficulties involved in reflection may depend on the nature and intensity of their motivation to reflect
       </input>
     </li>

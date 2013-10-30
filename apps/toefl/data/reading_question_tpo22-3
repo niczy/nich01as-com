@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage
 <quote><b>It is therefore still unclear if all inclusions were formed in the same way.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Studies of the Allende meteorite provided information about the composition of chondritic meteorites and their possible origin.</p><p>O</p><p>O</p><p>O</p><p></p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
         When Allende entered Earth's atmosphere, it broke into thousands of pieces called chondrites because they look like glassy, black seeds.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="B">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
         The mineral content of chondrules suggests that they were probably formed in isolated regions of the nebula that remained much hotter than the rest.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         Chondrules are tiny, millimeter-sized drops of silicate materials that probably formed when lumps of nebular dust were fused at extremely high temperatures and then quickly cooled.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
         Irregularly shaped inclusions in Allende are composed of minerals that are resistant to melting and are believed to be the earlest minerals to have condensed out of the nebula.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
         The matrix that holds the chondrules and inclusions together in Allende consists mainly of grains of nebular dust that were trapped inside the meteor before they could be melted.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         Except for being depleted in volatile elements, chondritic meteorites are probably very similar in composition to the matter from which planets were assembled.
       </input>
     </li>

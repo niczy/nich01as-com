@@ -97,22 +97,22 @@
 <span class="description">Select the TWO answer choice from paragraph 3 that identify materials discovered in the deepest part of the Mediterranean basin. To receive credit you must select TWO answers.</span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-5" value="A">
+      <input type="checkbox"  name="answer-5" value="A">
         Volcanic rock fragments.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-5" value="B">
+      <input type="checkbox" class="right-answer" name="answer-5" value="B">
         Thin silt layers
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-5" value="C">
+      <input type="checkbox"  name="answer-5" value="C">
         Soft, deep-sea mud
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-5" value="D">
+      <input type="checkbox" class="right-answer" name="answer-5" value="D">
         Crystalline salt
       </input>
     </li>
@@ -262,41 +262,61 @@
     </li>
 </ul>
 
-<span class="description">12. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares ■ that indicate where the following sentence could be added to the passage.
 <quote><b>Thus, scientists had information about the shape of the domes but not about their chemical composition and origin.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Direction: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p></p><p>An expedition to the Mediterranean answered some long-standing questions about the ocean’s history.</p><p>Answer choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="A">
+      <input type="checkbox" class="right-answer" name="answer-13" value="A">
         The Glomar Challenger expedition investigated changes in invertebrate fauna and some unusual geologic features.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="B">
+      <input type="checkbox"  name="answer-13" value="B">
         Researchers collected fossils to determine which new species migrated from the Atlantic with older species.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="C">
+      <input type="checkbox"  name="answer-13" value="C">
         Scientists aboard the Glomar Challenger were the first to discover the existence of domelike masses underneath the seafloor.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="D">
+      <input type="checkbox" class="right-answer" name="answer-13" value="D">
         Samples recovered from the expedition revealed important differences in chemical composition and fossil distribution among the sediment layers.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="E">
+      <input type="checkbox" class="right-answer" name="answer-13" value="E">
         Evidence collected by the Glomar Challenger supports geologists' beliefs that the Mediterranean had evaporated and become a desert, before it refilled with water.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="F">
+      <input type="checkbox"  name="answer-13" value="F">
         Mediterranean salt domes formed after crustal movements opened the straits between the Mediterranean and the Atlantic, and the Mediterranean refilled with water.
       </input>
     </li>

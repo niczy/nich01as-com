@@ -384,7 +384,7 @@ Paragraph 1: Extinct but already fully marine cetaceans are known from the fossi
 12. Look at the four squares [■] that indicate where the following sentence can be added to the passage.
 This is a question that has puzzled scientists for ages.
 Where would the sentence best fit?
-13-14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
+13. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 This passage discusses fossils that help to explain the likely origins of cetaceans-whales, porpoises, and dolphins.
 ●
 ●
@@ -506,7 +506,7 @@ Paragraph 7:■The raising of livestock is a major economic activity in semiarid
 12. Look at the four squares [■] that indicate where the following sentence can be added to the passage.
 This economic reliance on livestock in certain regions makes large tracts of land susceptible to overgrazing.
 Where would the sentence best fit?
-13-14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
+13. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 Many factors have contributed to the great increase in desertification in recent decades.
 ●
 ●
@@ -4221,6 +4221,7 @@ Paragraph 3：Animals need natural periodic signals like sunrise to maintain a c
 Paragraph 3：Animals need natural periodic signals like sunrise to maintain a cycle whose period is precisely 24 hours. ■ Such an external cue not only coordinates an animal's daily rhythms with particular features of the local solar day but also—because it normally does so day after day-seems to keep the internal clock's period close to that of Earth's rotation. ■Yet despite this synchronization of the period of the internal cycle, the animal's timer itself continues to have its own genetically built-in period close to, but different from, 24 hours. ■Without the external cue, the difference accumulates and so the internally regulated activities of the biological day drift continuously, like the tides, in relation to the solar day. ■This drift has been studied extensively in many animals and in biological activities ranging from the hatching of fruit fly eggs to wheel running by squirrels. Light has a predominating influence in setting the clock. Even a fifteen-minute burst of light in otherwise sustained darkness can reset an animal's circadian rhythm. Normally, internal rhythms are kept in step by regular environmental cycles. For instance, if a homing pigeon is to navigate with its Sun compass, its clock must be properly set by cues provided by the daylight/darkness cycle.
 13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
 Because the internal signals that regulate waking and going to sleep tend to align themselves with these external cues, the external clock appears to dominate the internal clock.
+Where would the sentence best fit? Click on a square to add the sentence to the passage.
 14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 The activity of animals is usually coordinated with periodically recurring events in the environment.
 ● 

@@ -262,46 +262,66 @@
     </li>
 </ul>
 
-<span class="description">12. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>The difference between the two climates challenged the Maya who had to deal with both.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: Select from the seven phrases below the phrases that correctly characterize the southern Mayan homeland and the phrases that correctly characterize the northern Mayan homeland. Drag each phrase you select into the appropriate column of the table. Two of the phrases will NOT be used. This question is worth 3 points.<p>Southern Mayan homeland</p><p>Northern Mayan homeland</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="A">
+      <input type="checkbox" class="right-answer" name="answer-13" value="A">
          City of Tikal
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="B">
+      <input type="checkbox"  name="answer-13" value="B">
          Predictable rainfall
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="C">
+      <input type="checkbox" class="right-answer" name="answer-13" value="C">
          High above water table
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="D">
+      <input type="checkbox" class="right-answer" name="answer-13" value="D">
          Used reservoirs
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="E">
+      <input type="checkbox"  name="answer-13" value="E">
          Obtained water from wells
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="F">
+      <input type="checkbox"  name="answer-13" value="F">
          Dramatically improved corn crops
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="G">
+      <input type="checkbox"  name="answer-13" value="G">
          Had comparatively thin layer of soil
       </input>
     </li>

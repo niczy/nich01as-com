@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>It is unlikely that this memory will be from the first two years of life.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p></p><p>The ability to construct autobiographical memories—coherent narratives about events from one's past—is probably the joint product of several social and intellectual developments.</p><p></p><p>O</p><p>O</p><p>O</p><p>Answer Choices</p><p></p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
         Although children are capable of simple recognition and recall very early in life, they do not develop the capacity for autobiographical memory until the age of three or four years.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
         Verbal skills and familiarity with narrative structures probably aid in the construction of autobiographical memories.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         Children's earliest autobiographical memories are usually about social interactions with parents.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="D">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
         Research suggests that infantile amnesia occurs in some cultures but not in others and may be linked to children's social experiences.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
         The development of autobiographical memory allows children to appreciate the fact that memories are an important part of their cultural experience.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         Children who have acquired a concept of the self and of various mental states are generally able to talk about their own past memories.
       </input>
     </li>

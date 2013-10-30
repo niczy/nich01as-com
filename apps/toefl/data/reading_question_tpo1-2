@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>To enhance their listener’s enjoyment, storytellers continually make their stores more engaging and memorable.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Anthropologists have developed many theories to help understand why and how theater originated.</p><p>Answer choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
         The presence of theater in almost all societies is thought to have occurred because early story tellers traveled to different groups to tell their stores.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="B">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
         Many theorists believe that theater arises when societies act out myths to preserve social well-being.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         The more sophisticated societies became, the better they could influence desirable occurrences through ritualized theater.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
         Some theories of theater development focus on how theater was used by group leaders to group leaders govern other members of society.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
         Theater may have come from pleasure humans receive from storytelling and moving rhythmically.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         The human capacities for imitation and fantasy are considered possible reasons why societies develop theater.
       </input>
     </li>

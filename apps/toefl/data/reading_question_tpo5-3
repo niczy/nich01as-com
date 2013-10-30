@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>It is relatively rare because the fossilization of soft-bodied animals requires a special environment.</b></quote>
 Where could the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>The term "Cambrian explosion" refers to the geologically brief period during which all modern animal groups evolved.</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
         Little is known about the stages of evolution during the Cambrian period, in part because early animals were soft bodied and could fossilize only under particular conditions.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="B">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
         While animal fossils from before the Cambrian explosion have no modern descendants, many animals that evolved during the Cambrian explosion can be assigned to modern groups.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         The Cambrian period is significant because it marks the emergence of eukaryotic life-forms – organisms that have cells with true nuclei
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
         The Ediacara fossil formation provides the most information about the Cambrian explosion, while the earlier, Tommotian and Burgess Shale formations give clues about Precambrian evolution.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
         Zoologists are awaiting the discovery of a 600-million-year-old fossil formation in order to be able to form a theory of how animal evolution progressed.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         Although the reasons for the rapid evolution of animals during the Cambrian period are not known, one proposed explanation is an abundance of niches with a lack of competitors.
       </input>
     </li>

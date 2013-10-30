@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>One solution was to keep them busy as sources of labor.</b></quote>
 Where would the sentence best fit? 【】</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentence do not belong to the summary because they express ideas that are no presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>To review passage. Click View Text.</p><p>The Roman army’s occupation of Britain influenced and changed the local population.</p><p>O</p><p>O</p><p>O</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
         Although the presence of the army in certain areas caused resentment among the local population, it provided important services such as building infrastructure.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
         By recruiting unemployed young men for its auxiliary units, the army made it possible for them to stay in their home towns and provide financial support for their families.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         Large quantities of cash from soldiers’ pay stimulated development, but also drove up prices, making it hard for local residents to afford goods and services.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="D">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
         Though the army appropriated land and some goods, it also paid for many supplies, stimulating local economic growth.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
         The forts contributed to the quality of local crafts by bringing in artisans from distant places who brought with them new skills and techniques.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         Roman soldiers started familiers with local inhabitants, and over the generations, the military community became a stable part of British society.
       </input>
     </li>

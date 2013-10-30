@@ -70,7 +70,7 @@
     </li>
 </ul>
 
-<span class="description">All of the following theories about the inability to recall early experiences are rejected in paragraph 2 EXCEPT：</span>
+<span class="description">All of the following theories about the inability to recall early experiences are rejected in paragraph 2 EXCEPT:</span>
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-4" value="A">
@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13.Look at the four squares A that indicate where the following sentence could be added to the passage
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage
 <quote><b>Other important occasions are school graduations and weddings.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">There are several possible explanations why people cannot easily remember their early childhoods. <p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
         Preschoolers typically do not recall events from their first year.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="B">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
         Frontal lobe function of the brain may need to develop before memory retrieval can occur.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
         Children recall physical activities more easily if they are verbalized. 
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
         The opportunity to hear chronologically narrated stories may help three-year-old children produce long-lasting memories. 
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
         The content of a memory determines the way in which it is encoded
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         The contrasting ways in which young children and adults process information may determine their relative success in remembering. 
       </input>
     </li>

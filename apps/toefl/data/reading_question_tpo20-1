@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence can be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence can be added to the passage.
 <quote><b>In fact, goods could be shipped more cheaply across the much greater distance of the Atlantic Ocean than they could from western New York to coastal cities.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>The westward movement of population across the United States led to expanded agricultural production.</p><p>O</p><p>O</p><p>O</p><p>Answer Choices</p><p></p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
         The desire to improve their livelihood often inspired people to move  west.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
         Among the people who moved to the western United States were a number of artisans.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
         The fertility of western farmland as well as favorable government policies supported agricultural gains.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
         Steamboats were originally used to transport passengers rather than freight.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
         Commercial farming in the West was greatly enhanced by improvements in land and water transportation.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="F">
+      <input type="checkbox"  name="answer-14" value="F">
         The transportation revolution resulted in regional economies that operated independently of a national market economy.
       </input>
     </li>

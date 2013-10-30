@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>Moreover, other evidence suggests that even if an ice-free corridor did exist, it would have lacked the resources needed for human colonization.</b></quote>
 Where could the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Recent evidence favors a rival to the long-standing theory that the Americas were colonized 11,000-12,000 years ago by people migrating south from Beringia along a midcontinental ice-free corridor</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
         Evidence that an ice-free corridor between two ice sheets developed when the continental ice first began to melt came primarily from radiocarbon dating.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="B">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
         There is growing support for the theory that migration took place much earlier, by sea, following a coastal route along Alaska and down the northwest coast.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
         Recent geologic evidence indicates that contrary to what had been believed, substantial areas along the coast were free of ice as early as 16,000 years ago.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
         Research now indicates that the parts of the inner continental shelf that remained covered with ice were colonized by a variety of early human groups well adapted to living in extremely cold environments.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
         There is evidence suggesting that areas along the coast may have contained enough food resources between 13,000 and 14,000 years ago to have made human colonization possible.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="F">
+      <input type="checkbox"  name="answer-14" value="F">
         Even though the northern part of the continent allowed for a more varied economy, several early human groups quickly moved south.
       </input>
     </li>

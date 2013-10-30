@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>He arranged the feed boxes at various positions on a compass.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Gustave Kramer conducted important research related to the ability of birds to orient and navigate.</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
          Because caged birds become disoriented when the sky is overcast, Kramer hypothesized that birds orient themselves according to the Sun's position.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
          In one set of experiments. Kramer placed the box containing food at the same point of the compass each time he put food boxes in the birds’ environment.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
          Kramer demonstrated that an internal biological clock allows starlings to compensate for the Sun's movement.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
          After several studies. Kramer surmised that an internal biological clock allows some species of birds to navigate at night
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
          The role of environmental cues in birds' navigation is clear, for on overcast days, birds use objects besides the Sun to orient themselves.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
          Kramer showed that night-migrating birds use the sky to navigate by the stars.
       </input>
     </li>

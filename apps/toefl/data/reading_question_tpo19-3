@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares Athat indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares Athat indicate where the following sentence could be added to the passage.
 <quote><b>In his view, there could be no other explanation for the composition of such drift.</b></quote>
 Where would the sentence best fit ? 【】</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Louis Agassiz was the first to note signs of glacial erosion and sedimentation in diverse regions of Europe and North America.</p><p></p><p></p><p></p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="A">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
         Evidence of a pattern of glacier-like deposits eventually convinced most geologists that an enormous continental glacier had extended into the temperate zone.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
         Glacial research showed that many layers of ice were deposited, with each new period of glaciation extending farther south than the one before.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
         Isotopic analysis of marine sediments showed that periods of glaciation and deglaciation were more frequent, shorter, and more cyclic than previously thought.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="D">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
         Nineteenth-century geologists came to accept the idea that the areas covered by polar ice had reached as far as the equator, a far larger area than Agassiz had thought.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
         Nineteenth-century geologists studying the layers of drift concluded that during the Pleistocene epoch, several glaciations had occurred with war periods between them.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="F">
+      <input type="checkbox"  name="answer-14" value="F">
         Research involving foraminifera fossil shells show that ocean temperatures in the Northern Hemisphere varied greatly during the most extensive periods of glaciation.
       </input>
     </li>

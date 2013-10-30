@@ -267,46 +267,66 @@
     </li>
 </ul>
 
-<span class="description">12.​Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">​Look at the four squares [■] that indicate where the following sentence could be added to the passage.
 <quote><b>To better understand breathing during sleep, it is, however, helpful to first understand how respiration works in general.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: From the seven statements below, select the statements that correctly characterize breathing during<p>wakefulness and those statements that correctly characterize breathing during sleep. Drag each answer choice you select</p><p>into the appropriate box of the table. Two of the answer choices will NOT be used. This question is worth 3 points.</p><p>Wakefulness Sleep</p><p></p><p></p><p></p><p></p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="A">
+      <input type="checkbox" class="right-answer" name="answer-13" value="A">
         The role of the rib cage increases and the role of the diaphragm decreases.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="B">
+      <input type="checkbox"  name="answer-13" value="B">
         Carbon dioxide in blood rises and oxygen drops.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="C">
+      <input type="checkbox"  name="answer-13" value="C">
         The coughing reflex is extremely complex.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="D">
+      <input type="checkbox"  name="answer-13" value="D">
         A great deal of effort is used for breathing.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="E">
+      <input type="checkbox"  name="answer-13" value="E">
         Upper airways are resistant to colds and allergies.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="F">
+      <input type="checkbox"  name="answer-13" value="F">
         There is a drop in the volume of air that is exchanged.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="G">
+      <input type="checkbox" class="right-answer" name="answer-13" value="G">
         Automatic and voluntary respiratory systems are both involved.
       </input>
     </li>

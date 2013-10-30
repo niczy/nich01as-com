@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>They may be more interested in researching, for example, the adaptations that some aquatic animals undergo to survive in dry desert environments.</b></quote>
 Where would the sentence best fit ?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provied below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>To review passage. Click View Text.</p><p>The study of the combination of plant species that inhabit a particular locality became a scientific discipline toward the end of the nineteenth century.</p><p></p><p></p><p></p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
         Areas that are recovering from serious disturbances like volcanic eruptions and heavy floods provide special opportunities to observe the development of plant communities.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="B">
+      <input type="checkbox"  name="answer-14" value="B">
         Whether a given species will be found in a given ecosystem strongly depends on what other species it would interact with in that ecosystem.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="C">
+      <input type="checkbox"  name="answer-14" value="C">
         Computer-aided studies of entire system of associated organisms together with their environment provide a solid basis for current studies of specific ecological problems.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="D">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
         According to the earliest theories of ecology, the development of plant communities proceeds in lawlike fashion and results in stable climax communities.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
         The idea of associations of plants and animals that function as "superorganisms" was later rejected by biologists who saw no strong evidence in support of that idea.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
         The once popular idea of communities as integrated ecosystems has been largely rejected by modern ecologists, who are more interested in problems involving behavior and adaptations.
       </input>
     </li>

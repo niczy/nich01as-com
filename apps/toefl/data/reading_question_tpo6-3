@@ -262,10 +262,30 @@
     </li>
 </ul>
 
-<span class="description">12.Look at the four squares A that indicate where the following sentence could be   added to the passage. 
+<span class="description">Look at the four squares A that indicate where the following sentence could be   added to the passage. 
 <quote><b>The factories did not have to go to the streams when power could come to the factories. </b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">The Industrial Revolution would not have been possible without a new source of power that was efficient, movable，and continuously available. <p>Answer Choices</p></span>

@@ -286,10 +286,30 @@
     </li>
 </ul>
 
-<span class="description">13.Look at the four squares Athat indicate where the following sentence could be added to the passage
+<span class="description">Look at the four squares Athat indicate where the following sentence could be added to the passage
 <quote><b>The findings of these geologists inspired others to examine the rock and fossil records in different parts of the world. </b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">William Smith’s contributions to geology have increased our knowledge of the Each’s history. <p>Answer Choices</p></span>

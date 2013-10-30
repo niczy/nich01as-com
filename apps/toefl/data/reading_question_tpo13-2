@@ -286,37 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>Because the internal signals that regulate waking and going to sleep tend to align themselves with these external cues, the external clock appears to dominate the internal clock.</b></quote>
-14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.</span>
+Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-13" value="A">
-         Most animals survive and reproduce successfully without coordinating their activities to external environmental rhythms.
+        A
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-13" value="B">
-         The circadian period of an animal's internal clock is genetically determined and basically unchangeable.
+        B
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-13" value="C">
-         Environmental cues such as a change in temperature are enough to reset an animal's clock.
+        C
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>The activity of animals is usually coordinated with periodically recurring events in the environment.</p><p>Answer Choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
+         Most animals survive and reproduce successfully without coordinating their activities to external environmental rhythms.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
+         The circadian period of an animal's internal clock is genetically determined and basically unchangeable.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="C">
+         Environmental cues such as a change in temperature are enough to reset an animal's clock.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="D">
          Animals have internal clocks that influence their activities even when environmental cues are absent.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
          Animals are less affected by large differences between their internal rhythms and the local solar day than are humans
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="F">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
          Because an animal's internal clock does not operate on a 24-hour cycle, environmental stimuli are needed to keep the biological day aligned with the solar day.
       </input>
     </li>

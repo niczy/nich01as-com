@@ -262,46 +262,66 @@
     </li>
 </ul>
 
-<span class="description">12. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>People who do not live alone, for example, tend to make healthier life choices and develop fewer pathologies than people who live by themselves.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: Complete the table below by selecting three answer choices that are characteristics of primary groups and two answer choices that are characteristics of secondary groups. This question is worth 3 points.<p>Primary Groups</p><p>Secondary Groups</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="A">
+      <input type="checkbox" class="right-answer" name="answer-13" value="A">
          Developing socially acceptable behavior
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="B">
+      <input type="checkbox"  name="answer-13" value="B">
          Working together against competitors
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="C">
+      <input type="checkbox"  name="answer-13" value="C">
          Experiencing pressure from outside forces
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="D">
+      <input type="checkbox"  name="answer-13" value="D">
          Viewing people as a means to an end
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-13" value="E">
+      <input type="checkbox"  name="answer-13" value="E">
          Existing for practical purposes
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="F">
+      <input type="checkbox" class="right-answer" name="answer-13" value="F">
          Providing meaning for life situations
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-13" value="G">
+      <input type="checkbox" class="right-answer" name="answer-13" value="G">
          Involving close relationships
       </input>
     </li>

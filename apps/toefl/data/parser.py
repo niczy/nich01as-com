@@ -85,7 +85,7 @@ def output(articles):
   question_des_template = Template('<span class="description">$description</span>\n')
   option_template = Template('''
    <li class="choice">
-      <input type="radio" $right_answer_class name="$name" value="$value">
+      <input type="$input_type" $right_answer_class name="$name" value="$value">
         $option
       </input>
     </li>''')
@@ -116,8 +116,12 @@ def output(articles):
         for option in question.options:
           optionid = optionid + 1
           right_answer_class = 'class="right-answer"' if question.answer and optionid in question.answer.choices else ''
+          input_type = 'radio'
+          "TODO(charlie): the answer is missing"
+          if question.answer:
+            input_type = 'radio' if len(question.answer.choices) == 1 else 'checkbox'
           options = options + option_template.substitute(
-              option = option, name = 'answer-' + str(answerid), value = value_index[optionid], right_answer_class = right_answer_class)
+              option = option, name = 'answer-' + str(answerid), value = value_index[optionid], right_answer_class = right_answer_class, input_type = input_type)
         output_file.write(options_template.substitute(options = options))
         
 
@@ -128,14 +132,18 @@ def parse_artiles(filename):
   state = "init"
   paragraphs = []
   ignored_paragraph = ''
+
+  intert_template = Template('<span class="question-$questionid question-highlight-$questionid">$value</span>')
+  values = ['A', 'B', 'C', 'D']
   with open(filename) as input_file:
     for line in input_file.readlines():
-      line = line.strip().replace('．', '. ').replace('”', '"').replace('“', '"') 
+      line = line.strip().replace('．', '. ').replace('”', '"').replace('“', '"').replace('：', ':')
         
       if  re.match('TPO\d+-\d:?', line, re.IGNORECASE):
         if article:
           if question:
             article.questions.append(question)
+            print(question.answercount)
             question = None
           articles.append(article)
         article = Article()
@@ -153,19 +161,29 @@ def parse_artiles(filename):
         question.answercount = question.answercount + 1
       elif 'Look at the four squares' in line and state in ['option', 'ignore', 'paragraph']:
         state = 'intertion-1'
-        line = line.replace('█', 'A').replace('■', 'A').replace('[A]', 'A').replace('【】', 'A').replace('HI', 'A').replace('[Ⓐ] [Ⓑ] [Ⓒ] and [Ⓓ]', 'A').replace('III', 'A')
-        m = re.search('Paragraph (\d+).*', ignored_paragraph)
-        m = re.search('Look at the four squares (A)', line)
-        if m:
-          pass
-        else:
-          print(ignored_paragraph)
-          print(line)
         if question:
           article.questions.append(question)
+        m = re.search('\s*Paragraph (\d+):\s*', ignored_paragraph)
+        if m:
+          block = '■'
+          if '█' in ignored_paragraph:
+            block = '█'
+          line = line.replace('█', 'A').replace('■', 'A').replace('[A]', 'A').replace('【】', 'A').replace('HI', 'A').replace('[Ⓐ] [Ⓑ] [Ⓒ] and [Ⓓ]', 'A').replace('III', 'A')
+          questionid = len(article.questions) + 1
+          for i in xrange(4):
+            ignored_paragraph = ignored_paragraph.replace(block, intert_template.substitute(questionid = questionid, value = values[i]), 1)
+          paragraphidx = int(m.group(1))
+          ignored_paragraph = re.sub('\s*Paragraph (\d+):\s*', '', ignored_paragraph)
+          article.paragraphs[paragraphidx - 1] = ignored_paragraph
+        
         question = Question()
         question.paragraphs = paragraphs
+        question.options.append('A')
+        question.options.append('B')
+        question.options.append('C')
+        question.options.append('D')
         paragraphs = []
+        line = re.sub('^[\s]*\d+\.?\s*', '', line)
         question.description = line
         
       elif state == 'intertion-1':

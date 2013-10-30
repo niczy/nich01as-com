@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage
 <quote><b>While a great deal of information exists, the answers to these questions are not yet definitive.</b></quote>
 Where would the sentence best fit?</span>
 <ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Direction: An introductory sentence for a brief summary of the passage is provides below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p></p><p>Interest in the rock art of the original inhabitants of Australia has grown over the last two centuries.</p><p>Answer Choices</p><p></p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
          Late nineteenth century studies of Aboriginal rock art railed to recognize that a variety of styles existed.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="B">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
          The extreme age of the earliest Aboriginal rock art has been established but the interpretation of rock art images is still debated.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
          A sequence from geometric to more representative art fits many sites but does not necessarily indicate a progression from simple to complex meaning.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="D">
+      <input type="checkbox"  name="answer-14" value="D">
          In determining the way in which Australian rock art was organized, archaeologists have made little distinction between geometric and figurative elements.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="E">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
          Older examples of rock art consist of simple, repeated geometric patterns while later rock art includes figures and animals.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="F">
+      <input type="checkbox"  name="answer-14" value="F">
          Aboriginal informants were able to explain the meanings of ancient rock art symbols.
       </input>
     </li>

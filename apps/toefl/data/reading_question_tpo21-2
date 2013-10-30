@@ -286,41 +286,61 @@
     </li>
 </ul>
 
-<span class="description">13. Look at the four squares A that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>Because humans had built up this knowledge as hunter-gatherers, it is logical to conclude that over time they would have become extremely efficient.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
 </ul>
 
 <span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Drag your answer choices to the spaces where they belong. To remove an answer choice, click on it. To review the passage, click View Text.</p><p>It is unclear why hunter-gatherers in different parts of the world independently developed agriculture at roughly the same time.</p><p>O</p><p>O</p><p>O</p><p>Answer Choices</p></span>
 <ul>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="A">
+      <input type="checkbox"  name="answer-14" value="A">
         One obstacle to the transition from a nomadic lifestyle to the sedentary lifestyle required by agriculture was that hunter-gatherers had not developed storage techniques.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="B">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
         It seems unlikely that agriculture emerged in response to a food shortage brought on by a worldwide population crisis that developed once the whole world was occupied.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="C">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
         The origins of agriculture maybe linked to climate change at the end of the last ice age, but this does not explain why earlier climatic instability had not led to agriculture.
       </input>
     </li>
    <li class="choice">
-      <input type="radio" class="right-answer" name="answer-14" value="D">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
         The only available means of understanding the social organization and technical abilities of ancient hunter-gatherer societies is the study of contemporary hunter-gatherers.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="E">
+      <input type="checkbox"  name="answer-14" value="E">
         One recent theory suggests that the invention of agriculture was made possible by the integration of various mental capacities in the human mind.
       </input>
     </li>
    <li class="choice">
-      <input type="radio"  name="answer-14" value="F">
+      <input type="checkbox"  name="answer-14" value="F">
         Little is known about why only some societies that adopted agriculture rapidly progressed to using metal tools, becoming literate, and developing a state.
       </input>
     </li>
