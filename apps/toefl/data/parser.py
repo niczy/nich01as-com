@@ -27,6 +27,10 @@ class Question:
     m = re.search('The word ["]?(\w+)["]?', self.description)
     if m:
       self.highlight = m.group(1)
+    else:
+      m = re.search('The phrase "(.*)"', self.description)
+      if m:
+        self.highlight = m.group(1)
   
   def add_paragraph(self, p):
     if not p: return
