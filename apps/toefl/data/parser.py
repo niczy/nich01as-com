@@ -4,7 +4,17 @@ import sys
 import re
 
 from string import Template
+from sets import Set
 
+class Util:
+
+  @staticmethod
+  def sentence_similarity(s1, s2):
+    return Util.jaccard_sim(Set(s1.split()), Set(s2.split()))
+
+  @staticmethod
+  def jaccard_sim(s1, s2):
+    return len(s1.intersection(s2)) * 1.0 / len(s1.union(s2))
 
 class Question:
   def __init__(self):
@@ -14,8 +24,10 @@ class Question:
     self.paragraphs = []
     self.highlight = ''
     self.answer = None
+    self.highlight_sentence = ''
+    self.id = 0
 
-  def post_process(self):
+  def post_process(self, article):
     # paragraph 5
     # paragraph 5 and 6
     # paragraph 5 and paragraph 6
@@ -31,7 +43,36 @@ class Question:
       m = re.search('The phrase "(.*)"', self.description)
       if m:
         self.highlight = m.group(1)
-  
+    if 'highlighted sentence' in self.description:
+      self.find_highlighted_sentence(article)
+
+  def find_highlighted_sentence(self, article):
+    best_score = 0
+    best_sentence = ''
+    sec_best = 0
+    for p in self.paragraphs:
+      paragraph = article.paragraphs[p - 1]
+      sentences = paragraph.split('.')
+      for s in sentences:
+        score = 0
+        for o in self.options:
+          score += Util.sentence_similarity(s, o)
+        if score > best_score:
+          if best_score > 0:
+            sec_best = best_score
+          best_score = score
+          best_sentence = s
+      # print best_score, sec_best
+    self.highlight_sentence = best_sentence  # THIS IS DONE
+    ''' for p in self.paragraphs:
+      paragraph = article.paragraphs[p - 1]
+      if self.highlight_sentence in paragraph:
+        print paragraph
+        print "==========="
+        article.paragraphs[p - 1] = paragraph.replace(
+          self.highlight_sentence, Article.highlight_template.substitute(Article.highlight_template, word = self.highlight_sentence, qidx = self.id + 1))
+        print article.paragraphs[p - 1] '''
+
   def add_paragraph(self, p):
     if not p: return
     p = int(p)
@@ -55,6 +96,7 @@ class Answer:
     return a
 
 class Article:
+  highlight_template = Template('<span class="question-highlight-$qidx">$word</span>')
 
   def __init__(self):
     self.name = ""
@@ -63,16 +105,16 @@ class Article:
     self.questions = []
 
   def post_process(self):
-    highlight_template = Template('<span class="question-highlight-$qidx">$word</span>')
     for i in xrange(len(self.questions)):
       q = self.questions[i]
-      q.post_process()
+      q.id = i
       if i > 0 and len(q.paragraphs) == 0:
         q.paragraphs = self.questions[i - 1].paragraphs
+      q.post_process(self)
       if q.highlight and q.paragraphs:
         pidx = q.paragraphs[0]
         self.paragraphs[pidx - 1] = self.paragraphs[pidx - 1].replace(
-            q.highlight, highlight_template.substitute(highlight_template, word = q.highlight, qidx = i+1))
+            q.highlight, Article.highlight_template.substitute(Article.highlight_template, word = q.highlight, qidx = i+1))
 
 def post_process_question(previous_question, question, paragraphs):
   if paragraphs:
@@ -198,7 +240,12 @@ def parse_artiles(filename):
         question.description = question.description + '\n' + line
       elif re.match('Paragraph \d+.*', line):
         state = "ignore"
-        paragraphs.append(int(re.search('Paragraph (\d+).*', line).group(1)))
+        if re.match('Paragraph (\d+)—(\d+).*', line):
+          m = re.search('Paragraph (\d+)—(\d+).*', line)
+          for x in xrange(int(m.group(1)), int(m.group(2)) + 1):
+            paragraphs.append(x)
+        else:
+          paragraphs.append(int(re.search('Paragraph (\d+).*', line).group(1)))
         ignored_paragraph = line
       elif line.isspace():
         state = "ignore"
