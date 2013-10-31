@@ -2,22 +2,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-1" value="A">
-         delicate
+        delicate
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-1" value="B">
-         elaborate
+        elaborate
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="C">
-         private
+        private
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="D">
-         common
+        common
       </input>
     </li>
 </ul>
@@ -26,22 +26,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-2" value="A">
-         It is a structure of associations with many people.
+        It is a structure of associations with many people.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="B">
-         It should be studied in the course of a social interaction.
+        It should be studied in the course of a social interaction.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="C">
-         It places great demands on people.
+        It places great demands on people.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-2" value="D">
-         It develops gradually overtime.
+        It develops gradually overtime.
       </input>
     </li>
 </ul>
@@ -50,22 +50,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-3" value="A">
-         leaving
+        leaving
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="B">
-         exposing
+        exposing
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-3" value="C">
-         providing
+        providing
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="D">
-         understanding
+        understanding
       </input>
     </li>
 </ul>
@@ -74,22 +74,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-4" value="A">
-         Instrumental ties can develop even in situations in which people would normally not cooperate.
+        Instrumental ties can develop even in situations in which people would normally not cooperate.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="B">
-         Instrumental ties require as much emotional investment as expressive ties.
+        Instrumental ties require as much emotional investment as expressive ties.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="C">
-         Instrumental ties involve security, love, and acceptance.
+        Instrumental ties involve security, love, and acceptance.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="D">
-         Instrumental ties should be expected to be significant.
+        Instrumental ties should be expected to be significant.
       </input>
     </li>
 </ul>
@@ -98,22 +98,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-5" value="A">
-         Primary groups consist of people working together, while secondary groups exist outside of work settings.
+        Primary groups consist of people working together, while secondary groups exist outside of work settings.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-5" value="B">
-         In primary groups people are seen as means, while in secondary groups people are seen as ends.
+        In primary groups people are seen as means, while in secondary groups people are seen as ends.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-5" value="C">
-         Primary groups involve personal relationships, while secondary groups are mainly practical in purpose.
+        Primary groups involve personal relationships, while secondary groups are mainly practical in purpose.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-5" value="D">
-         Primary groups are generally small, while secondary groups often contain more than two people.
+        Primary groups are generally small, while secondary groups often contain more than two people.
       </input>
     </li>
 </ul>
@@ -122,22 +122,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-6" value="A">
-         Secondary group relationships begin by being primary group relationships.
+        Secondary group relationships begin by being primary group relationships.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="B">
-         A secondary group relationship that is highly visible quickly becomes a primary group relationship.
+        A secondary group relationship that is highly visible quickly becomes a primary group relationship.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="C">
-         Sociologists believe that only primary group relationships are important to society.
+        Sociologists believe that only primary group relationships are important to society.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-6" value="D">
-         Even in secondary groups, frequent communication serves to bring people into close relationships.
+        Even in secondary groups, frequent communication serves to bring people into close relationships.
       </input>
     </li>
 </ul>
@@ -146,22 +146,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-7" value="A">
-         enlarge
+        enlarge
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-7" value="B">
-         evaluate
+        evaluate
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-7" value="C">
-         impress
+        impress
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-7" value="D">
-         accept
+        accept
       </input>
     </li>
 </ul>
@@ -170,22 +170,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-8" value="A">
-         Sociologists think that cultural patterns establish connections between the individual and the larger society.
+        Sociologists think that cultural patterns establish connections between the individual and the larger society.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="B">
-         Sociologists believe that individuals with a sense of oneness bridge the gap between society and primary groups.
+        Sociologists believe that individuals with a sense of oneness bridge the gap between society and primary groups.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-8" value="C">
-         Sociologists think primary groups contribute to social solidarity because they help maintain a society's cultural patterns.
+        Sociologists think primary groups contribute to social solidarity because they help maintain a society's cultural patterns.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="D">
-         Sociologists believe that the cultural patterns that provide social solidarity arise as bridges from primary groups.
+        Sociologists believe that the cultural patterns that provide social solidarity arise as bridges from primary groups.
       </input>
     </li>
 </ul>
@@ -194,22 +194,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-9" value="A">
-         drawing comparisons between theory and practice
+        drawing comparisons between theory and practice
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-9" value="B">
-         presenting two opposing theories
+        presenting two opposing theories
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-9" value="C">
-         defining important concepts and providing examples of them
+        defining important concepts and providing examples of them
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-9" value="D">
-         discussing causes and their effects
+        discussing causes and their effects
       </input>
     </li>
 </ul>
@@ -218,22 +218,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-10" value="A">
-         detract
+        detract
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="B">
-         advance
+        advance
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="C">
-         select
+        select
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-10" value="D">
-         depart
+        depart
       </input>
     </li>
 </ul>
@@ -242,22 +242,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-11" value="A">
-         To enforce practice of the kinds of behavior acceptable to the group
+        To enforce practice of the kinds of behavior acceptable to the group
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-11" value="B">
-         To discourage offending individuals from remaining in the group
+        To discourage offending individuals from remaining in the group
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-11" value="C">
-         To commend and reward the behavior of the other members of the group
+        To commend and reward the behavior of the other members of the group
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-11" value="D">
-         To decide which behavioral norms should be passed on to the next generation?
+        To decide which behavioral norms should be passed on to the next generation?
       </input>
     </li>
 </ul>
@@ -292,37 +292,37 @@ Where would the sentence best fit?</span>
 <ul>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-13" value="A">
-         Developing socially acceptable behavior
+        Developing socially acceptable behavior
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-13" value="B">
-         Working together against competitors
+        Working together against competitors
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-13" value="C">
-         Experiencing pressure from outside forces
+        Experiencing pressure from outside forces
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-13" value="D">
-         Viewing people as a means to an end
+        Viewing people as a means to an end
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-13" value="E">
-         Existing for practical purposes
+        Existing for practical purposes
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-13" value="F">
-         Providing meaning for life situations
+        Providing meaning for life situations
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-13" value="G">
-         Involving close relationships
+        Involving close relationships
       </input>
     </li>
 </ul>

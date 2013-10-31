@@ -55,7 +55,7 @@
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-3" value="B">
-         repetition
+        repetition
       </input>
     </li>
    <li class="choice">
@@ -170,22 +170,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-8" value="A">
-         system
+        system
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="B">
-         theory
+        theory
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="C">
-         source
+        source
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="D">
-         viewpoint
+        viewpoint
       </input>
     </li>
 </ul>

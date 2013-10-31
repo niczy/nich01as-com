@@ -122,22 +122,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-6" value="A">
-         The thicker the atmosphere, the smaller the planet’s mass
+        The thicker the atmosphere, the smaller the planet’s mass
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="B">
-         The more varied the gases in the atmosphere, the higher the temperature
+        The more varied the gases in the atmosphere, the higher the temperature
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-6" value="C">
-         The higher the surface gravity, the higher the escape velocity
+        The higher the surface gravity, the higher the escape velocity
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="D">
-         The less the atmosphere contributes to the total mass, the lower the temperature
+        The less the atmosphere contributes to the total mass, the lower the temperature
       </input>
     </li>
 </ul>
@@ -146,17 +146,17 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-7" value="A">
-         Jovian planets have lower surface gravities
+        Jovian planets have lower surface gravities
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-7" value="B">
-         Jovian planets have lower temperatures
+        Jovian planets have lower temperatures
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-7" value="C">
-         Jovian planets have lower escape velocities
+        Jovian planets have lower escape velocities
       </input>
     </li>
    <li class="choice">

@@ -179,7 +179,7 @@ def parse_artiles(filename):
   paragraphs = []
   ignored_paragraph = ''
 
-  intert_template = Template('<span class="question-$questionid question-highlight-$questionid">$value</span>')
+  intert_template = Template('<span class="question-$questionid question-highlight-$questionid hidden">$value</span>')
   values = ['A', 'B', 'C', 'D']
   with open(filename) as input_file:
     for line in input_file.readlines():
@@ -200,7 +200,7 @@ def parse_artiles(filename):
       elif (line.startswith('○') or line.startswith('O') and len(line) > 4) and state in ['question', 'option', 'ignore']:
         state = 'option'
         line = line.replace('○', '')
-        line = re.sub('^O\s*', '', line)
+        line = re.sub('^[O]?\s*', '', line)
         question.options.append(line)
       elif '●' in line or ('O ' in line and len(line) < 4):
         question.answercount = question.answercount + 1

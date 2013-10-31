@@ -2,22 +2,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-1" value="A">
-         increase for
+        increase for
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="B">
-         remove from
+        remove from
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-1" value="C">
-         place on
+        place on
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="D">
-         distribute to
+        distribute to
       </input>
     </li>
 </ul>
@@ -26,22 +26,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-2" value="A">
-         Begging by nestling birds can attract the attention of predators to the nest.
+        Begging by nestling birds can attract the attention of predators to the nest.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="B">
-         Nest predators attack nests that contain nestlings more frequently than they attack nests that contain only eggs
+        Nest predators attack nests that contain nestlings more frequently than they attack nests that contain only eggs
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="C">
-         Tapes of begging nestlings attract predators to the nest less frequently than real begging calls do.
+        Tapes of begging nestlings attract predators to the nest less frequently than real begging calls do.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="D">
-         Nest predators have no other means of locating bird nests except the begging calls of nestling birds.
+        Nest predators have no other means of locating bird nests except the begging calls of nestling birds.
       </input>
     </li>
 </ul>
@@ -50,22 +50,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-3" value="A">
-         attractive
+        attractive
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-3" value="B">
-         not real
+        not real
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="C">
-         short-term
+        short-term
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="D">
-         well designed
+        well designed
       </input>
     </li>
 </ul>
@@ -74,22 +74,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-4" value="A">
-         put them at more risk than ground-nesting warblers experience
+        put them at more risk than ground-nesting warblers experience
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-4" value="B">
-         can be heard from a greater distance than those of ground-nesting warblers
+        can be heard from a greater distance than those of ground-nesting warblers
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="C">
-         are more likely to conceal the signaler than those of ground-nesting warblers
+        are more likely to conceal the signaler than those of ground-nesting warblers
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="D">
-         have higher frequencies than those of ground nesting warblers
+        have higher frequencies than those of ground nesting warblers
       </input>
     </li>
 </ul>
@@ -98,22 +98,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-5" value="A">
-         Predators are unable to distinguish between the begging cheeps of ground-nesting and those of tree-nesting warblers except by the differing frequencies of the calls.
+        Predators are unable to distinguish between the begging cheeps of ground-nesting and those of tree-nesting warblers except by the differing frequencies of the calls.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-5" value="B">
-         When they can find them, predators prefer the eggs of tree-nesting warblers to those of ground-nesting warblers.
+        When they can find them, predators prefer the eggs of tree-nesting warblers to those of ground-nesting warblers.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-5" value="C">
-         The higher frequencies of the begging cheeps of ground-nesting warblers are an adaptation to the threat that ground-nesting birds face from predators
+        The higher frequencies of the begging cheeps of ground-nesting warblers are an adaptation to the threat that ground-nesting birds face from predators
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-5" value="D">
-         The danger of begging depends more on the frequency of the begging cheep than on how loud it is.
+        The danger of begging depends more on the frequency of the begging cheep than on how loud it is.
       </input>
     </li>
 </ul>
@@ -122,22 +122,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-6" value="A">
-         surprise
+        surprise
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="B">
-         discovery
+        discovery
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="C">
-         explanation
+        explanation
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-6" value="D">
-         expectation
+        expectation
       </input>
     </li>
 </ul>
@@ -146,22 +146,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-7" value="A">
-         observe
+        observe
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-7" value="B">
-         locate exactly
+        locate exactly
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-7" value="C">
-         copy accurately
+        copy accurately
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-7" value="D">
-         recognize
+        recognize
       </input>
     </li>
 </ul>
@@ -170,22 +170,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-8" value="A">
-         require
+        require
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-8" value="B">
-         gain
+        gain
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="C">
-         use
+        use
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="D">
-         produce
+        produce
       </input>
     </li>
 </ul>
@@ -194,22 +194,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-9" value="A">
-         When placed in a nest with hungry robins, wellfed robins did not beg for food.
+        When placed in a nest with hungry robins, wellfed robins did not beg for food.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-9" value="B">
-         Among robin nestlings, the intensity of begging decreased the more the nestlings were fed.
+        Among robin nestlings, the intensity of begging decreased the more the nestlings were fed.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-9" value="C">
-         Hungry tree swallow nestlings begged louder than well-fed nestlings in the same nest.
+        Hungry tree swallow nestlings begged louder than well-fed nestlings in the same nest.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-9" value="D">
-         Hungry tree swallow nestlings continued to beg loudly until they were fed whereas well-fed nestlings soon stopped begging.
+        Hungry tree swallow nestlings continued to beg loudly until they were fed whereas well-fed nestlings soon stopped begging.
       </input>
     </li>
 </ul>
@@ -218,22 +218,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-10" value="A">
-         nestlings that are too weak to beg for food as vigorously as their nestmates
+        nestlings that are too weak to beg for food as vigorously as their nestmates
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="B">
-         more than one hungry nestling during a single visit to the nest
+        more than one hungry nestling during a single visit to the nest
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="C">
-         offspring that were fed by the parents on the previous visit to the nest
+        offspring that were fed by the parents on the previous visit to the nest
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="D">
-         nestlings that have been removed and then later put back into their nest
+        nestlings that have been removed and then later put back into their nest
       </input>
     </li>
 </ul>
@@ -242,22 +242,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-11" value="A">
-         explain why begging for food vigorously can lead to faster growth and increased size.
+        explain why begging for food vigorously can lead to faster growth and increased size.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-11" value="B">
-         explain how begging vigorously can increase an individual’s chance of propagating its own genes
+        explain how begging vigorously can increase an individual’s chance of propagating its own genes
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-11" value="C">
-         point out a weakness in a possible explanation for why nestlings do not always beg vigorously
+        point out a weakness in a possible explanation for why nestlings do not always beg vigorously
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-11" value="D">
-         argue that the benefits of vigorous begging outweigh any possible disadvantages
+        argue that the benefits of vigorous begging outweigh any possible disadvantages
       </input>
     </li>
 </ul>
@@ -316,32 +316,32 @@ Where would the sentence best fit?</span>
 <ul>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="A">
-         Songbird species that are especially vulnerable to predators have evolved ways of reducing the dangers associated with begging calls.
+        Songbird species that are especially vulnerable to predators have evolved ways of reducing the dangers associated with begging calls.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="B">
-         Songbird parents focus their feeding effort on the nestlings that beg loudest for food.
+        Songbird parents focus their feeding effort on the nestlings that beg loudest for food.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="C">
-         It is genetically disadvantageous for nestlings to behave as if they are really hungry when they are not really hungry.
+        It is genetically disadvantageous for nestlings to behave as if they are really hungry when they are not really hungry.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="D">
-         The begging calls of songbird nestlings provide a good example of overly damaging cost to signalers of signaling.
+        The begging calls of songbird nestlings provide a good example of overly damaging cost to signalers of signaling.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="E">
-         The success with which songbird nestlings communicate their hunger to their parents is dependent on the frequencies of the nestlings' begging calls.
+        The success with which songbird nestlings communicate their hunger to their parents is dependent on the frequencies of the nestlings' begging calls.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="F">
-         Songbird nestlings have evolved several different ways to communicate the intensity of their hunger to their parents.
+        Songbird nestlings have evolved several different ways to communicate the intensity of their hunger to their parents.
       </input>
     </li>
 </ul>

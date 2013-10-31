@@ -26,17 +26,17 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-2" value="A">
-         Cause some deer to hibernate
+        Cause some deer to hibernate
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="B">
-         Make food unavailable in the highlands for deer
+        Make food unavailable in the highlands for deer
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-2" value="C">
-         Make it easier for deer to locate understory plants
+        Make it easier for deer to locate understory plants
       </input>
     </li>
    <li class="choice">
@@ -50,22 +50,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-3" value="A">
-         Consists of
+        Consists of
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="B">
-         Combines
+        Combines
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-3" value="C">
-         Restricts
+        Restricts
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="D">
-         Establishes
+        Establishes
       </input>
     </li>
 </ul>
@@ -74,22 +74,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-4" value="A">
-         Impatiently
+        Impatiently
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="B">
-         Humorously
+        Humorously
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="C">
-         Continuously
+        Continuously
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-4" value="D">
-         Immediately
+        Immediately
       </input>
     </li>
 </ul>
@@ -103,7 +103,7 @@
     </li>
    <li class="choice">
       <input type="radio"  name="answer-5" value="B">
-         Most of the explorers who came to the Puget sound area were primarily interested than in the West.
+        Most of the explorers who came to the Puget sound area were primarily interested than in the West.
       </input>
     </li>
    <li class="choice">
@@ -170,22 +170,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-8" value="A">
-         Whose end has not been determined
+        Whose end has not been determined
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="B">
-         That does not begin when expected
+        That does not begin when expected
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="C">
-         That lasts only briefly
+        That lasts only briefly
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="D">
-         Whose importance remains unknown
+        Whose importance remains unknown
       </input>
     </li>
 </ul>
@@ -218,22 +218,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-10" value="A">
-         Decline
+        Decline
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-10" value="B">
-         Recovery
+        Recovery
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="C">
-         Exchange
+        Exchange
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="D">
-         Movement
+        Movement
       </input>
     </li>
 </ul>
@@ -316,32 +316,32 @@ Where would the sentence best fit?</span>
 <ul>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="A">
-         The balance of deer species in the Puget Sound region has changed over time, with the Columbian white-tailed deer now outnumbering other types of deer.
+        The balance of deer species in the Puget Sound region has changed over time, with the Columbian white-tailed deer now outnumbering other types of deer.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="B">
-         Deer populations naturally fluctuate, but early settlers in the Puget Sound environment caused an overall decline in the deer populations of the areas at that time.
+        Deer populations naturally fluctuate, but early settlers in the Puget Sound environment caused an overall decline in the deer populations of the areas at that time.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="C">
-         In the long term, black-tailed deer in the Puget Sound area have benefitted from human activities through the elimination of their natural predators, and more and better food in deforested areas.
+        In the long term, black-tailed deer in the Puget Sound area have benefitted from human activities through the elimination of their natural predators, and more and better food in deforested areas.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="D">
-         Because Puget Sound deer migrate, it was and still remains difficult to determine accurately how many deers are living at any one time the western United States.
+        Because Puget Sound deer migrate, it was and still remains difficult to determine accurately how many deers are living at any one time the western United States.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="E">
-         Although it was believed that human settlement of American West would cause the total number of deer to decrease permanently, the opposite has occurred for certain types of deer.
+        Although it was believed that human settlement of American West would cause the total number of deer to decrease permanently, the opposite has occurred for certain types of deer.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="F">
-         Wildlife biologists have long been concerned that the loss of forests may create nutritional deficiencies for deer.
+        Wildlife biologists have long been concerned that the loss of forests may create nutritional deficiencies for deer.
       </input>
     </li>
 </ul>

@@ -292,37 +292,37 @@ Where would the sentence best fit? Click on a square to add the sentence to the 
 <ul>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-13" value="A">
-         City of Tikal
+        City of Tikal
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-13" value="B">
-         Predictable rainfall
+        Predictable rainfall
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-13" value="C">
-         High above water table
+        High above water table
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-13" value="D">
-         Used reservoirs
+        Used reservoirs
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-13" value="E">
-         Obtained water from wells
+        Obtained water from wells
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-13" value="F">
-         Dramatically improved corn crops
+        Dramatically improved corn crops
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-13" value="G">
-         Had comparatively thin layer of soil
+        Had comparatively thin layer of soil
       </input>
     </li>
 </ul>

@@ -50,22 +50,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-3" value="A">
-         Canals were built primarily in the south of England rather than in other regions. 
+        Canals were built primarily in the south of England rather than in other regions. 
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="B">
-         Canal building decreased after the steam locomotive was invented. 
+        Canal building decreased after the steam locomotive was invented. 
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="C">
-         Canal building made it difficult to study rock strata which often became damaged in the process. 
+        Canal building made it difficult to study rock strata which often became damaged in the process. 
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="D">
-         Canal builders hired surveyors like Smith to examine exposed rock strata. 
+        Canal builders hired surveyors like Smith to examine exposed rock strata. 
       </input>
     </li>
 </ul>

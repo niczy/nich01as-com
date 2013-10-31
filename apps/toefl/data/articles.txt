@@ -5563,10 +5563,10 @@ Paragraph 1: A symbiotic relationship is an interaction between two or more spec
 ○Its role in the structure of biological populations is a disruptive one.
 Paragraph 2: Parasitism is a kind of predator-prey relationship in which one organism, the parasite, derives its food at the expense of its symbiotic associate, the host. Parasites are usually smaller than their hosts. An example of a parasite is a tapeworm that lives inside the intestines of a larger animal and absorbs nutrients from its host. Natural selection favors the parasites that are best able to find and feed on hosts. At the same time, defensive abilities of hosts are also selected for. As an example, plants make chemicals toxic to fungal and bacterial parasites, along with ones toxic to predatory animals (sometimes they are the same chemicals). In vertebrates, the immune system provides a multiple defense against internal parasites.
 2. The word derives in the passage is closest in meaning to
-○Digests 
-○Obtains
-○Controls
-○Discovers
+○ Digests 
+○ Obtains
+○ Controls
+○ Discovers
 3. According to paragraph 2. which of the following is true of the action of natural selection on hosts and parasites?
 ○Hosts benefit more from natural selection than parasites do.
 ○Both aggression in predators and defensive capacities in hosts are favored for species survival.
@@ -5579,10 +5579,10 @@ Paragraph 3: At times, it is actually possible to watch the effects of natural s
 ○strengthened
 ○destroyed
 5. Which of the following can be concluded from the discussion in paragraph 3 about the Australian rabbit population?
-○Human intervention may alter the host, the parasite. and the relationship between them.
-○The risks of introducing outside organisms into a biological community are not worth the benefits.
-  ○Humans should not interfere in host-parasite relationships.
-○Organisms that survive a parasitic attack do so in spite of the natural selection process.
+○ Human intervention may alter the host, the parasite. and the relationship between them.
+○ The risks of introducing outside organisms into a biological community are not worth the benefits.
+○ Humans should not interfere in host-parasite relationships.
+○ Organisms that survive a parasitic attack do so in spite of the natural selection process.
 6. According to paragraph 3, all of the following characterize the way natural selection stabilized the Australian rabbit population EXCEPT:
 ○The most toxic viruses died with their hosts.
 ○The surviving rabbits were increasingly immune to the virus.
@@ -5621,7 +5621,7 @@ Paragraph 6: The complex interplay of species in symbiotic relationships highlig
 ○To make a comparison between human relationships and symbiotic interactions in the natural world
 ○To demonstrate the unforeseen benefits of natural processes that at first seem wholly destructive
 ○To argue that parasitism is a problem that can be solved by scientific intervention
-At times, it is actually possible to watch the effects of natural selection in host-parasite relationships. For example, Australia during the 1940 s was overrun by hundreds of millions of European rabbits. ■ The rabbits destroyed huge expanses of Australia and threatened the sheep and cattle industries. ■ In 1950, myxoma virus, a parasite that affects rabbits, was deliberately introduced into Australia to control the rabbit population. ■ Spread rapidly by mosquitoes, the virus devastated the rabbit population. ■ The virus was less deadly to the offspring of surviving rabbits, however, and it caused less and less harm over the years. Apparently, genotypes (the genetic make-up of an organism) in the rabbit population were selected that were better able to resist the parasite. Meanwhile, the deadliest strains of the virus perished with their hosts as natural selection favored strains that could infect hosts but not kill them. Thus, natural selection stabilized this host-parasite relationship.
+Paragraph 3: At times, it is actually possible to watch the effects of natural selection in host-parasite relationships. For example, Australia during the 1940 s was overrun by hundreds of millions of European rabbits. ■ The rabbits destroyed huge expanses of Australia and threatened the sheep and cattle industries. ■ In 1950, myxoma virus, a parasite that affects rabbits, was deliberately introduced into Australia to control the rabbit population. ■ Spread rapidly by mosquitoes, the virus devastated the rabbit population. ■ The virus was less deadly to the offspring of surviving rabbits, however, and it caused less and less harm over the years. Apparently, genotypes (the genetic make-up of an organism) in the rabbit population were selected that were better able to resist the parasite. Meanwhile, the deadliest strains of the virus perished with their hosts as natural selection favored strains that could infect hosts but not kill them. Thus, natural selection stabilized this host-parasite relationship.
 13. Look at the four squares [■] lthat indicate where the following sentence could be added to the passage.
 This massive population began a century earlier as a mere twelve pairs of imported rabbits that reproduced quickly and developed into a major problem.
 Where would the sentence best fit?
@@ -5631,12 +5631,12 @@ Symbiotic relationships involve the interaction of two or more organisms acting 
 ●
 ●
 Answer Choices
-1. Parasitic relationships involve the interplay of aggression by the parasite and resistance and adaptation by the host.
-2. Mutualism ordinarily involves an interaction between two​members of the same species.
-3. Mutualism is unique among symbiotic relationships in that it  r benefits both partners involved in the relationship.
-4. Parasitic damage to Australian rabbits was never reversed because the rabbits were unable to adapt to the parasites' attacks.
-5. The rarity of commensal relationships stems from the difficulty of finding relationships that benefit one species without affecting the other.
-6.   The structure of biological communities depends on the types of relationships that exist among the species within.
+O Parasitic relationships involve the interplay of aggression by the parasite and resistance and adaptation by the host.
+O Mutualism ordinarily involves an interaction between two members of the same species.
+O Mutualism is unique among symbiotic relationships in that it  r benefits both partners involved in the relationship.
+O Parasitic damage to Australian rabbits was never reversed because the rabbits were unable to adapt to the parasites' attacks.
+O The rarity of commensal relationships stems from the difficulty of finding relationships that benefit one species without affecting the other.
+O The structure of biological communities depends on the types of relationships that exist among the species within.
  
  
  

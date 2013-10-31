@@ -2,22 +2,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-1" value="A">
-         origin
+        origin
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-1" value="B">
-         importance
+        importance
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="C">
-         quality
+        quality
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="D">
-         design
+        design
       </input>
     </li>
 </ul>
@@ -26,22 +26,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-2" value="A">
-         The function of ceramics remained the same from dynasty to dynasty.
+        The function of ceramics remained the same from dynasty to dynasty.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="B">
-         The use of ceramics as trade objects is better documented than the use of ceramics as ritual objects.
+        The use of ceramics as trade objects is better documented than the use of ceramics as ritual objects.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="C">
-         There was little variation in quality for any type of ceramics over time.
+        There was little variation in quality for any type of ceramics over time.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-2" value="D">
-         Some religious sculptures were made using the earthenware type of ceramics.
+        Some religious sculptures were made using the earthenware type of ceramics.
       </input>
     </li>
 </ul>
@@ -50,22 +50,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-3" value="A">
-         divided
+        divided
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="B">
-         extended
+        extended
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-3" value="C">
-         developed
+        developed
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="D">
-         vanished
+        vanished
       </input>
     </li>
 </ul>
@@ -74,22 +74,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-4" value="A">
-         While stonewares and porcelains are found throughout most historical periods, religious sculpture is limited to the ancient period.
+        While stonewares and porcelains are found throughout most historical periods, religious sculpture is limited to the ancient period.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-4" value="B">
-         Religious sculpture was created in most periods, but its history is less clear than that of stonewares or
+        Religious sculpture was created in most periods, but its history is less clear than that of stonewares or
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="C">
-         While stonewares and porcelains changed throughout history, religious sculpture remained uniform in form and use.
+        While stonewares and porcelains changed throughout history, religious sculpture remained uniform in form and use.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-4" value="D">
-         The historical development of religious sculpture is relatively unclear because religious sculptures sometimes resemble earthenware architectural ornaments.
+        The historical development of religious sculpture is relatively unclear because religious sculptures sometimes resemble earthenware architectural ornaments.
       </input>
     </li>
 </ul>
@@ -98,22 +98,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-5" value="A">
-         The earliest high-fired ceramics were of poor quality.
+        The earliest high-fired ceramics were of poor quality.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-5" value="B">
-         Ceramics produced during the Tang and Ming dynasties sometimes incorporated multiple colors.
+        Ceramics produced during the Tang and Ming dynasties sometimes incorporated multiple colors.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-5" value="C">
-         Earthenware ceramics were produced in China before stonewares were.
+        Earthenware ceramics were produced in China before stonewares were.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-5" value="D">
-         The Song dynasty period was notable for the production of high quality porcelain ceramics.
+        The Song dynasty period was notable for the production of high quality porcelain ceramics.
       </input>
     </li>
 </ul>
@@ -122,22 +122,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-6" value="A">
-         improved
+        improved
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="B">
-         investigated
+        investigated
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="C">
-         narrowed
+        narrowed
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-6" value="D">
-         caused
+        caused
       </input>
     </li>
 </ul>
@@ -146,22 +146,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-7" value="A">
-         The transfer of a distinctive blue pigment from China to the Middle East
+        The transfer of a distinctive blue pigment from China to the Middle East
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-7" value="B">
-         An immediate change from earthenware production to porcelain production in European countries
+        An immediate change from earthenware production to porcelain production in European countries
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-7" value="C">
-         Chinese production of wares made for the European market
+        Chinese production of wares made for the European market
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-7" value="D">
-         A decreased number of porcelain vessels available on the European market
+        A decreased number of porcelain vessels available on the European market
       </input>
     </li>
 </ul>
@@ -170,22 +170,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-8" value="A">
-         while
+        while
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="B">
-         previously
+        previously
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="C">
-         surprisingly
+        surprisingly
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="D">
-         because
+        because
       </input>
     </li>
 </ul>
@@ -194,22 +194,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-9" value="A">
-         emphasize that while Chinese pots were decorative. Greek pots were functional
+        emphasize that while Chinese pots were decorative. Greek pots were functional
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-9" value="B">
-         argue that the designs on Chinese pots had specific meanings and were not just decorative
+        argue that the designs on Chinese pots had specific meanings and were not just decorative
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-9" value="C">
-         argue that twentieth-century scholars are better able to understand these designs than were ancient scholars
+        argue that twentieth-century scholars are better able to understand these designs than were ancient scholars
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-9" value="D">
-         explain how scholars have identified the meaning of specific images on Chinese pots
+        explain how scholars have identified the meaning of specific images on Chinese pots
       </input>
     </li>
 </ul>
@@ -218,22 +218,22 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-10" value="A">
-         Chinese rulers
+        Chinese rulers
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="B">
-         love of homeland
+        love of homeland
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="C">
-         loyally to friends
+        loyally to friends
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-10" value="D">
-         success in trade
+        success in trade
       </input>
     </li>
 </ul>
@@ -242,22 +242,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-11" value="A">
-         They had more importance for aristocrats than for ordinary citizens.
+        They had more importance for aristocrats than for ordinary citizens.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-11" value="B">
-         Their significance may have remained clear had the Chinese not come under foreign influence.
+        Their significance may have remained clear had the Chinese not come under foreign influence.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-11" value="C">
-         They contain some of the same images that appear on Greek pots
+        They contain some of the same images that appear on Greek pots
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-11" value="D">
-         Their significance is now as clear to twentieth century observers as it was to the early Chinese.
+        Their significance is now as clear to twentieth century observers as it was to the early Chinese.
       </input>
     </li>
 </ul>
@@ -266,22 +266,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-12" value="A">
-         religious ceremonies
+        religious ceremonies
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-12" value="B">
-         descriptions
+        descriptions
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-12" value="C">
-         types of ware
+        types of ware
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-12" value="D">
-         pots
+        pots
       </input>
     </li>
 </ul>
@@ -316,32 +316,32 @@ Where could the sentence best fit?</span>
 <ul>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="A">
-         The Chinese produced earthenware, stoneware, and porcelain pottery and they used their ceramics for a variety of utilitarian, architectural, and ceremonial purposes.
+        The Chinese produced earthenware, stoneware, and porcelain pottery and they used their ceramics for a variety of utilitarian, architectural, and ceremonial purposes.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="B">
-         The shape and decoration of ceramics produced for religious use in China were influenced by Chinese ceramics produced for export.
+        The shape and decoration of ceramics produced for religious use in China were influenced by Chinese ceramics produced for export.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="C">
-         As a result of trade relations. Chinese ceramic production changed and Chinese influenced the ceramics production of other countries
+        As a result of trade relations. Chinese ceramic production changed and Chinese influenced the ceramics production of other countries
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="D">
-         Chinese burial ceramics have the longest and most varied history of production and were frequently decorated with written texts that help scholars date them.
+        Chinese burial ceramics have the longest and most varied history of production and were frequently decorated with written texts that help scholars date them.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="E">
-         Before China had contact with the West, the meaning of various designs used to decorate Chinese ceramics was well understood.
+        Before China had contact with the West, the meaning of various designs used to decorate Chinese ceramics was well understood.
       </input>
     </li>
    <li class="choice">
       <input type="checkbox"  name="answer-14" value="F">
-         Ceramics made in imperial factories were used in both religious and non-religious contexts
+        Ceramics made in imperial factories were used in both religious and non-religious contexts
       </input>
     </li>
 </ul>

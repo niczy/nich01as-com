@@ -2,22 +2,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-1" value="A">
-         generally liberal trade policies
+        generally liberal trade policies
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-1" value="B">
-         huge projects undertaken by the state
+        huge projects undertaken by the state
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="C">
-         relatively uncorrupt governments
+        relatively uncorrupt governments
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="D">
-         relatively little social or political disruption
+        relatively little social or political disruption
       </input>
     </li>
 </ul>

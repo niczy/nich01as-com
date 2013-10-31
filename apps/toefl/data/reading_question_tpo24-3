@@ -98,7 +98,7 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-5" value="A">
-         People were increasingly crowded into collections of large housing units.
+        People were increasingly crowded into collections of large housing units.
       </input>
     </li>
    <li class="choice">
@@ -266,7 +266,7 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-12" value="A">
-         Cooperation allowed many households to give up farming and to specialize in making pottery and crafts.
+        Cooperation allowed many households to give up farming and to specialize in making pottery and crafts.
       </input>
     </li>
    <li class="choice">
@@ -276,12 +276,12 @@
     </li>
    <li class="choice">
       <input type="radio"  name="answer-12" value="C">
-         Overtime there was less cooperation as farmers competed with each other for trade with distant areas.
+        Overtime there was less cooperation as farmers competed with each other for trade with distant areas.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-12" value="D">
-         Individuals stopped cooperating with each other because they did not have enough food for themselves.
+        Individuals stopped cooperating with each other because they did not have enough food for themselves.
       </input>
     </li>
 </ul>

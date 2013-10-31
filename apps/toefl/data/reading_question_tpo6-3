@@ -2,22 +2,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-1" value="A">
-         Running water was the best power source for factories since it could keep machines operating continuously but since it was abundant only in Lancashire and Scotland, most mills and factories that were located elsewhere could not be water driven. 
+        Running water was the best power source for factories since it could keep machines operating continuously but since it was abundant only in Lancashire and Scotland, most mills and factories that were located elsewhere could not be water driven. 
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="B">
-         The disadvantage of using waterpower is that streams do not necessarily flow in places that are the most suitable for factories which explains why so many water—powered grain and textile mills were located in undesirable places
+        The disadvantage of using waterpower is that streams do not necessarily flow in places that are the most suitable for factories which explains why so many water—powered grain and textile mills were located in undesirable places
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-1" value="C">
-         Since machines could be operated continuously only where running water was abundant, grain and textile mills as well as other factories tended to be located only in Lancashire and Scotland. 
+        Since machines could be operated continuously only where running water was abundant, grain and textile mills as well as other factories tended to be located only in Lancashire and Scotland. 
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-1" value="D">
-         Running water was the only source of power that was suitable for the continuous operation of machines, but to make use of it factories had to be located where the water was, regardless of whether such locations made sense otherwise.
+        Running water was the only source of power that was suitable for the continuous operation of machines, but to make use of it factories had to be located where the water was, regardless of whether such locations made sense otherwise.
       </input>
     </li>
 </ul>
@@ -122,22 +122,22 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-6" value="A">
-         It used steam to move a piston in a cylinder.
+        It used steam to move a piston in a cylinder.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="B">
-         It worked with greater speed.
+        It worked with greater speed.
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-6" value="C">
-         It was more efficient in its use of fuel.
+        It was more efficient in its use of fuel.
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-6" value="D">
-         It could be used in many different ways.
+        It could be used in many different ways.
       </input>
     </li>
 </ul>
@@ -175,17 +175,17 @@
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="B">
-         wanted to have
+        wanted to have
       </input>
     </li>
    <li class="choice">
       <input type="radio"  name="answer-8" value="C">
-         became used to
+        became used to
       </input>
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-8" value="D">
-         insisted on
+        insisted on
       </input>
     </li>
 </ul>
