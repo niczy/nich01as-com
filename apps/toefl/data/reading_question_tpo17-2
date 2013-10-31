@@ -312,7 +312,37 @@ Where would the sentence best fit?</span>
     </li>
 </ul>
 
-<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>In the rain forest. an animal must be able to send signals to members of its own species and at the same time avoid being detected by predators.</p><p></p><p>Answer Choices</p><p>1. Animals that have different predators at different times of day</p><p>2. To escape notice, an animal may move or change color so change color to avoid being detected. that its color pattern is not visible.</p><p>3. To be noticed, an animal may draw attention to the contrast F between its colors and the colors of its environment.</p><p>4. Yellow and green are the most common colors found in the r rain forest.</p><p>5. Animals must have signals for aggression as well as to indicate readiness to mate.</p><p>6. An animal may use sound rather than color to attract attention, because sound signals are not hindered by</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></span>
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>In the rain forest. an animal must be able to send signals to members of its own species and at the same time avoid being detected by predators.</p><p></p><p>Answer Choices</p></span>
 <ul>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="A">
+        Animals that have different predators at different times of day
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
+        To escape notice, an animal may move or change color so change color to avoid being detected. that its color pattern is not visible.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
+        To be noticed, an animal may draw attention to the contrast F between its colors and the colors of its environment.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="D">
+        Yellow and green are the most common colors found in the r rain forest.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="E">
+        Animals must have signals for aggression as well as to indicate readiness to mate.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
+        An animal may use sound rather than color to attract attention, because sound signals are not hindered by
+      </input>
+    </li>
 </ul>
 

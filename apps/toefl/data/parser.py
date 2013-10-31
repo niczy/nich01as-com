@@ -18,7 +18,7 @@ class Util:
 
 class Question:
   def __init__(self):
-    self.description = '' 
+    self.description = ''
     self.options = []
     self.answercount = 1
     self.paragraphs = []
@@ -50,8 +50,7 @@ class Question:
     best_score = 0
     best_sentence = ''
     sec_best = 0
-    for p in self.paragraphs:
-      paragraph = article.paragraphs[p - 1]
+    for paragraph in article.paragraphs:
       sentences = paragraph.split('.')
       for s in sentences:
         score = 0
@@ -69,7 +68,8 @@ class Question:
         sentence = self.highlight_sentence
         if sentence + '.' in article.paragraphs[i]:
           sentence = sentence + '.'
-          print(sentence)
+          if article.name == 'tpo20-3':
+            print(sentence)
         article.paragraphs[i] = article.paragraphs[i].replace(
           sentence, Article.highlight_template.substitute(Article.highlight_template, word = sentence, qidx = self.id + 1))
 
@@ -142,11 +142,11 @@ def output(articles):
       output_file.write(article.title + '\n')
       paragraphidx = 0
       for paragraph in article.paragraphs:
-        paragraphidx = paragraphidx + 1 
+        paragraphidx = paragraphidx + 1
         questions = ''
         questionidx = 0
         for question in article.questions:
-          questionidx = questionidx + 1 
+          questionidx = questionidx + 1
           if paragraphidx in question.paragraphs:
             if questions: questions = questions + ' '
             questions = questions + 'question-' + str(questionidx)
@@ -169,7 +169,6 @@ def output(articles):
           options = options + option_template.substitute(
               option = option, name = 'answer-' + str(answerid), value = value_index[optionid], right_answer_class = right_answer_class, input_type = input_type)
         output_file.write(options_template.substitute(options = options))
-        
 
 def parse_artiles(filename):
   article = None

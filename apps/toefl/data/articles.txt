@@ -4687,7 +4687,7 @@ paragraph 4: American paleontologists David Raup and John Sepkoski, who have stu
 ○Their duration
 ○Their severity
 Paragraph 5: Of the various hypotheses attempting to account for the late Cretaceous extinctions, the one that has attracted the most attention in recent years is the asteroid-impact hypothesis first suggested by Luis and Walter Alvarez. According to this hypothesis, Earth collided with an asteroid with an estimated diameter of 10 kilometers, or with several asteroids, the combined mass of which was comparable. The force of collision spewed large amounts of debris into the atmosphere, darkening the skies for several years before the finer particles settled. The reduced level of photosynthesis led to a massive decline in plant life of all kinds, and this caused massive starvation first of herbivores and subsequently of carnivores. The mass extinction would have occurred very suddenly under this hypothesis.
-8. The phrase account for in the passage is closest in meaning to
+8. The phrase "account for" in the passage is closest in meaning to
 ○describe
 ○challenge
 ○explain
@@ -4866,72 +4866,72 @@ All this applies, of course, only to an adult leatherback. Hatchlings are simply
  
 Paragraph 1：When it comes to physiology, the leatherback turtle is, in some ways, more like a reptilian whale than a turtle. It swims farther into the cold of the northern and southern oceans than any other sea turtle, and it deals with the chilly waters in a way unique among reptiles.
 1. The phrase unique among in the passage is closest in meaning to
-􀁻 natural to
-􀁻 different from all other
-􀁻 quite common among
-􀁻 familiar to
+O natural to
+O different from all other
+O quite common among
+O familiar to
 2. What can be inferred about whales from paragraph 1?
-􀁻 They are considered by some to be reptiles.
-􀁻 Their bodies are built in a way that helps them manage extremely cold temperatures
-􀁻 They are distantly related to leatherback turtles.
-􀁻 They can swim farther than leatherback turtles.
+O They are considered by some to be reptiles.
+O Their bodies are built in a way that helps them manage extremely cold temperatures
+O They are distantly related to leatherback turtles.
+O They can swim farther than leatherback turtles.
 Paragraph 2: A warm-blooded turtle may seem to be a contradiction in terms. Nonetheless, an adult leatherback can maintain a body tem perature of between 25 and 26°C (77 - 79°F) in seawaterthat is only 8°C (46.4°F). Accomplishing this feat requires adaptations both to generate heat in the turtle' s body and to keep it from escaping into the surrounding waters.
 Leatherbacks apparently do not generate internal heat the way we do, or the way birds do, as a by-product of cellular metabolism. A leatherback may be able to pick up some body heat by basking at the surface; its dark, almost black body color may help it to absorb solar radiation. However, most of its
 internal heat comes from the action of its muscles.
 3. The word feat in the passage is closest in meaning to
-􀁻 remarkable achievement
-􀁻 common transformation
-􀁻 daily activity
-􀁻 complex solution
+O remarkable achievement
+O common transformation
+O daily activity
+O complex solution
 4. Paragraph 2 mentions all of the following as true about the body heat of adult leatherback turtles EXCEPT:
-􀁻 Their muscles produce heat for maintaining body temperature.
-􀁻 Their clark bodies help trap solar radiation.
-􀁻 Their cellular metabolism produces heat as a by-product.
-􀁻 Basking at the waters surface helps them obtain heat.
+O Their muscles produce heat for maintaining body temperature.
+O Their clark bodies help trap solar radiation.
+O Their cellular metabolism produces heat as a by-product.
+O Basking at the waters surface helps them obtain heat.
 Paragraph 3: Leatherbacks keep their body heat in three different ways. The first, and simplest, is size. The bigger the animal is, the lower as surface to-volum e ratio; for every ounce of body mass, there is proportionately less surface through which heat can escape. An adult leatherback is twice the size of the biggest cheloniid sea turtles and will therefore take longer to cool off. Maintaining a high body temperature through sheer bulk is called gigantotherrny. It works for elephants, for whales, and, perhaps, it worked for many of the larger dinosaurs. It apparently works, in a smaller way, for some other sea turtles. Large loggerhead and green turtles can maintain their body temperature at a degree or two above that of the surrounding water, and gigantothermy is probably the way they do a. Muscular activity helps, too, and an actively swimming green turtle may be T C (12.6° F) warmer than the waters it swims through.
 5. The word bulk in the passage is closest in meaning to
-􀁻 strength
-􀁻 effort
-􀁻 activity
-􀁻 mass
+O strength
+O effort
+O activity
+O mass
 paragraph 4:Gigantothermy, though, would not be enough to keep a leatherback warm in cold northern waters. It is not enough for whales, which supplement it with a thick layer of insulating blubber (fat).
 Paragraph 5: Leatherbacks do not have blubber, but they do have a reptilian equivalent: thick, oil-saturated skin, with a layer of fibrous, fatty tissue just beneath a. Insulation protects the leatherback everywhere but on its head and flippers. Because the flippers are com paratively thin and blade like, they are the one part of the leatherback that is likely to become chilled. There is not much that the turtle can do about this without compromising the aerodynamic shape of the flipper. The problem is that as blood flows through the turtle's flippers, it risks losing enough heat to lower the anim al's central body temperature when it returns. The solution is to allow the flippers to cool down without drawing heat away from the rest of the turtle's body. The leatherback accomplishes this by arranging the blood vessels in the base of as flipper into a countercurrent exchange system .
 6. The word it in paragraph 4 refers to
-􀁻 the problem
-􀁻 blood
-􀁻 the turtle
-􀁻 body temperature
+O the problem
+O blood
+O the turtle
+O body temperature
 7. According to paragraph 4, which of the following features enables the
 leatherback turtle to stay warm?
-􀁻 An insulating layer of blubber
-􀁻 A thick, oily skin covering fatty tissue
-􀁻 The aerodynamic shape of its flippers
-􀁻 A well-insulated head
+O An insulating layer of blubber
+O A thick, oily skin covering fatty tissue
+O The aerodynamic shape of its flippers
+O A well-insulated head
 Paragraph 6: In a countercurrent exchange system , the blood vessels carrying cooled blood from the flippers run close enough to the blood vessels carrying warm blood from the body to pick up some heat from the warmer blood vessels; thus, the heat is transferred from the outgoing to the ingoing vessels before it reaches the flipper itself. This is the same arrangement found in an old-fashioned steam radiator, in which the coiled pipes pass heat back and forth as water courses through them . The leatherback is certainly not the only animal with such an arrangement; gulls have a countercurrent exchange in their legs. That is why a gull can stand on an ice floe without freezing.
 8. Which of the sentences below best expresses the essential
 information in the [ highlighted sentence ] in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
-􀁻 In a turtle's countercurrent exchange system, outgoing vessels lie near enough to ingoing ones that heat can be exchanged from the former to the latter before reaching the turtle' s flippers.
-􀁻 Within the turtle' s flippers, there is a countercurrent exchange system that allows colder blood vessels to absorb heat from nearby warmer blood vessels and then return warmed blood to the turtle's body.
-􀁻 In a countercurrent exchange system, a turtle can pick up body heat from being close enough to other turtles, thus raising its blood temperature as it passes them.
-􀁻 When a turtle places its flippers close to its body,it is able to use its countercurrent exchange system to transfer heat from the warmer blood vessels in its body to the cooler blood vessels in its flippers.
+O In a turtle's countercurrent exchange system, outgoing vessels lie near enough to ingoing ones that heat can be exchanged from the former to the latter before reaching the turtle' s flippers.
+O Within the turtle' s flippers, there is a countercurrent exchange system that allows colder blood vessels to absorb heat from nearby warmer blood vessels and then return warmed blood to the turtle's body.
+O In a countercurrent exchange system, a turtle can pick up body heat from being close enough to other turtles, thus raising its blood temperature as it passes them.
+O When a turtle places its flippers close to its body,it is able to use its countercurrent exchange system to transfer heat from the warmer blood vessels in its body to the cooler blood vessels in its flippers.
 9. Why does the author mention old-fashioned steam radiator in the discussion of countercurrent exchange systems?
-􀁻 To argue that a turtle' s central heating system is not as highly evolved as that of other warmblooded animals
-􀁻 To provide a useful comparison with which to illustrate how a
+O To argue that a turtle' s central heating system is not as highly evolved as that of other warmblooded animals
+O To provide a useful comparison with which to illustrate how a
 countercurrent exchange system works
-􀁻 To suggest that steam radiators were modeled after the sophisticated heating system of turtles
-􀁻 To establish the importance of the movement of water in
+O To suggest that steam radiators were modeled after the sophisticated heating system of turtles
+O To establish the importance of the movement of water in
 countercurrent exchange systems
 10. The phrase courses through in the passage is closest in meaning to
-􀁻 rises through
-􀁻 heats up in
-􀁻 runs through
-􀁻 collects in
+O rises through
+O heats up in
+O runs through
+O collects in
 11. According to paragraph 6, which of the following statements is most accurate about young leatherback turtles?
-􀁻 They lack the countercurrent exchange systems that develop in adulthood.
-􀁻 Their rate of growth is slower than that of other sea turtles.
-􀁻 They lose heat easily even with
-􀁻 insulation and countercurrent exchange systems.
-􀁻 They switch between cold-blooded and warm-blooded modes throughout their hatchling stage.
+O They lack the countercurrent exchange systems that develop in adulthood.
+O Their rate of growth is slower than that of other sea turtles.
+O They lose heat easily even with
+O insulation and countercurrent exchange systems.
+O They switch between cold-blooded and warm-blooded modes throughout their hatchling stage.
 12. Look at the four squares [█] that indicate where the following sentence could be added to the passage.
 However, these animals have additional means of staying warm.
 Where would the sentence best fit?
@@ -4941,13 +4941,12 @@ THREE answer choices that express the most important ideas in thepassage. Some s
 Contraryto what we would expect of reptiles. the leatherback
 turtle is actually warm-blooded.
 Answer Choices
-􀁻 Even though they swim into cold ocean waters, leatherbacks maintain their body heat in much the same way as sea turtles in warm southern oceans do.
-􀁻 The leatherback turtle uses a countercurrent exchange system in order to keep the flippers from drawing heat away from the rest of the body.
-􀁻 The shape of the leatherback turtle's flippers is especially important in maintaining heat in extremely cold northern waters.
-􀁻 The leatherback turtle is able to maintain body heat through sheer size.
-􀁻 Leatherbacks have an insulating layer that can be
-considered the reptilian version of blubber.
-􀁻 Young leatherbacks often do not survive to adulthood r because they are not able to switch from a cold-blooded way of life to a warm-blooded one quickly enough.
+O Even though they swim into cold ocean waters, leatherbacks maintain their body heat in much the same way as sea turtles in warm southern oceans do.
+O The leatherback turtle uses a countercurrent exchange system in order to keep the flippers from drawing heat away from the rest of the body.
+O The shape of the leatherback turtle's flippers is especially important in maintaining heat in extremely cold northern waters.
+O The leatherback turtle is able to maintain body heat through sheer size.
+O Leatherbacks have an insulating layer that can be considered the reptilian version of blubber.
+O Young leatherbacks often do not survive to adulthood r because they are not able to switch from a cold-blooded way of life to a warm-blooded one quickly enough.
  
  
  
@@ -4984,7 +4983,7 @@ Paragraph 1: Trade was the mainstay of the urban economy in the Middle East, as 
    2. The word repudiate in the passage is closest in meaning to
   ○Respect
 ○Reject
-○review ​
+○review 
 ○revise
    3. According to paragraph 2, how did Middle Eastern shop owners treat their workers?
 ○Workers were ranked according to their skill level, with the most-experienced artisans becoming partial owners of the shop.
@@ -5039,7 +5038,7 @@ Paragraph 5: Dependence on long-distance trade also meant that the great empires
 ○To present an instance in which Middle Eastern states lost money and power because of their reliance on long-distance trade
 ○To argue this new route became necessary when European seafarers wanted to avoid Middle Eastern states whose central power had begun to erode
 ○To explain how da Gama helped European traders avoid the dangerous predators prowling the areas surrounding Middle Eastern cities
-Paragraph2: Reliance on trade had several important consequences. ■Production was generally in the hands of skilled individual artisans doing piecework under the tutelage of a master who was also the shop owner. ■In these shops differences of rank were blurred as artisans and masters labored side by side in the same modest establishment, were usually members of the same guild and religious sect, lived in the same neighborhoods, and often had assumed (or real) kinship relationships. ■The worker was bound to the master by a mutual contract that either one could repudiate, and the relationship was conceptualized as one of partnership. ■
+Paragraph 2: Reliance on trade had several important consequences. ■Production was generally in the hands of skilled individual artisans doing piecework under the tutelage of a master who was also the shop owner. ■In these shops differences of rank were blurred as artisans and masters labored side by side in the same modest establishment, were usually members of the same guild and religious sect, lived in the same neighborhoods, and often had assumed (or real) kinship relationships. ■The worker was bound to the master by a mutual contract that either one could repudiate, and the relationship was conceptualized as one of partnership. ■
 13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
 For one thing, it created a demand for finished goods to be sold both locally and abroad.
 Where would the sentence best fit?
@@ -5049,12 +5048,12 @@ Since ancient times. reliance on trade has shaped the culture and organizational
    ●
    ●
 Answer Choices
-1. Persian and Arabian merchants traveled great distances to sell their finished goods at the marketplaces of ancient Sumeria.
-2. Revenue from trade was unevenly distributed, causing Middle Eastern societies to be characterized by growing distinctions in wealth and power.
-3. Qualities that were valued in the mercantile economy included individualism, hard work, loyalty, and the willingness to take risks.
-4. As production increased, centralized control over production also increased, leading in turn to more-centralized control over fellowship and worship.
-5. Crafts were produced by skilled artisans working in close, egalitarian relationships with their masters and other fellow guild members.
-6. The stability of Middle Eastern governments was threatened by their lack of control over international trade patterns and over their own peripheral territories.
+O Persian and Arabian merchants traveled great distances to sell their finished goods at the marketplaces of ancient Sumeria.
+O Revenue from trade was unevenly distributed, causing Middle Eastern societies to be characterized by growing distinctions in wealth and power.
+O Qualities that were valued in the mercantile economy included individualism, hard work, loyalty, and the willingness to take risks.
+O As production increased, centralized control over production also increased, leading in turn to more-centralized control over fellowship and worship.
+O Crafts were produced by skilled artisans working in close, egalitarian relationships with their masters and other fellow guild members.
+O The stability of Middle Eastern governments was threatened by their lack of control over international trade patterns and over their own peripheral territories.
  
  
  
@@ -5281,20 +5280,16 @@ Where would the sentence best fit?
 13. Directions: From the seven answer choices below, select the two phrases that correctly characterize the terrestrial planets and the three phrases that correctly characterize the Jovian planets. Drag each phrase you select into the appropriate column of the table. Two of the phrases will NOT be used. This question is worth 3 points.
 terrestrial planets
 Jovian planets
-●
-●
-●
-●
-●
+
  
 Answer Choices
-1. Have relatively small sizes
-2. Are grouped in the same category as Pluto
-3. Contain relatively high proportions of ices
-4. Have relatively high temperatures
-5. Have densities that are generally lower than the density of water
-6. Have relatively high escape velocities
-7. Have a composition closer to that of the cloud from which they condensed terrestrial
+O Have relatively small sizes
+O Are grouped in the same category as Pluto
+O Contain relatively high proportions of ices
+O Have relatively high temperatures
+O Have densities that are generally lower than the density of water
+O Have relatively high escape velocities
+O Have a composition closer to that of the cloud from which they condensed terrestrial
  
  
  
@@ -5405,12 +5400,12 @@ Because land routes to Asia had been cut off in the fourteenth century. European
 ●
 ●
 Answer Choices
-1. Reports by travelers indicated that people in Asia were interested in renewing trade with Europeans.
-2. For trade in Asian goods such as spices to be profitable.
-3. European galleys were able to bring Asian goods across the these items needed to be transported in large quantities by​Indian Ocean and around the African coastline.
-4. Wind-driven caravels were developed to carry cargo across the oceans.
-5. The development of maps. navigational instruments. and a maritime code of conduct provided crucial elements for long-distance navigation.
-6. Europeans wanted to import spices from Asia in order to improve the taste of food and to make perfumes and medicines.
+O Reports by travelers indicated that people in Asia were interested in renewing trade with Europeans.
+O For trade in Asian goods such as spices to be profitable.
+O European galleys were able to bring Asian goods across the these items needed to be transported in large quantities by​Indian Ocean and around the African coastline.
+O Wind-driven caravels were developed to carry cargo across the oceans.
+O The development of maps. navigational instruments. and a maritime code of conduct provided crucial elements for long-distance navigation.
+O Europeans wanted to import spices from Asia in order to improve the taste of food and to make perfumes and medicines.
  
  
  
@@ -5500,12 +5495,12 @@ In the rain forest. an animal must be able to send signals to members of its own
 ●
  
 Answer Choices
-1. Animals that have different predators at different times of day
-2. To escape notice, an animal may move or change color so change color to avoid being detected. that its color pattern is not visible.
-3. To be noticed, an animal may draw attention to the contrast F between its colors and the colors of its environment.
-4. Yellow and green are the most common colors found in the r rain forest.
-5. Animals must have signals for aggression as well as to indicate readiness to mate.
-6. An animal may use sound rather than color to attract attention, because sound signals are not hindered by
+O Animals that have different predators at different times of day
+O To escape notice, an animal may move or change color so change color to avoid being detected. that its color pattern is not visible.
+O To be noticed, an animal may draw attention to the contrast F between its colors and the colors of its environment.
+O Yellow and green are the most common colors found in the r rain forest.
+O Animals must have signals for aggression as well as to indicate readiness to mate.
+O An animal may use sound rather than color to attract attention, because sound signals are not hindered by
  
  
  
@@ -6309,9 +6304,7 @@ In his view, there could be no other explanation for the composition of such dri
 Where would the sentence best fit ? 【】
 14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 Louis Agassiz was the first to note signs of glacial erosion and sedimentation in diverse regions of Europe and North America.
-  
-  
-  
+  
 Answer Choices
 O Evidence of a pattern of glacier-like deposits eventually convinced most geologists that an enormous continental glacier had extended into the temperate zone.
 O Glacial research showed that many layers of ice were deposited, with each new period of glaciation extending farther south than the one before.
@@ -6535,20 +6528,12 @@ O In rich, fertile areas permanent societies evolved to a high level of complexi
 TPO20-3
 Fossil Preservation
 When one considers the many ways by which organisms are completely destroyed after death, it is remarkable that fossils are as common as they are. Attack by scavengers and bacteria, chemical decay, and destruction by erosion and other geologic agencies make the odds against preservation very high. However, the chances of escaping complete destruction are vastly improved if the organism happens to have a mineralized skeleton and dies in a place where it can be quickly buried by sediment. Both of these conditions are often found on the ocean floors, where shelled invertebrates (organisms without spines) flourish and are covered by the continuous rain of sedimentary particles. Although most fossils are found in marine sedimentary rocks, they also are found in terrestrial deposits left by streams and lakes. On occasion, animals and plants have been preserved after becoming immersed in tar or quicksand, trapped in ice or lava flows, or engulfed by rapid falls of volcanic ash.
- 
 The term "fossil" often implies petrifaction, literally a transformation into stone. After the death of an organism, the soft tissue is ordinarily consumed by scavengers and bacteria. The empty shell of a snail or clam may be left behind, and if it is sufficiently durable and resistant to dissolution, it may remain basically unchanged for a long period of time. Indeed, unaltered shells of marine invertebrates are known from deposits over 100 million years old. In many marine creatures, however, the skeleton is composed of a mineral variety of calcium carbonate called aragonite. Although aragonite has the same composition as the more familiar mineral known as calcite, it has a different crystal form, is relatively unstable, and in time changes to the more stable calcite.
- 
 Many other processes may alter the shell of a clam or snail and enhance its chances for preservation. Water containing dissolved silica, calcium carbonate, or iron may circulate through the enclosing sediment and be deposited in cavities such as marrow cavities and canals in bone once occupied by blood vessels and nerves. In such cases, the original composition of the bone or shell remains, but the fossil is made harder and more durable. This addition of a chemically precipitated substance into pore spaces is termed "permineralization."
- 
 Petrifaction may also involve a simultaneous exchange of the original substance of a dead plant or animal with mineral matter of a different composition. This process is termed " replacement" because solutions have dissolved the original material and replaced it with an equal volume of the new substance. Replacement can be a marvelously precise process, so that details of shell ornamentation, tree rings in wood, and delicate structures in bone are accurately preserved.
- 
 Another type of fossilization, known as carbonization, occurs when soft tissues are preserved as thin films of carbon. Leaves and tissue of soft-bodied organisms such as jellyfish or worms may accumulate, become buried and compressed, and lose their volatile constituents. The carbon often remains behind as a blackened silhouette.
- 
 Although it is certainly true that the possession of hard parts enhances the prospect of preservation, organisms having soft tissues and organs are also occasionally preserved. Insects and even small invertebrates have been found preserved in the hardened resins of conifers and certain other trees. X-ray examination of thin slabs of rock sometimes reveals the ghostly outlines of tentacles, digestive tracts, and visual organs of a variety of marine creatures. Soft parts, including skin, hair, and viscera of ice age mammoths, have been preserved in frozen soil or in the oozing tar of oil   seeps.
- 
 The probability that actual remains of soft tissue will be preserved is improved if the organism dies in an environment of rapid deposition and oxygen deprivation. Under such conditions, the destructive effects of bacteria are diminished. The Middle Eocene Messel Shale (from about 48 million years ago) of Germany accumulated in such an environment. The shale was deposited in an oxygen-deficient lake where lethal gases sometimes bubbled up and killed animals. Their remains accumulated on the floor of the lake and were then covered by clay and silt. Among the superbly preserved Messel fossils are insects with iridescent exoskeletons (hard outer coverings), frogs with skin and blood vessels intact, and even entire small mammals with preserved fur and soft tissue.
- 
- 
 Paragraph 1: When one considers the many ways by which organisms are completely destroyed after death, it is remarkable that fossils are as common as they are. Attack by scavengers and bacteria, chemical decay, and destruction by erosion and other geologic agencies make the odds against preservation very high. However, the chances of escaping complete destruction are vastly improved if the organism happens to have a mineralized skeleton and dies in a place where it can be quickly buried by sediment. Both of these conditions are often found on the ocean floors, where shelled invertebrates (organisms without spines) flourish and are covered by the continuous rain of sedimentary particles. Although most fossils are found in marine sedimentary rocks, they also are found in terrestrial deposits left by streams and lakes. On occasion, animals and plants have been preserved after becoming immersed in tar or quicksand, trapped in ice or lava flows, or engulfed by rapid falls of volcanic ash.
 1. The word "agencies" in the passage is closest in meaning to
 O combinations
@@ -6576,7 +6561,7 @@ O To emphasize that some fossils remain unaltered for millions of years
 O To contrast fossil formation in organisms with soft tissue and in organisms with hard shells
 O To explain that some marine organisms must undergo chemical changes in order to fossilize
 O To explain why fossil shells are more likely to survive than are fossil skeletons
-   Paragraph 3: Many other processes may after the shell of a clam or snail and enhance its chances for preservation. Water containing dissolved silica, calcium carbonate, or iron may circulate through the enclosing sediment and be deposited in cavities such as marrow cavities and canals in bone once occupied by blood vessels and nerves. In such cases, the original composition of the bone or shell remains, but the fossil is made harder and more durable. This addition of a chemically precipitated substance into pore spaces is termed "permineralization."
+Paragraph 3: Many other processes may after the shell of a clam or snail and enhance its chances for preservation. Water containing dissolved silica, calcium carbonate, or iron may circulate through the enclosing sediment and be deposited in cavities such as marrow cavities and canals in bone once occupied by blood vessels and nerves. In such cases, the original composition of the bone or shell remains, but the fossil is made harder and more durable. This addition of a chemically precipitated substance into pore spaces is termed "permineralization."
 6. The word "enhance" in the passage is closest in meaning to
 O control
 O limit
@@ -6616,16 +6601,13 @@ O the presence of calcite in an organism's skeleton
 O the presence of large open areas along an ocean floor
 O the deposition of a fossil in sticky substances such as sap or tar
 O the rapid burial of an organism under layers of silt
-■Another type of fossilization, known as carbonization, occurs when soft tissues are preserved as thin films of carbon. ■Leaves and tissue of soft-bodied organisms such as jellyfish or worms may accumulate, become buried and compressed, and lose their volatile constituents. ■The carbon often remains behind as a blackened silhouette.■
+Paragraph 5: ■Another type of fossilization, known as carbonization, occurs when soft tissues are preserved as thin films of carbon. ■Leaves and tissue of soft-bodied organisms such as jellyfish or worms may accumulate, become buried and compressed, and lose their volatile constituents. ■The carbon often remains behind as a blackened silhouette.■
 13. Look at the four squares [■] that indicate where the following sentence can be added to the passage.
 But the evidence of past organic life is not limited to petrifaction.
 Where would the sentence best fit?
 Click on a square [■] to insert the sentence in the passage.
 14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 The remains of ancient life are amazingly well preserved in the form of fossils.
-O  
-O  
-O  
 Answer Choices
 O Environmental characteristics like those present on ocean floors increase the likelihood that plant and animal fossils will occur.
 O Fossils are more likely to be preserved in shale deposits than in deposits of clay and silt.
@@ -8039,7 +8021,7 @@ Paragraph 6: A given lake's residence time is by no means a fixed quantity. It d
 ○The renewal of the lakes' water has slowed due to changes in climate.
 ○Plants have required less water from the lakes
  
-12.​According to paragraph 6, residence time is affected by all of the following EXCEPT
+12.According to paragraph 6, residence time is affected by all of the following EXCEPT
    ○amount of rainfall  
 ○rate of evaporation
    ○temperature of surrounding air
@@ -8047,17 +8029,16 @@ Paragraph 6: A given lake's residence time is by no means a fixed quantity. It d
  
 paragraph3: Once all this information has been gathered, it becomes possible to judge whether a lake’s flow is mainly due to its surface inputs and outputs or to its underground inputs and outputs. [■] If the former are greater, the lake is a surface-water-dominated lake; if the latter, it is a seepage-dominated lake. [■] Occasionally, common sense tells you which of these two possibilities applies. [■] For example, a pond in hilly country that maintains a steady water level all through a dry summer in spite of having no streams flowing into it must obviously be seepage dominated. Conversely, a pond with a stream flowing in one end and out the other, which dries up when the stream dries up, is clearly surface water dominated. [■]
  
-13.​Look at the four squares III that indicate where the following sentence could be added to the passage.
+13.Look at the four squares III that indicate where the following sentence could be added to the passage.
 Of course, a lake may be neither surface-water-nor seepage-dominated if, for example, its inputs are predominantly surface and its outputs are predominantly seepage.
 Where would the sentence best fit? Click on a square to add the sentence to the passage.
  
-14.​Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage.
+14.Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage.
 This question is worth 2 points.
 Water enters, remains, and eventually leaves a lake in a variety of ways.
-○    
 Answer Choices
-     ○By measuring the water quantities at each of a lake's inputs and outputs, it can be determined whether water enters the lake mainly from surface or groundwater sources.
-     ○Changes in lake level and volume are caused principally by the amount of evaporation of water into the atmosphere.
+○By measuring the water quantities at each of a lake's inputs and outputs, it can be determined whether water enters the lake mainly from surface or groundwater sources.
+○Changes in lake level and volume are caused principally by the amount of evaporation of water into the atmosphere.
 ○It is sometimes possible to decide whether a lake is surface water dominated or seepage dominated by simple observation at different seasons.
 ○The average period of time that molecules of water spend in a lake—the residence time—varies from lake to lake and overtime within a particular lake.
 ○The residence times of surface-water-dominated lakes are usually longer than those of seepage-dominated lakes.
@@ -8179,16 +8160,13 @@ paragraph5: Other respiratory regulating mechanisms apparently cease functioning
 paragraph1: Of all the physiological differences in human sleep compared with wakefulness that have been discovered in the last decade, changes in respiratory control are most dramatic. Not only are there differences in the level of the functioning of respiratory systems, there are even changes in how they function. Movements of the rib cage for breathing are reduced during sleep, making the contractions of the diaphragm more important. [■] Yet because of the physics of lying down, the stomach applies weight against the diaphragm and makes it more difficult for the diaphragm to do its job. [■] However, there are many other changes that affect respiration when asleep.
 paragraph2: [■] During wakefulness, breathing is controlled by two interacting systems. [■]The first is an automatic, metabolic system whose control is centered in the brain stem. It subconsciously adjusts breathing rate and depth in order to regulate the levels of carbon dioxide (CO2) and oxygen (O2), and the acid-base ratio in the blood. The second system is the voluntary, behavioral system. Its control center is based in the forebrain, and it regulates breathing for use in speech, singing, sighing, and so on. It is capable of ignoring or overriding the automatic, metabolic system and produces an irregular pattern of breathing.
  
-12.​Look at the four squares [■] that indicate where the following sentence could be added to the passage.
+12. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
 To better understand breathing during sleep, it is, however, helpful to first understand how respiration works in general.
 Where would the sentence best fit? Click on a square to add the sentence to the passage
 13. Directions: From the seven statements below, select the statements that correctly characterize breathing during
 wakefulness and those statements that correctly characterize breathing during sleep. Drag each answer choice you select
 into the appropriate box of the table. Two of the answer choices will NOT be used. This question is worth 3 points.
 Wakefulness Sleep
-
-
-
 
 Answer Choices
 ○The role of the rib cage increases and the role of the diaphragm decreases.

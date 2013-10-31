@@ -288,7 +288,42 @@ Where would the sentence best fit?</span>
     </li>
 </ul>
 
-<span class="description">Directions: From the seven answer choices below, select the two phrases that correctly characterize the terrestrial planets and the three phrases that correctly characterize the Jovian planets. Drag each phrase you select into the appropriate column of the table. Two of the phrases will NOT be used. This question is worth 3 points.<p>terrestrial planets</p><p>Jovian planets</p><p></p><p>Answer Choices</p><p>1. Have relatively small sizes</p><p>2. Are grouped in the same category as Pluto</p><p>3. Contain relatively high proportions of ices</p><p>4. Have relatively high temperatures</p><p>5. Have densities that are generally lower than the density of water</p><p>6. Have relatively high escape velocities</p><p>7. Have a composition closer to that of the cloud from which they condensed terrestrial</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></span>
+<span class="description">Directions: From the seven answer choices below, select the two phrases that correctly characterize the terrestrial planets and the three phrases that correctly characterize the Jovian planets. Drag each phrase you select into the appropriate column of the table. Two of the phrases will NOT be used. This question is worth 3 points.<p>terrestrial planets</p><p>Jovian planets</p><p></p><p></p><p>Answer Choices</p></span>
 <ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-13" value="A">
+        Have relatively small sizes
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="B">
+        Are grouped in the same category as Pluto
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="C">
+        Contain relatively high proportions of ices
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-13" value="D">
+        Have relatively high temperatures
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="E">
+        Have densities that are generally lower than the density of water
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="F">
+        Have relatively high escape velocities
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="G">
+        Have a composition closer to that of the cloud from which they condensed terrestrial
+      </input>
+    </li>
 </ul>
 
