@@ -63,15 +63,15 @@ class Question:
           best_score = score
           best_sentence = s
       # print best_score, sec_best
-    self.highlight_sentence = best_sentence  # THIS IS DONE
-    ''' for p in self.paragraphs:
-      paragraph = article.paragraphs[p - 1]
-      if self.highlight_sentence in paragraph:
-        print paragraph
-        print "==========="
-        article.paragraphs[p - 1] = paragraph.replace(
-          self.highlight_sentence, Article.highlight_template.substitute(Article.highlight_template, word = self.highlight_sentence, qidx = self.id + 1))
-        print article.paragraphs[p - 1] '''
+    self.highlight_sentence = re.sub('^\s*', '', best_sentence)  # THIS IS DONE
+    for i in xrange(len(article.paragraphs)):
+      if self.highlight_sentence in article.paragraphs[i]:
+        sentence = self.highlight_sentence
+        if sentence + '.' in article.paragraphs[i]:
+          sentence = sentence + '.'
+          print(sentence)
+        article.paragraphs[i] = article.paragraphs[i].replace(
+          sentence, Article.highlight_template.substitute(Article.highlight_template, word = sentence, qidx = self.id + 1))
 
   def add_paragraph(self, p):
     if not p: return
@@ -189,7 +189,6 @@ def parse_artiles(filename):
         if article:
           if question:
             article.questions.append(question)
-            print(question.answercount)
             question = None
           articles.append(article)
         article = Article()
