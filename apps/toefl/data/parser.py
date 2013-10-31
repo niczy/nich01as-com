@@ -213,6 +213,8 @@ def parse_artiles(filename):
           block = '■'
           if '█' in ignored_paragraph:
             block = '█'
+          elif '【】' in ignored_paragraph:
+            block = '【】'
           line = line.replace('█', 'A').replace('■', 'A').replace('[A]', 'A').replace('【】', 'A').replace('HI', 'A').replace('[Ⓐ] [Ⓑ] [Ⓒ] and [Ⓓ]', 'A').replace('III', 'A')
           questionid = len(article.questions) + 1
           for i in xrange(4):
