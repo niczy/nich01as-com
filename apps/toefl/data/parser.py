@@ -106,9 +106,6 @@ class Article:
     self.paragraphs = []
     self.questions = []
   
-  def to_json(self):
-    return json.dumps(self.__dict__, indent=4)
-
   def post_process(self):
     for i in xrange(len(self.questions)):
       q = self.questions[i]
