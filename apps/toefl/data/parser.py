@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 import sys
 import re
+import json
+from optparse import OptionParser
 
 from string import Template
 from sets import Set
@@ -103,6 +105,9 @@ class Article:
     self.title = ""
     self.paragraphs = []
     self.questions = []
+  
+  def to_json(self):
+    return json.dumps(self.__dict__, indent=4)
 
   def post_process(self):
     for i in xrange(len(self.questions)):
@@ -170,7 +175,7 @@ def output(articles):
               option = option, name = 'answer-' + str(answerid), value = value_index[optionid], right_answer_class = right_answer_class, input_type = input_type)
         output_file.write(options_template.substitute(options = options))
 
-def parse_artiles(filename):
+def parse_articles(filename):
   article = None
   question = None
   articles = []
@@ -315,8 +320,36 @@ def parse_answers(filename, articles):
 
   return articles
 
+
+def to_json(o):
+  dic = o.__dict__
+  dic['__type__'] = o.__class__.__name__
+  return dic
+
+def from_json(dct):
+  y = eval(dct['__type__'])()
+  del dct['__type__']
+  y.__dict__ = dct
+  return y
+        
 if __name__ == '__main__':
-  file = sys.argv[1] if len(sys.argv) > 1 else "articles.txt"
-  articles = parse_artiles(file)
-  articles = parse_answers("answers.txt", articles)
-  output(articles)
+  parser = OptionParser()
+  parser.add_option("-f", "--file", dest="filename", default='articles.txt',
+                    help="input file. e.g. articles.txt")
+  parser.add_option("-j", "--json", dest="jsonfile", default='articles.json',
+                    help="output JSON file. e.g. articles.json")
+  parser.add_option("-w", "--answers", dest="answers", default='answers.txt',
+                    help="input file for answers.")
+  parser.add_option("-a", "--action", dest="action", default='json',
+                    help="json|html")
+
+  (options, args) = parser.parse_args()
+  if options.action == 'json':
+    articles = parse_articles(options.filename)
+    articles = parse_answers(options.answers, articles)
+    with open(options.jsonfile, 'w') as f:
+      f.write(json.dumps(articles, default=to_json, indent=4, encoding='utf-8'))
+  else:
+    with open(options.jsonfile) as f:
+      articles = json.loads(f.read(), object_hook=from_json, encoding='utf-8')
+      output(articles)
