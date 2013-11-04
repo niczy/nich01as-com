@@ -70,8 +70,6 @@ class Question:
         sentence = self.highlight_sentence
         if sentence + '.' in article.paragraphs[i]:
           sentence = sentence + '.'
-          if article.name == 'tpo20-3':
-            print(sentence)
         article.paragraphs[i] = article.paragraphs[i].replace(
           sentence, Article.highlight_template.substitute(Article.highlight_template, word = sentence, qidx = self.id + 1))
 
@@ -124,7 +122,7 @@ def post_process_question(previous_question, question, paragraphs):
     return
   question.post_process()
   if previous_question and len(question.paragraphs) == 0:
-        question.paragraphs = previous_question.paragraphs
+    question.paragraphs = previous_question.paragraphs
 
 
 def output(articles):
@@ -152,7 +150,9 @@ def output(articles):
           if paragraphidx in question.paragraphs:
             if questions: questions = questions + ' '
             questions = questions + 'question-' + str(questionidx)
-        output_file.write(paragraph_template.substitute(paragraph = paragraph, questions = questions))
+        outputstr = paragraph_template.substitute(paragraph = paragraph, questions = questions)
+        print('printing', article.name, 'paragraph', str(paragraphidx))
+        output_file.write(outputstr)
 
     with open('reading_question_' + article.name, "w") as output_file:
       answerid = 0;
@@ -178,6 +178,7 @@ def parse_articles(filename):
   articles = []
   state = "init"
   paragraphs = []
+  last_ignored_paragraph = ''
   ignored_paragraph = ''
 
   intert_template = Template('<span class="question-$questionid question-highlight-$questionid hidden">$value</span>')
@@ -210,19 +211,28 @@ def parse_articles(filename):
         if question:
           article.questions.append(question)
         m = re.search('\s*Paragraph (\d+):\s*', ignored_paragraph)
+        m2 = re.search('Paragraph (\d+)-(\d+).*', last_ignored_paragraph)
+        block = '■'
+        if '█' in ignored_paragraph:
+          block = '█'
+        elif '【】' in ignored_paragraph:
+          block = '【】'
+
+        line = line.replace('█', 'A').replace('■', 'A').replace('[A]', 'A').replace('【】', 'A').replace('HI', 'A').replace('[Ⓐ] [Ⓑ] [Ⓒ] and [Ⓓ]', 'A').replace('III', 'A')
+        questionid = len(article.questions) + 1
+
         if m:
-          block = '■'
-          if '█' in ignored_paragraph:
-            block = '█'
-          elif '【】' in ignored_paragraph:
-            block = '【】'
-          line = line.replace('█', 'A').replace('■', 'A').replace('[A]', 'A').replace('【】', 'A').replace('HI', 'A').replace('[Ⓐ] [Ⓑ] [Ⓒ] and [Ⓓ]', 'A').replace('III', 'A')
-          questionid = len(article.questions) + 1
           for i in xrange(4):
             ignored_paragraph = ignored_paragraph.replace(block, intert_template.substitute(questionid = questionid, value = values[i]), 1)
           paragraphidx = int(m.group(1))
           ignored_paragraph = re.sub('\s*Paragraph (\d+):\s*', '', ignored_paragraph)
           article.paragraphs[paragraphidx - 1] = ignored_paragraph
+        elif m2:
+          print(last_ignored_paragraph)
+        if '5-6' in last_ignored_paragraph:
+          print(last_ignored_paragraph)
+        if last_ignored_paragraph:
+          print(last_ignored_paragraph)
         
         question = Question()
         question.paragraphs = paragraphs
@@ -242,12 +252,13 @@ def parse_articles(filename):
         question.description = question.description + '\n' + line
       elif re.match('Paragraph \d+.*', line):
         state = "ignore"
-        if re.match('Paragraph (\d+)—(\d+).*', line):
-          m = re.search('Paragraph (\d+)—(\d+).*', line)
+        if re.match('Paragraph (\d+)-(\d+).*', line):
+          m = re.search('Paragraph (\d+)-(\d+).*', line)
           for x in xrange(int(m.group(1)), int(m.group(2)) + 1):
             paragraphs.append(x)
         else:
           paragraphs.append(int(re.search('Paragraph (\d+).*', line).group(1)))
+        last_ignored_paragraph = ignored_paragraph
         ignored_paragraph = line
       elif line.isspace():
         state = "ignore"
@@ -266,7 +277,8 @@ def parse_articles(filename):
       elif state == 'question':
         question.description = question.description + '<p>' + line + '</p>'
       elif state == 'title' or state == 'paragraph':
-        article.paragraphs.append(line)
+        if line and not line.isspace():
+          article.paragraphs.append(line)
         state = 'paragraph'
 
   if article:
@@ -342,10 +354,13 @@ if __name__ == '__main__':
 
   (options, args) = parser.parse_args()
   if options.action == 'json':
+    print('Do not programmaticly generate json any more')
+    ''' 
     articles = parse_articles(options.filename)
     articles = parse_answers(options.answers, articles)
     with open(options.jsonfile, 'w') as f:
       f.write(json.dumps(articles, default=to_json, indent=4, encoding='utf-8'))
+    '''
   else:
     with open(options.jsonfile) as f:
       articles = json.loads(f.read(), object_hook=from_json, encoding='utf-8')

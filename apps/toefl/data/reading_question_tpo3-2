@@ -2,7 +2,7 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-1" value="A">
-        Until farmers and ranchers settled there in the 1880’s, the High Plains had never been inhabited.
+        Until farmers and ranchers settled there in the 1880's, the High Plains had never been inhabited.
       </input>
     </li>
    <li class="choice">
@@ -17,7 +17,7 @@
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-1" value="D">
-        Before the early 1900’s there was only a small amount of farming and ranching in the High Plains.
+        Before the early 1900's there was only a small amount of farming and ranching in the High Plains.
       </input>
     </li>
 </ul>
@@ -31,7 +31,7 @@
     </li>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-2" value="B">
-        The aquifer’s water comes from underground springs.
+        The aquifer's water comes from underground springs.
       </input>
     </li>
    <li class="choice">
@@ -41,7 +41,7 @@
     </li>
    <li class="choice">
       <input type="radio"  name="answer-2" value="D">
-        The aquifer’s water is stored in a layer of sandstone.
+        The aquifer's water is stored in a layer of sandstone.
       </input>
     </li>
 </ul>
@@ -50,7 +50,7 @@
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-3" value="A">
-        Despite the current impressive size of the Ogallala aquifer, the region’s climate keeps the rates of water addition very small.
+        Despite the current impressive size of the Ogallala aquifer, the region's climate keeps the rates of water addition very small.
       </input>
     </li>
    <li class="choice">
@@ -60,7 +60,7 @@
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="C">
-        Because of the region’s present climatic conditions, water is being added each year to the aquifer.
+        Because of the region's present climatic conditions, water is being added each year to the aquifer.
       </input>
     </li>
    <li class="choice">
@@ -266,7 +266,7 @@
 <ul>
    <li class="choice">
       <input type="radio"  name="answer-12" value="A">
-        The rivers cannot supply sufficient water for the farmer’s needs.
+        The rivers cannot supply sufficient water for the farmer's needs.
       </input>
     </li>
    <li class="choice">
@@ -286,7 +286,7 @@
     </li>
 </ul>
 
-<span class="description">Look at the four squares [█] that indicate where the following sentence could be added to the passage.
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
 <quote><b>But even if uncooperative farmers were to join in the conservation efforts, this would only delay the depletion of the aquifer.</b></quote>
 Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
 <ul>
@@ -321,7 +321,7 @@ Where would the sentence best fit? Click on a square to add the sentence to the 
     </li>
    <li class="choice">
       <input type="checkbox" class="right-answer" name="answer-14" value="B">
-        Given the aquifer’s low recharge rate, its use for irrigation is causing water tables to drop and will eventually lead to its depletion.
+        Given the aquifer's low recharge rate, its use for irrigation is causing water tables to drop and will eventually lead to its depletion.
       </input>
     </li>
    <li class="choice">

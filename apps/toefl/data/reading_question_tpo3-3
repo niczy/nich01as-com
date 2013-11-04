@@ -65,7 +65,7 @@
     </li>
    <li class="choice">
       <input type="radio"  name="answer-3" value="D">
-        A change in the members of an organism does not affect an ecosystem’s properties
+        A change in the members of an organism does not affect an ecosystem's properties
       </input>
     </li>
 </ul>
@@ -190,7 +190,7 @@
     </li>
 </ul>
 
-<span class="description">In paragraph 5, why does the author provide the information that "(A fifteen-speed racing bicycle is more likely to break down than a child’s tricycle)"?</span>
+<span class="description">In paragraph 5, why does the author provide the information that "(A fifteen-speed racing bicycle is more likely to break down than a child's tricycle)"?</span>
 <ul>
    <li class="choice">
       <input type="radio" class="right-answer" name="answer-9" value="A">
