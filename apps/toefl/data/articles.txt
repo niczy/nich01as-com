@@ -1308,74 +1308,74 @@ Mineral deficiencies can often be detected by specific symptoms such as chlorosi
 Much of the research on nutrient deficiencies is based on growing plants hydroponically, that is, in soilless liquid nutrient solutions. This technique allows researchers to create solutions that selectively omit certain nutrients and then observe the resulting effects on the plants. Hydroponics has applications beyond basic research, since it facilitates the growing of greenhouse vegetables during winter. Acroponics, a technique in which plants are suspended and the roots misted with a nutrient solution, is another method for growing plants without soil.
 While mineral deficiencies can limit the growth of plants, an overabundance of certain minerals can be toxic and can also limit growth. Saline soils, which have high concentrations of sodium chloride and other salts, limit plant growth, and research continues to focus on developing salt-tolerant varieties of agricultural crops. Research has focused on the toxic effects of heavy metals such as lead, cadmium, mercury, and aluminum; however, even copper and zinc, which are essential elements, can become toxic in high concentrations. Although most plants cannot survive in these soils, certain plants have the ability to tolerate high levels of these minerals.
 Scientists have known for some time that certain plants, called hyper accumulators, can concentrate minerals at levels a hundredfold or greater than normal. A survey of known hyper accumulators identified that 75 percent of them amassed nickel, cobalt, copper, zinc, manganese, lead, and cadmium are other minerals of choice. Hyper accumulators run the entire range of the plant world. They may be herbs, shrubs, or trees. Many members of the mustard family, spurge family, legume family, and grass family are top hyper accumulators. Many are found in tropical and subtropical areas of the world, where accumulation of high concentrations of metals may afford some protection against plant-eating insects and microbial pathogens.
-Only recently have investigators considered using these plants to clean up soil and waste sites that have been contaminated by toxic levels of heavy metals – an environmentally friendly approach known as phytoremediation. This scenario begins with the planting of hyper accumulating species in the target area, such as an abandoned mine or an irrigation pond contaminated by runoff. Toxic minerals would first be absorbed by roots but later relocated to the stem and leaves. A harvest of the shoots would remove the toxic compounds off site to be burned or composted to recover the metal for industrial uses. After several years of cultivation and harvest, the site would be restored at a cost much lower than the price of excavation and reburial, the standard practice for remediation of contaminated soils. For examples, in field trials, the plant alpine pennycress removed zinc and cadmium from soils near a zinc smelter, and Indian mustard, native to Pakistan and India, has been effective in reducing levels of selenium salts by 50 percent in contaminated soils.
+Only recently have investigators considered using these plants to clean up soil and waste sites that have been contaminated by toxic levels of heavy metals - an environmentally friendly approach known as phytoremediation. This scenario begins with the planting of hyper accumulating species in the target area, such as an abandoned mine or an irrigation pond contaminated by runoff. Toxic minerals would first be absorbed by roots but later relocated to the stem and leaves. A harvest of the shoots would remove the toxic compounds off site to be burned or composted to recover the metal for industrial uses. After several years of cultivation and harvest, the site would be restored at a cost much lower than the price of excavation and reburial, the standard practice for remediation of contaminated soils. For examples, in field trials, the plant alpine pennycress removed zinc and cadmium from soils near a zinc smelter, and Indian mustard, native to Pakistan and India, has been effective in reducing levels of selenium salts by 50 percent in contaminated soils.
  
 Paragraph1: Research has shown that certain minerals are required by plants for normal growth and development. The soil is the source of these minerals, which are absorbed by the plant with the water from the soil. Even nitrogen, which is a gas in its elemental state, in normally absorbed from the soil as nitrate ions. Some soils are notoriously deficient in micro nutrients and are therefore unable to support most plant life. So-called serpentine soils, for example, are deficient in calcium, and only plants able to tolerate low levels of this mineral can survive. In modern agriculture, mineral depletion of soils is a major concern, since harvesting crops interrupts the recycling of nutrients back to the soil.
 1. According to Paragraph1, what is true of plants that can grow in serpentine soil?
- They absorb micronutrients unusually well.
- They require far less calcium than most plants do.
- They are able to absorb nitrogen in its elemental state.
- They are typically crops raised for food.
+O  They absorb micronutrients unusually well.
+O  They require far less calcium than most plants do.
+O  They are able to absorb nitrogen in its elemental state.
+O  They are typically crops raised for food.
 Paragraph2: Mineral deficiencies can often be detected by specific symptoms such as chlorosis (loss of chlorophyll resulting in yellow or white leaf issue), necrosis (isolated dead patches), anthocyanin formation (development of deep red pigmentation of leaves or stem), stunted growth, and development of woody tissue in an herbaceous plant. Soils are most commonly deficient in nitrogen and phosphorus. Nitrogen-deficient plants exhibit many of the symptoms just described. Leaves develop chlorosis; stems are short and slender, and anthocyanin discoloration occurs on stems, petioles, and lower leaf surfaces. Phosphorus-deficient plants are often stunted, with leaves turning a characteristic dark green, often with the accumulation of anthocyanin. Typically, older leaves are affected first as the phosphorus is mobilized to young growing tissue. Iron deficiency is characterized by chlorosis between veins in young leaves.
 2. The word exhibit in the passage is closest in meaning to
- fight off
- show
- cause
- spread
+O  fight off
+O  show
+O  cause
+O  spread
 3. According to Paragraph2, which of the following symptoms occurs in phosphorus-deficient plants but not in plants deficient in nitrogen or iron?
- Chlorosis on leaves
- Change in leaf pigmentation to a dark shade of green
- Short, stunted appearance of stems
- Reddish pigmentation on the leaves or stem
+O  Chlorosis on leaves
+O  Change in leaf pigmentation to a dark shade of green
+O  Short, stunted appearance of stems
+O  Reddish pigmentation on the leaves or stem
 4. According to Paragraph2, a symptom of iron deficiency is the presence in young leaves of
- Deep red discoloration between the veins.
- White or yellow tissue between the veins.
- Dead spots between the veins.
- Characteristic dark green veins.
+O  Deep red discoloration between the veins.
+O  White or yellow tissue between the veins.
+O  Dead spots between the veins.
+O  Characteristic dark green veins.
 Paragraph3: Much of the research on nutrient deficiencies is based on growing plants hydroponically, that is, in soilless liquid nutrient solutions. This technique allows researchers to create solutions that selectively omit certain nutrients and then observe the resulting effects on the plants. Hydroponics has applications beyond basic research, since it facilitates the growing of greenhouse vegetables during winter. Acroponics, a technique in which plants are suspended and the roots misted with a nutrient solution, is another method for growing plants without soil.
 5. The word facilitates in the passage is closest in meaning to
- slows down
- affects
- makes easier
- focuses on
+O  slows down
+O  affects
+O  makes easier
+O  focuses on
 6. According to Paragraph3, what is the advantage of hydroponics for research on nutrient deficiencies in plants?
- It allows researchers to control what nutrients a plant receives.
- It allows researchers to observe the growth of a large number of plants simultaneously.
- It is possible to directly observe the roots of plants.
- It is unnecessary to keep misting plants with nutrient solutions.
+O  It allows researchers to control what nutrients a plant receives.
+O  It allows researchers to observe the growth of a large number of plants simultaneously.
+O  It is possible to directly observe the roots of plants.
+O  It is unnecessary to keep misting plants with nutrient solutions.
 7. The word suspended in the passage is closest in meaning to
- grown
- protected
- spread out
- hung
+O  grown
+O  protected
+O  spread out
+O  hung
 Paragraph5: Scientists have known for some time that certain plants, called hyper accumulators, can concentrate minerals at levels a hundredfold or greater than normal. A survey of known hyper accumulators identified that 75 percent of them amassed nickel, cobalt, copper, zinc, manganese, lead, and cadmium are other minerals of choice. Hyper accumulators run the entire range of the plant world. They may be herbs, shrubs, or trees. Many members of the mustard family, spurge family, legume family, and grass family are top hyper accumulators. Many are found in tropical and subtropical areas of the world, where accumulation of high concentrations of metals may afford some protection against plant-eating insects and microbial pathogens.
 8. Why does the author mention herbs, shrubs, and trees?
- To provide examples of plant types that cannot tolerate high levels of harmful minerals.
- To show why so many plants are hyper accumulators.
- To help explain why hyper accumulators can be found in so many different places.
- To emphasize that hyper accumulators occur in a wide range of plant types.
+O  To provide examples of plant types that cannot tolerate high levels of harmful minerals.
+O  To show why so many plants are hyper accumulators.
+O  To help explain why hyper accumulators can be found in so many different places.
+O  To emphasize that hyper accumulators occur in a wide range of plant types.
 9. The word afford in the passage is closest in meaning to
- offer
- prevent
- increase
- remove
-Paragraph 6: Only recently have investigators considered using these plants to clean up soil and waste sites that have been contaminated by toxic levels of heavy metals – an environmentally friendly approach known as phytoremediation. This scenario begins with the planting of hyper accumulating species in the target area, such as an abandoned mine or an irrigation pond contaminated by runoff. Toxic minerals would first be absorbed by roots but later relocated to the stem and leaves. A harvest of the shoots would remove the toxic compounds off site to be burned or composted to recover the metal for industrial uses. After several years of cultivation and harvest, the site would be restored at a cost much lower than the price of excavation and reburial, the standard practice for remediation of contaminated soils. For examples, in field trials, the plant alpine pennycress removed zinc and cadmium from soils near a zinc smelter, and Indian mustard, native to Pakistan and India, has been effective in reducing levels of selenium salts by 50 percent in contaminated soils.
+O  offer
+O  prevent
+O  increase
+O  remove
+Paragraph 6: Only recently have investigators considered using these plants to clean up soil and waste sites that have been contaminated by toxic levels of heavy metals - an environmentally friendly approach known as phytoremediation. This scenario begins with the planting of hyper accumulating species in the target area, such as an abandoned mine or an irrigation pond contaminated by runoff. Toxic minerals would first be absorbed by roots but later relocated to the stem and leaves. A harvest of the shoots would remove the toxic compounds off site to be burned or composted to recover the metal for industrial uses. After several years of cultivation and harvest, the site would be restored at a cost much lower than the price of excavation and reburial, the standard practice for remediation of contaminated soils. For examples, in field trials, the plant alpine pennycress removed zinc and cadmium from soils near a zinc smelter, and Indian mustard, native to Pakistan and India, has been effective in reducing levels of selenium salts by 50 percent in contaminated soils.
 10. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
- Before considering phytoremediation, hyper accumulating species of plants local to the target area must be identified.
- The investigation begins with an evaluation of toxic sites in the target area to determine the extent of contamination.
- The first step in phytoremediation is the planting of hyper accumulating plants in the area to be cleaned up.
- Mines and irrigation ponds can be kept from becoming contaminated by planting hyper accumulating species in targeted areas.
+O  Before considering phytoremediation, hyper accumulating species of plants local to the target area must be identified.
+O  The investigation begins with an evaluation of toxic sites in the target area to determine the extent of contamination.
+O  The first step in phytoremediation is the planting of hyper accumulating plants in the area to be cleaned up.
+O  Mines and irrigation ponds can be kept from becoming contaminated by planting hyper accumulating species in targeted areas.
 11. It can be inferred from Paragraph6 that compared with standard practices for remediation of contaminated soils, phytoremediation
- does not allow for the use of the removed minerals for industrial purposes.
- can be faster to implement
- is equally friendly to the environment
- is less suitable for soils that need to be used within a short period of time.
+O  does not allow for the use of the removed minerals for industrial purposes.
+O  can be faster to implement
+O  is equally friendly to the environment
+O  is less suitable for soils that need to be used within a short period of time.
  
 12. Why does the author mention Indian mustard?
- To warn about possible risks involved in phytoremediation
- To help illustrate the potential of phytoremediation
- To show that hyper accumulating plants grow in many regions of the world
- To explain how zinc contamination can be reduced.
+O  To warn about possible risks involved in phytoremediation
+O  To help illustrate the potential of phytoremediation
+O  To show that hyper accumulating plants grow in many regions of the world
+O  To explain how zinc contamination can be reduced.
 Paragraph5: Scientists have known for some time that certain plants, called hyper accumulators, can concentrate minerals at levels a hundredfold or greater than normal. ■ A survey of known hyper accumulators identified that 75 percent of them amassed nickel, cobalt, copper, zinc, manganese, lead, and cadmium are other minerals of choice. ■Hyper accumulators run the entire range of the plant world. ■ They may be herbs, shrubs, or trees. ■ Many members of the mustard family, spurge family, legume family, and grass family are top hyper accumulators. Many are found in tropical and subtropical areas of the world, where accumulation of high concentrations of metals may afford some protection against plant-eating insects and microbial pathogens.
 13. Look at the four squares [■] that indicate where the following sentence could be added to the passage.
 Certain minerals are more likely to be accumulated in large quantities than others.
@@ -1540,7 +1540,7 @@ Answer Choices
  
 TPO5-3:
 THE CAMBRIAN EXPLOSION
-The geologic timescale is marked by significant geologic and biological events, including the origin of Earth about 4.6 billion years ago, the origin of life about 3.5 billion years ago, the origin of eukaryotic life-forms (living things that have cells with true nuclei) about 1.5 billion years ago, and the origin of animals about 0.6 billion years ago. The last event marks the beginning of the Cambrian period. Animals originated relatively late in the history of Earth – in only the last 10 percent of Earth's history. During a geologically brief 100-million-year period, all modern animal groups (along with other animals that are now extinct) evolved. This rapid origin and diversification of animals is often referred to as “the Cambrian explosion.”
+The geologic timescale is marked by significant geologic and biological events, including the origin of Earth about 4.6 billion years ago, the origin of life about 3.5 billion years ago, the origin of eukaryotic life-forms (living things that have cells with true nuclei) about 1.5 billion years ago, and the origin of animals about 0.6 billion years ago. The last event marks the beginning of the Cambrian period. Animals originated relatively late in the history of Earth - in only the last 10 percent of Earth's history. During a geologically brief 100-million-year period, all modern animal groups (along with other animals that are now extinct) evolved. This rapid origin and diversification of animals is often referred to as “the Cambrian explosion.”
 Scientists have asked important questions about this explosion for more than a century. Why did it occur so late in the history of Earth? The origin of multicellular forms of life seems a relatively simple step compared to the origin of life itself. Why does the fossil record not document the series of evolutionary changes during the evolution of animals? Why did animal life evolve so quickly? Paleontologists continue to search the fossil record for answers to these questions.
 One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize. Fossilization of soft-bodied animals is less likely than fossilization of hard-bodied animals, but it does occur. Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition. In fact, fossil beds containing soft-bodied animals have been known for many years.
 The Ediacara fossil formation, which contains the oldest known animal fossils, consists exclusively of soft-bodied forms. Although named after a site in Australia, the Ediacara formation is worldwide in distribution and dates to Precambrian times. This 700-million-year-old formation gives few clues to the origins of modern animals, however, because paleontologists believe it represents an evolutionary experiment that failed. It contains no ancestors of modern animal groups.
@@ -1548,7 +1548,7 @@ A slightly younger fossil formation containing animal remains is the Tommotian f
 A third fossil formation containing both soft-bodied and hard-bodied animals provides evidence of the result of the Cambrian explosion. This fossil formation, called the Burgess Shale, is in Yoho National Park in the Canadian Rocky Mountains of British Columbia. Shortly after the Cambrian explosion, mud slides rapidly buried thousands of marine animals under conditions that favored fossilization. These fossil beds provide evidence of about 32 modern animal groups, plus about 20 other animal body forms that are so different from any modern animals that they cannot be assigned to any one of the modern groups. These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate detritus or algae. The Burgess Shale formation also has fossils of many extinct representatives of modern animal groups. For example, a well-known Burgess Shale animal called Sidneyia is a representative of a previously unknown group of arthropods (a category of animals that includes insects, spiders, mites, and crabs).
 Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression. The Cambrian explosion involved rapid evolutionary diversification, followed by the extinction of many unique animals. Why was this evolution so rapid? No one really knows. Many zoologists believe that it was because so many ecological niches were available with virtually no competition from existing species. Will zoologists ever know the evolutionary sequences in the Cambrian explosion? Perhaps another ancient fossil bed of soft-bodied animals from 600-million-year-old seas is awaiting discovery.
  
-Paragraph 1: The geologic timescale is marked by significant geologic and biological events, including the origin of Earth about 4.6 billion years ago, the origin of life about 3.5 billion years ago, the origin of eukaryotic life-forms (living things that have cells with true nuclei) about 1.5 billion years ago, and the origin of animals about 0.6 billion years ago. The last event marks the beginning of the Cambrian period. Animals originated relatively late in the history of Earth – in only the last 10 percent of Earth's history. During a geologically brief 100-million-year period, all modern animal groups (along with other animals that are now extinct) evolved. This rapid origin and diversification of animals is often referred to as “the Cambrian explosion.”
+Paragraph 1: The geologic timescale is marked by significant geologic and biological events, including the origin of Earth about 4.6 billion years ago, the origin of life about 3.5 billion years ago, the origin of eukaryotic life-forms (living things that have cells with true nuclei) about 1.5 billion years ago, and the origin of animals about 0.6 billion years ago. The last event marks the beginning of the Cambrian period. Animals originated relatively late in the history of Earth - in only the last 10 percent of Earth's history. During a geologically brief 100-million-year period, all modern animal groups (along with other animals that are now extinct) evolved. This rapid origin and diversification of animals is often referred to as “the Cambrian explosion.”
 1. The word significant in the passage is closest in meaning to
 O numerous
 O important
@@ -1627,7 +1627,7 @@ The term “Cambrian explosion” refers to the geologically brief period during
 Answer Choices
 ○Little is known about the stages of evolution during the Cambrian period, in part because early animals were soft bodied and could fossilize only under particular conditions.
 ○While animal fossils from before the Cambrian explosion have no modern descendants, many animals that evolved during the Cambrian explosion can be assigned to modern groups.
-○The Cambrian period is significant because it marks the emergence of eukaryotic life-forms – organisms that have cells with true nuclei
+○The Cambrian period is significant because it marks the emergence of eukaryotic life-forms - organisms that have cells with true nuclei
 ○The Ediacara fossil formation provides the most information about the Cambrian explosion, while the earlier, Tommotian and Burgess Shale formations give clues about Precambrian evolution.
 ○Zoologists are awaiting the discovery of a 600-million-year-old fossil formation in order to be able to form a theory of how animal evolution progressed.
 ○Although the reasons for the rapid evolution of animals during the Cambrian period are not known, one proposed explanation is an abundance of niches with a lack of competitors.
@@ -1663,7 +1663,7 @@ Answer Choices
  
 TPO6-1:
 William Smith
-In 1769 in a little town in Oxfordshire, England, a child with the very ordinary name of William Smith was born into the poor family of a village blacksmith. He received rudimentary village schooling but mostly he roamed his uncle's farm collecting the fossils that were so abundant in the rocks of the Cotswold hills.When he grew older William Smith taught himself surveying from books he bought with his small savings and at the age of eighteen he was apprenticed to a surveyor of the local parish. He then proceeded to teach himself geology and when he was twenty-four，he went to work for the company that was excavating the Somerset Coal Canal in the south of England.
+In 1769 in a little town in Oxfordshire, England, a child with the very ordinary name of William Smith was born into the poor family of a village blacksmith. He received rudimentary village schooling but mostly he roamed his uncle's farm collecting the fossils that were so abundant in the rocks of the Cotswold hills.When he grew older William Smith taught himself surveying from books he bought with his small savings and at the age of eighteen he was apprenticed to a surveyor of the local parish. He then proceeded to teach himself geology and when he was twenty-four,he went to work for the company that was excavating the Somerset Coal Canal in the south of England.
 This was before the steam locomotive, and canal building was at its height.The companies building the canals to transport coal needed surveyors to help them find the coal deposits worth mining as well as to determine the best courses for the canals. This job gave Smith an opportunity to study the fresh rock outcrops created by the newly dug canal. He later worked on similar jobs across the length and breadth of England all the while studying the newly revealed strata and collecting all the fossils he could find.Smith used mail coaches to travel as much as 10000 miles per year.In 1815 he published the first modern geological map “A Map of the Strata of England and Wales with a Part of Scotland”, a map so meticulously researched that it can still be used today.
 In 1831 when Smith was finally recognized by the Geological Society of London as the “father of English geology”, it was not only for his maps but also for something even more important.Ever since people had begun to catalog the strata in particular outcrops, there had been the hope that these could somehow be used to calculate geological time.But as more and more accumulations of strata were cataloged in more and more places, it became clear that the sequences of rocks sometimes differed from region to region and that no rock type was ever going to become a reliable time marker throughout the world. Even without the problem of regional differences, rocks present a difficulty as unique time markers Quartz is quartz-a silicon ion surrounded by four oxygen ions-there's no difference at all between two-million-year-old Pleistocene quartz and Cambrian quartz created over 500 million years ago.
 As he collected fossils from strata throughout England, Smith began to see that the fossils told a different story from the rocks particularly in the younger strata the rocks were often so similar that he had trouble distinguishing the strata, but he never had trouble telling the fossils apart. While rock between two consistent strata might in one place be shale and in another sandstone, the fossils in that shale or sandstone were always the same. Some fossils endured through so many millions of years that they appear in many strata, but others occur only in a few strata, and a few species had their births and extinctions within one particular stratum. Fossils are thus identifying markers for particular periods in Earth's history.
@@ -1686,7 +1686,7 @@ Paragraph 2: This was before the steam locomotive, and canal building was at its
 ○ Canal building decreased after the steam locomotive was invented.
 ○ Canal building made it difficult to study rock strata which often became damaged in the process.
 ○ Canal builders hired surveyors like Smith to examine exposed rock strata.
-4.Accordingto paragraph2，which of the following is true of the map published by William Smith?
+4.Accordingto paragraph2,which of the following is true of the map published by William Smith?
 ○It indicates the locations of England's major canals
 ○It became most valuable when the steam locomotive made rail travel possible
 ○The data for the map were collected during Smith's work on canals
@@ -1707,8 +1707,8 @@ Paragraph 3: In 1831 when Smith was finally recognized by the Geological Society
 ○To point out that the chemical composition of quartz makes it more difficult to date than other rocks
 ○To provide an example of how regional differences in rock sequences can make a particular rock difficult to date
 ○To explain that rocks are difficult to use for dating because their chemical compositions always remain the same over time
-Paragraph 4: As he collected fossils from strata throughout England, Smith began to see that the fossils told a different story from the rocks. Particularly in the younger strata the rocks were often so similar that he had trouble distinguishing the strata, but he never had trouble telling the fossils apart.While rock between two consistent strata might in one place be shale and in another sandstone, the fossils in that shale or sandstone were always the same.Some fossils endured through so many millions of years that they appear In many strata，but others occur only in a few strata, and a few species had their births and extinctions within one particular stratum.Fossils are thus identifying markers for particular periods in Earth's history.
-8.According to paragraph 4，it was difficult for Smith to distinguish rock strata because
+Paragraph 4: As he collected fossils from strata throughout England, Smith began to see that the fossils told a different story from the rocks. Particularly in the younger strata the rocks were often so similar that he had trouble distinguishing the strata, but he never had trouble telling the fossils apart.While rock between two consistent strata might in one place be shale and in another sandstone, the fossils in that shale or sandstone were always the same.Some fossils endured through so many millions of years that they appear In many strata,but others occur only in a few strata, and a few species had their births and extinctions within one particular stratum.Fossils are thus identifying markers for particular periods in Earth's history.
+8.According to paragraph 4,it was difficult for Smith to distinguish rock strata because
 ○the rocks from different strata closely resembled each other
 ○he was often unable to find fossils in the younger rock strata
 ○their similarity to each other made it difficult for him to distinguish one rock type from another
@@ -1726,7 +1726,7 @@ Paragraph 5: Not only could Smith identify rock strata by the fossils they conta
 ○nearly
 11. Select the TWO answer choices that are true statements based upon the discussion of the principle of faunal succession in paragraph 5. To receive credit, you must select TWO answers.
 ○It was a principle that applied to fauna but not to flora.
-○It was discovered independently by two different geologists，
+○It was discovered independently by two different geologists,
 ○It describes how fossils are distributed in rock strata
 ○It explains why plants and animals undergo transformations through time.
 12. In mentioning "trilobite”, the author is making which of the following points?
@@ -1743,7 +1743,7 @@ Where would the sentence best fit?
 ●
 ●
 Answer Choices
-○Smith found success easily in his profession because he came from a family of geologists and surveyors. ​
+○Smith found success easily in his profession because he came from a family of geologists and surveyors.
 ○Smith's work on canals allowed him to collect fossils and study rock layers all over England.
 ○Smith found that fossils are much more reliable indicators of geological time than rock strata are.
 ○Smith was named “the father of English geology” for his maps rather than for his other contributions to the field.
@@ -1756,15 +1756,15 @@ Answer Choices
  
 TPO6-2:
 Infantile Amnesia
-What do you remember about your life before you were three? Few people can remember anything that happened to them in their early years. Adults' memories of the next few years also tend to be scanty. Most people remember only a few events-usually ones that were meaningful and distinctive，such as being hospitalized or a sibling's birth.
-How might this inability to recall early experiences be explained? The sheer passage of time does not account for it; adults have excellent recognition of pictures of people who attended high school with them 35 years earlier. Another seemingly plausible explanation-that infants do not form enduring memories at this point in development-also is incorrect. Children two and a half to three years old remember experiences that occurred in their first year, and eleven month olds remember some events a year later. Nor does the hypothesis that infantile amnesia reflects repression- or holding back- of sexually charged episodes explain the phenomenon.While such repression may occur，people cannot remember ordinary events from the infant and toddler periods either.
-Three other explanations seem more promising. One involves physiological changes relevant to memory. Maturation of the frontal lobes of the brain continues throughout early childhood, and this part of the brain may be critical for remembering particular episodes in ways that can be retrieved later. Demonstrations of infants' and toddlers' long-term memory have involved their repeating motor activities that they had seen or done earlier，such as reaching in the dark for objects, putting a bottle in a doll's mouth, or pulling apart two pieces of a toy. The brain's level of physiological maturation may support these types of memories，but not ones requiring explicit verbal descriptions.
-A second explanation involves the influence of the social world on children's language use.Hearing and telling stories about events may help children store information in ways that will endure into later childhood and adulthood.Through hearing stories with a clear beginning，middle, and ending children may learn to extract the gist of events in ways that they will be able to describe many years later. Consistent with this view parents and children increasingly engage in discussions of past events when children are about three years old. However, hearing such stories is not sufficient for younger children to form enduring memories. Telling such stories to two year olds does not seem to produce long-lasting verbalizable memories.
+What do you remember about your life before you were three? Few people can remember anything that happened to them in their early years. Adults' memories of the next few years also tend to be scanty. Most people remember only a few events-usually ones that were meaningful and distinctive,such as being hospitalized or a sibling's birth.
+How might this inability to recall early experiences be explained? The sheer passage of time does not account for it; adults have excellent recognition of pictures of people who attended high school with them 35 years earlier. Another seemingly plausible explanation-that infants do not form enduring memories at this point in development-also is incorrect. Children two and a half to three years old remember experiences that occurred in their first year, and eleven month olds remember some events a year later. Nor does the hypothesis that infantile amnesia reflects repression- or holding back- of sexually charged episodes explain the phenomenon.While such repression may occur,people cannot remember ordinary events from the infant and toddler periods either.
+Three other explanations seem more promising. One involves physiological changes relevant to memory. Maturation of the frontal lobes of the brain continues throughout early childhood, and this part of the brain may be critical for remembering particular episodes in ways that can be retrieved later. Demonstrations of infants' and toddlers' long-term memory have involved their repeating motor activities that they had seen or done earlier,such as reaching in the dark for objects, putting a bottle in a doll's mouth, or pulling apart two pieces of a toy. The brain's level of physiological maturation may support these types of memories,but not ones requiring explicit verbal descriptions.
+A second explanation involves the influence of the social world on children's language use.Hearing and telling stories about events may help children store information in ways that will endure into later childhood and adulthood.Through hearing stories with a clear beginning,middle, and ending children may learn to extract the gist of events in ways that they will be able to describe many years later. Consistent with this view parents and children increasingly engage in discussions of past events when children are about three years old. However, hearing such stories is not sufficient for younger children to form enduring memories. Telling such stories to two year olds does not seem to produce long-lasting verbalizable memories.
 A third likely explanation for infantile amnesia involves incompatibilities between the ways in which infants encode information and the ways in which older children and adults retrieve it. Whether people can remember an event depends critically on the fit between the way in which they earlier encoded the information and the way in which they later attempt to retrieve it. The better able the person is to reconstruct the perspective from which the material was encoded, the more likely that recall will be successful.
 This view is supported by a variety of factors that can create mismatches between very young children's encoding and older children's and adults' retrieval efforts. The world looks very different to a person whose head is only two or three feet above the ground than to one whose head is five or six feet above it, 0lder children and adults often try to retrieve the names of things they saw, but infants would not have encoded the information verbally.General knowledge of categories of events such as a birthday party or a visit to the doctor's office helps older individuals encode their experiences, but again, infants and toddlers are unlikely to encode many experiences within such knowledge structures.
-These three explanations of infantile amnesia are not mutually exclusive:indeed, they support each other. Physiological immaturity may be part of why infants and toddlers do not form extremely enduring memories, even when they hear stories that promote such remembering in preschoolers. Hearing the stories may lead preschoolers to encode aspects of events that allow them to form memories they can access as adults.Conversely，improved encoding of what they hear may help them better understand and remember stories and thus make the stories more useful for remembering future events. Thus, all three explanations-- physiological maturation, hearing and producing stories about past events，and improved encoding of key aspects of events--seem likely to be involved in overcoming Infantile amnesia.
+These three explanations of infantile amnesia are not mutually exclusive:indeed, they support each other. Physiological immaturity may be part of why infants and toddlers do not form extremely enduring memories, even when they hear stories that promote such remembering in preschoolers. Hearing the stories may lead preschoolers to encode aspects of events that allow them to form memories they can access as adults.Conversely,improved encoding of what they hear may help them better understand and remember stories and thus make the stories more useful for remembering future events. Thus, all three explanations-- physiological maturation, hearing and producing stories about past events,and improved encoding of key aspects of events--seem likely to be involved in overcoming Infantile amnesia.
  
-Paragraph 2: How might this inability to recall early experiences be explained? The sheer passage of time does not account for it; adults have excellent recognition of pictures of people who attended high school with them 35 years earlier. Another seemingly plausible explanation--that infants do not form enduring memories at this point in development-also is incorrect. Children two and a half to three years old remember experiences that occurred in their first year, and eleven month olds remember some events a year later. Nor does the hypothesis that infantile amnesia reflects repression---or holding back-of sexually charged episodes explain the phenomenon.While such repression may occur，people cannot remember ordinary events from the infant and toddler periods either.
+Paragraph 2: How might this inability to recall early experiences be explained? The sheer passage of time does not account for it; adults have excellent recognition of pictures of people who attended high school with them 35 years earlier. Another seemingly plausible explanation--that infants do not form enduring memories at this point in development-also is incorrect. Children two and a half to three years old remember experiences that occurred in their first year, and eleven month olds remember some events a year later. Nor does the hypothesis that infantile amnesia reflects repression---or holding back-of sexually charged episodes explain the phenomenon.While such repression may occur,people cannot remember ordinary events from the infant and toddler periods either.
 1. What purpose does paragraph 2 serve in the larger discussion of children's inability to recall early experiences?
 ○To argue that the ones that are not substantiated by evidence should generally be considered unreliable
 ○To argue that the hypotheses mentioned in paragraph 2 have been more thoroughly researched than have the theories mentioned later in the passage
@@ -1786,14 +1786,14 @@ Paragraph 2: How might this inability to recall early experiences be explained? 
 ○Young children are not capable of forming memories that last for more than a short time.
 ○People may hold back sexually meaningful memories.
 ○Most events in childhood are too ordinary to be worth remembering.
-Paragraph 3: Three other explanations seem more promising.0ne involves physiological changes relevant to memory. Maturation of the frontal lobes of the brain continues throughout early childhood.And this part of the brain may be critical for remembering particular episodes in ways that can be retrieved later. Demonstrations of infants' and toddlers' long-term memory have involved their repeating motor activities that they had seen or done earlier，such as reaching in the dark for objects, putting a bottle in a doll's mouth, or pulling apart two pieces of a toy. The brain's level of physiological maturation may support these types of memories，but not ones requiring explicit verbal descriptions.
+Paragraph 3: Three other explanations seem more promising.0ne involves physiological changes relevant to memory. Maturation of the frontal lobes of the brain continues throughout early childhood.And this part of the brain may be critical for remembering particular episodes in ways that can be retrieved later. Demonstrations of infants' and toddlers' long-term memory have involved their repeating motor activities that they had seen or done earlier,such as reaching in the dark for objects, putting a bottle in a doll's mouth, or pulling apart two pieces of a toy. The brain's level of physiological maturation may support these types of memories,but not ones requiring explicit verbal descriptions.
 5. What does paragraph 3 suggest about long-term memory in children?
 ○Maturation of the frontal lobes of the brain is important for the long-term memory of motor activities but not verbal descriptions.
 ○Young children may form long-term memories of actions they see earlier than of things they hear or are told.
 ○Young children have better long-term recall of short verbal exchanges than of long ones.
 ○Children's long-term recall of motor activities increases when such activities are accompanied by explicit verbal descriptions
-Paragraph 4: A second explanation involves the influence of the social world on children's language use.Hearing and telling stories about events may help children store information in ways that will endure into later childhood and adulthood.Through hearing stories with a clear beginning，middle, and ending children may learn to extract the gist of events in ways that they will be able to describe many years later. Consistent with this view parents and children increasingly engage in discussions of past events when children are about three years old. However, hearing such stories is not sufficient for younger children to form enduring memories. Telling such stories to two year olds does not seem to produce long-lasting verbalizable memories.
-6.According to paragraph 4，what role may storytelling play in forming childhood memories?
+Paragraph 4: A second explanation involves the influence of the social world on children's language use.Hearing and telling stories about events may help children store information in ways that will endure into later childhood and adulthood.Through hearing stories with a clear beginning,middle, and ending children may learn to extract the gist of events in ways that they will be able to describe many years later. Consistent with this view parents and children increasingly engage in discussions of past events when children are about three years old. However, hearing such stories is not sufficient for younger children to form enduring memories. Telling such stories to two year olds does not seem to produce long-lasting verbalizable memories.
+6.According to paragraph 4,what role may storytelling play in forming childhood memories?
 ○It may encourage the physiological maturing of the brain
 ○It may help preschool children tell the difference between ordinary and unusual memories.
 ○It may help preschool children retrieve memories quickly.
@@ -1815,23 +1815,23 @@ Paragraph 6: This view is supported by a variety of factors that can create mism
 ○the process of encoding information is less complex for adults than it is for young adults and infants
 ○infants and older children are equally dependent on discussion of past events for the retrieval of information
 ○infants encode information in the same way older children and adults do
-10.According to paragraphs 5 and 6，one disadvantage very young children face in processing information is that they cannot
+10.According to paragraphs 5 and 6,one disadvantage very young children face in processing information is that they cannot
 ○process a lot of information at one time
 ○organize experiences according to type
 ○block out interruptions
 ○interpret the tone of adult language
-Paragraph 7: These three explanations of infantile amnesia are not mutually exclusive:indeed, they support each other. Physiological immaturity may be part of why infants and toddlers do not form extremely enduring memories, even when they hear stories that promote such remembering in preschoolers. Hearing the stories may lead preschoolers to encode aspects of events that allow them to form memories they can access as adults.Conversely，improved encoding of what they hear may help them better understand and remember stories and thus make the stories more useful for remembering future events. Thus, all three explanations-- physiological maturation hearing and producing stories about past events，and improved encoding of key aspects of events--seem likely to be involved in overcoming infantile amnesia.
+Paragraph 7: These three explanations of infantile amnesia are not mutually exclusive:indeed, they support each other. Physiological immaturity may be part of why infants and toddlers do not form extremely enduring memories, even when they hear stories that promote such remembering in preschoolers. Hearing the stories may lead preschoolers to encode aspects of events that allow them to form memories they can access as adults.Conversely,improved encoding of what they hear may help them better understand and remember stories and thus make the stories more useful for remembering future events. Thus, all three explanations-- physiological maturation hearing and producing stories about past events,and improved encoding of key aspects of events--seem likely to be involved in overcoming infantile amnesia.
 11. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
 ○Incomplete physiological development may partly explain why hearing stories does not improve long-term memory in infants and toddlers
 ○One reason why preschoolers fail to comprehend the stories they hear is that they are physiologically immature
-○Given the chance to hear stories，infants and toddlers may form enduring memories despite physiological immaturity.
+○Given the chance to hear stories,infants and toddlers may form enduring memories despite physiological immaturity.
 ○Physiologically mature children seem to have no difficulty remembering stories they heard as preschoolers.
 12. How does paragraph 7 relate to the earlier discussion of infantile amnesia?
 ○It introduces a new theory about the causes of infantile amnesia.
 ○It argues that particular theories discussed earlier in the passage require further research.
 ○It explains how particular theories discussed earlier in the passage may work in combination.
 ○It evaluates which of the theories discussed earlier is most likely to be true.
-Paragraph 1: What do you remember about your life before you were three? █Few people can remember anything that happened to them in their early years.█Adults' memories of the next few years also tend to be scanty.█Most people remember only a few events--usually ones that were meaningful and distinctive，such as being hospitalized or a sibling's birth. █
+Paragraph 1: What do you remember about your life before you were three? █Few people can remember anything that happened to them in their early years.█Adults' memories of the next few years also tend to be scanty.█Most people remember only a few events--usually ones that were meaningful and distinctive,such as being hospitalized or a sibling's birth. █
 13.Look at the four squares [█] that indicate where the following sentence could be added to the passage
   Other important occasions are school graduations and weddings.
  Where would the sentence best fit?
@@ -1889,12 +1889,12 @@ Answer Choices
  
 TPO6-3:
 Powering the Industrial Revolution
-In Britain one of the most dramatic changes of the Industrial Revolution was the harnessing of power.Until the reign of George Ⅲ(1760-1820)，available sources of power for work and travel had not increased since the Middle Ages. There were three sources of power:animal or human muscles；the wind, operating on sail or windmill; and running water .Only the last of these was suited at all to the continuous operating of machines, and although waterpower abounded in Lancashire and Scotland and ran grain mills as well as textile mills, it had one great disadvantage:streams flowed where nature intended them to and water-driven factories had to be located on their banks whether or not the location was desirable for other reasons. Furthermore even the most reliable waterpower varied with the seasons and disappeared in a drought.The new age of machinery, in short, could not have been born without a new source of both movable and constant power.
+In Britain one of the most dramatic changes of the Industrial Revolution was the harnessing of power.Until the reign of George III (1760-1820),available sources of power for work and travel had not increased since the Middle Ages. There were three sources of power:animal or human muscles; the wind, operating on sail or windmill; and running water .Only the last of these was suited at all to the continuous operating of machines, and although waterpower abounded in Lancashire and Scotland and ran grain mills as well as textile mills, it had one great disadvantage:streams flowed where nature intended them to and water-driven factories had to be located on their banks whether or not the location was desirable for other reasons. Furthermore even the most reliable waterpower varied with the seasons and disappeared in a drought.The new age of machinery, in short, could not have been born without a new source of both movable and constant power.
 The source had long been known but not exploited. Early in the century, a pump had come into use in which expanding steam raised a piston in a cylinder, and atmospheric pressure brought it down again when the steam condensed inside the cylinder to form a vacuum.This “atmospheric engine,” invented by Thomas Savery and vastly improved by his partner Thomas Newcomen, embodied revolutionary principles, but it was so slow and wasteful of fuel that it could not be employed outside the coal mines for which it had been designed. In the 1760s, James Watt perfected a separate condenser for the steam, so that the cylinder did not have to be cooled at every stroke; then he devised a way to make the piston turn a wheel and thus convert reciprocating (back and forth) motion into rotary motion. He thereby transformed an inefficient pump of limited use into a steam engine of a thousand uses. The final step came when steam was introduced into the cylinder to drive the piston backward as well as forward thereby increasing the speed of the engine and cutting its fuel consumption.
 Watt's steam engine soon showed what it could do. It liberated industry from dependence on running water. The engine eliminated water in the mines by driving efficient pumps, which made possible deeper and deeper mining. The ready availability of coal inspired William Murdoch during the 1790s to develop the first new form of nighttime illumination to be discovered in a millennium and a half. Coal gas rivaled smoky oil lamps and flickering candles, and early in the new century, well-to-do Londoners grew accustomed to gaslit houses and even streets. Iron manufacturers which had starved for fuel while depending on charcoal also benefited from ever-increasing supplies of coal; blast furnaces with steam- powered bellows turned out more iron and steel for the new machinery. Steam became the motive force of the Industrial Revolution as coal and iron ore were the raw materials.
-By 1800 more than a thousand steam engines were in use in the British Isles, and Britain retained a virtual monopoly on steam engine production until the 1830s.Steam power did not merely spin cotton and roll iron; early in the new century it also multiplied ten times over the amount of paper that a single worker could produce in a day. At the same time, operators of the first printing presses run by steam rather than by hand found it possible to produce a thousand pages in an hour rather than thirty. Steam also promised to eliminate a transportation problem not fully solved by either canal boats or turnpikes. Boats could carry heavy weights, but canals could not cross hilly terrain; turnpikes could cross the hills, but the roadbeds could not stand up under great weights. These problems needed still another solution, and the ingredients for it lay close at hand. In some industrial regions, heavily laden wagons，with flanged wheels，were being hauled by horses along metal rails; and the stationary steam engine was puffing in the factory and mine.Another generation passed before Inventors succeeded in combining these ingredients by putting the engine on wheels and the wheels on the rails, so as to provide a machine to take the place of the horse. Thus the railroad age sprang from what had already happened in the eighteenth century.
+By 1800 more than a thousand steam engines were in use in the British Isles, and Britain retained a virtual monopoly on steam engine production until the 1830s.Steam power did not merely spin cotton and roll iron; early in the new century it also multiplied ten times over the amount of paper that a single worker could produce in a day. At the same time, operators of the first printing presses run by steam rather than by hand found it possible to produce a thousand pages in an hour rather than thirty. Steam also promised to eliminate a transportation problem not fully solved by either canal boats or turnpikes. Boats could carry heavy weights, but canals could not cross hilly terrain; turnpikes could cross the hills, but the roadbeds could not stand up under great weights. These problems needed still another solution, and the ingredients for it lay close at hand. In some industrial regions, heavily laden wagons,with flanged wheels,were being hauled by horses along metal rails; and the stationary steam engine was puffing in the factory and mine.Another generation passed before Inventors succeeded in combining these ingredients by putting the engine on wheels and the wheels on the rails, so as to provide a machine to take the place of the horse. Thus the railroad age sprang from what had already happened in the eighteenth century.
  
-Paragraph 1:In Britain one of the most dramatic changes of the Industrial Revolution was  the harnessing of power.Until the reign of George Ⅲ(1760-1820)，available sources of power for work and travel had not increased since the Middle Ages. There were three sources of power:animal or human muscles；the wind, operating on sail or windmill; and running water. Only the last of these was suited at all to the continuous operating of machines, and although waterpower abounded in Lancashire and Scotland and ran grain mills as well as textile mills, it had one great disadvantage: streams flowed where nature intended them to and water-driven factories had to be located on their banks whether or not the location was desirable for other reasons. Furthermore, even the most reliable waterpower varied with the seasons and disappeared in a drought, the new age of machinery, in short, could not have been born without a new source of both movable and constant power.
+Paragraph 1:In Britain one of the most dramatic changes of the Industrial Revolution was  the harnessing of power.Until the reign of George Ⅲ(1760-1820),available sources of power for work and travel had not increased since the Middle Ages. There were three sources of power:animal or human muscles; the wind, operating on sail or windmill; and running water. Only the last of these was suited at all to the continuous operating of machines, and although waterpower abounded in Lancashire and Scotland and ran grain mills as well as textile mills, it had one great disadvantage: streams flowed where nature intended them to and water-driven factories had to be located on their banks whether or not the location was desirable for other reasons. Furthermore, even the most reliable waterpower varied with the seasons and disappeared in a drought, the new age of machinery, in short, could not have been born without a new source of both movable and constant power.
 Paragraph 2: The source had long been known but not exploited. Early in the century, a  pump had come into use in which expanding steam raised a piston in a cylinder, and atmospheric pressure brought it down again when the steam condensed inside the cylinder to form a vacuum.This “atmospheric engine,” invented by Thomas Savery and vastly improved by his partner.Thomas Newcomen, embodied revolutionary principles, but it was so slow and wasteful of fuel that it could not be employed outside the coal mines for which it had been designed. In the 1760s, James Watt perfected a separate condenser for the steam, so that the cylinder did not have to be cooled at every stroke; then he devised a way to make the piston turn a wheel and thus convert reciprocating (back and forth) motion into rotary motion. He thereby transformed an inefficient pump of limited use into a steam engine of a thousand uses. The final step came when steam was introduced into the cylinder to drive the piston backward as well as forward thereby increasing the speed of the engine and cutting its fuel consumption.
 1. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
 ○ Running water was the best power source for factories since it could keep machines operating continuously but since it was abundant only in Lancashire and Scotland, most mills and factories that were located elsewhere could not be water driven.
@@ -1916,12 +1916,12 @@ Paragraph 2: The source had long been known but not exploited. Early in the cent
 ○ultimately
 ○greatly
 ○initially
-5. According to paragraph 2，the atmospheric engine was slow because
+5. According to paragraph 2,the atmospheric engine was slow because
 ○it had been designed to be used in coal mines
 ○the cylinder had to cool between each stroke
 ○it made use of expanding steam to raise the piston in its cylinder
 ○it could be operated only when a large supply of fuel was available
-Paragraph 2: The source had long been known but not exploited. Early in the century, a pump had come into use in which expanding steam raised a piston in a cylinder，and atmospheric pressure brought it down again when the steam condensed inside the cylinder to form a vacuum.This “atmospheric engine,” invented by Thomas Savery and vastly improved by his partner.Thomas Newcomen, embodied revolutionary principles, but it was so slow and wasteful of fuel that it could not be employed outside the coal mines for which it had been designed. In the 1760s, James Watt perfected a separate condenser for the steam, so that the cylinder did not have to be cooled at every stroke; then he devised a way to make the piston turn a wheel and thus convert reciprocating (back and forth) motion into rotary motion. He thereby transformed an inefficient pump of limited use into a steam engine of a thousand uses. The final step came when steam was introduced into the cylinder to drive the piston backward as well as forward thereby increasing the speed of the engine and cutting its fuel consumption.
+Paragraph 2: The source had long been known but not exploited. Early in the century, a pump had come into use in which expanding steam raised a piston in a cylinder,and atmospheric pressure brought it down again when the steam condensed inside the cylinder to form a vacuum.This “atmospheric engine,” invented by Thomas Savery and vastly improved by his partner.Thomas Newcomen, embodied revolutionary principles, but it was so slow and wasteful of fuel that it could not be employed outside the coal mines for which it had been designed. In the 1760s, James Watt perfected a separate condenser for the steam, so that the cylinder did not have to be cooled at every stroke; then he devised a way to make the piston turn a wheel and thus convert reciprocating (back and forth) motion into rotary motion. He thereby transformed an inefficient pump of limited use into a steam engine of a thousand uses. The final step came when steam was introduced into the cylinder to drive the piston backward as well as forward thereby increasing the speed of the engine and cutting its fuel consumption.
 6. According to paragraph 2, Watt's steam engine differed from earlier steam engines, in each of the following ways, except:
 ○ It used steam to move a piston in a cylinder.
  ○ It worked with greater speed.
@@ -1958,17 +1958,17 @@ Paragraph 3: █Watt's steam engine soon showed what it could do. █It liberate
 12.Look at the four squares [█] that indicate where the following sentence could be   added to the passage.
   The factories did not have to go to the streams when power could come to the factories.
 Where would the sentence best fit?
-13.The Industrial Revolution would not have been possible without a new source of power that was efficient, movable，and continuously available.
+13.The Industrial Revolution would not have been possible without a new source of power that was efficient, movable,and continuously available.
 ●
 ●
 ●
 Answer Choices
 ○In the early eighteenth century, Savery and Newcomen discovered that expanding steam could be used to raise a piston in a cylinder.
 ○Watt's steam engine played a leading role in greatly increasing industrial production of all kinds.
-○Until the 1830s，Britain was the world's major producer of steam engines.
-○In the mid-1700s James Watt transformed an inefficient steam pump into a fast，flexible，fuel-efficient engine.
+○Until the 1830s,Britain was the world's major producer of steam engines.
+○In the mid-1700s James Watt transformed an inefficient steam pump into a fast,flexible,fuel-efficient engine.
 ○In the 1 790s William Murdoch developed a new way of lighting houses and streets using coal gas.
-○The availability of steam engines was a major factor in the development of railroads，which solved a major transportation problem.
+○The availability of steam engines was a major factor in the development of railroads,which solved a major transportation problem.
  
  
  
@@ -2171,7 +2171,7 @@ Paragraph 4 Modern attitudes to Roman civilization range from the infinitely imp
 ○comparing the opinions of Roman intellectuals to Greek intellectuals
 ○identifying which characteristics of roman civilization were copied from Greece
 ○explaining how the differences between Roman and Greece developed as time passed
-○contrasting characteristics of Roman civilization with characteristics of Greek civilization​
+○contrasting characteristics of Roman civilization with characteristics of Greek civilization
 10. According to paragraph 4, intellectual Romans such as Horace held which of the following opinions about their civilization?
 ○Ancient works of Greece held little value in the Roman world.
 ○The Greek civilization had been surpassed by the Romans.
@@ -3733,7 +3733,7 @@ Clues to right-handedness can also be found by other methods. Right-handers tend
 Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
 Tools themselves can be revealing. Long-handed Neolithic spoons of yew wood preserved in Alpine villages dating to 3000 B.C. have survived; the signs of rubbing on their left side indicate that their users were right-handed. The late Ice Age rope found in the French cave of Lascaux consists of fibers spiraling to the right, and was therefore tressed by a righthander.
 Occasionally one can determine whether stone tools were used in the right hand or the left, and it is even possible to assess how far back this feature can be traced. In stone toolmaking experiments, Nick Toth, a right-hander, held the core (the stone that would become the tool) in his left hand and the hammer stone in his right. As the tool was made, the core was rotated clockwise, and the flakes, removed in sequence, had a little crescent of cortex (the core's outer surface) on the side. Toth's knapping produced 56 percent flakes with the cortex on the right, and 44 percent left-oriented flakes. A left-handed toolmaker would produce the opposite pattern Toth has applied these criteria to the similarly made pebble tools from a number of early sites (before 1.5 million years) at Koobi For a, Kenya, probably made by Homo habilis. At seven sites he found that 57 percent of the flakes were right-oriented, and 43 percent left, a pattern almost identical to that produced today.
-About 90 percent of modern humans are right-handed: we are the only mammal with a preferential use of one hand. The part of the brain responsible for fine control and movement is located in the left cerebral hemisphere, and the findings above suggest that the human brain was already asymmetrical in its structure and function not long after 2 million years ago. Among Neanderthalers of 70,000 – 35,000 years ago, Marcellin Boule noted that the La Chapelle-aux-Saints individual had a left hemisphere slightly bigger than the right, and the same was found for brains of specimens from Neanderthal, Gibraltar, and La Quina.
+About 90 percent of modern humans are right-handed: we are the only mammal with a preferential use of one hand. The part of the brain responsible for fine control and movement is located in the left cerebral hemisphere, and the findings above suggest that the human brain was already asymmetrical in its structure and function not long after 2 million years ago. Among Neanderthalers of 70,000 - 35,000 years ago, Marcellin Boule noted that the La Chapelle-aux-Saints individual had a left hemisphere slightly bigger than the right, and the same was found for brains of specimens from Neanderthal, Gibraltar, and La Quina.
  
 Paragraph 1:We all know that many more people today are right-handed than left-handed. Can one trace this same pattern far back in prehistory? Much of the evidence about right-hand versus left-hand dominance comes from stencils and prints found in rock shelters in Australia and elsewhere, and in many Ice Age caves in France, Spain, and Tasmania. When a left hand has been stenciled, this implies that the artist was right-handed, and vice versa. Even though the paint was often sprayed on by mouth, one can assume that the dominant hand assisted in the operation. One also has to make the assumption that hands were stenciled palm downward-a left hand stenciled palm upward might of course look as if it were a right hand. Of 158 stencils in the French cave of Gargas, 136 have been identified as left, and only 22 as right; right-handedness was therefore heavily predominant.
 1. The phrase assisted in in the passage is closest in meaning to
@@ -3798,7 +3798,7 @@ Paragraph 6:Occasionally one can determine whether stone tools were used in the 
 ○ To produce replicas of early tools for display in museums
 ○ To imitate the production of pebble tools from early sites
 ○ To determine which handmade the early tools
-Paragraph 7:About 90 percent of modern humans are right-handed: we are the only mammal with a preferential use of one hand. The part of the brain responsible for fine control and movement is located in the left cerebral hemisphere, and the findings above suggest that the human brain was already asymmetrical in its structure and function not long after 2 million years ago. Among Neanderthalers of 70,000 – 35,000 years ago, Marcellin Boule noted that the La Chapelle-aux-Saints individual had a left hemisphere slightly bigger than the right, and the same was found for brains of specimens from Neanderthal, Gibraltar, and La Quina.
+Paragraph 7:About 90 percent of modern humans are right-handed: we are the only mammal with a preferential use of one hand. The part of the brain responsible for fine control and movement is located in the left cerebral hemisphere, and the findings above suggest that the human brain was already asymmetrical in its structure and function not long after 2 million years ago. Among Neanderthalers of 70,000 - 35,000 years ago, Marcellin Boule noted that the La Chapelle-aux-Saints individual had a left hemisphere slightly bigger than the right, and the same was found for brains of specimens from Neanderthal, Gibraltar, and La Quina.
 12. What is the author's primary purpose in paragraph 7?
 ○ To illustrate the importance of studying the brain
 ○ To demonstrate that human beings are the only mammal to desire fine control of movement
@@ -5662,38 +5662,38 @@ The key factor in the success of these countries (along with high literacy, whic
  
 While some European countries, such as England and Germany, began to industrialize in the eighteenth century, the Netherlands and the Scandinavian countries of Denmark, Norway, and Sweden developed later. All four of these countries lagged considerably behind in the early nineteenth century. However, they industrialized rapidly in the second half of the century, especially in the last two or three decades. In view of their later start and their lack of coal-undoubtedly the main reason they were not among the early industrializers-it is important to understand the sources of their success.
 1. Paragraph 1 supports which of the following ideas about England and Germany?
- They were completely industrialized by the start of the nineteenth century.
- They possessed plentiful supplies of coal.
- They were overtaken economically by the Netherlands and Scandinavia during the early nineteenth century.
- They succeeded for the same reasons that the Netherlands and Scandinavia did.
-All had small populations. At the beginning of the nineteenth century，Denmark and Norway had fewer than 1 million people, while Sweden and the Netherlands had fewer than 2.5 million inhabitants. All exhibited moderate growth rates in the course of the century (Denmark the highest and Sweden the lowest), but all more than doubled in population by 1900. Density varied greatly. The Netherlands had one of the highest population densities in Europe, whereas Norway and Sweden had the lowest Denmark was in between but closer to the Netherlands.
+O  They were completely industrialized by the start of the nineteenth century.
+O  They possessed plentiful supplies of coal.
+O  They were overtaken economically by the Netherlands and Scandinavia during the early nineteenth century.
+O  They succeeded for the same reasons that the Netherlands and Scandinavia did.
+All had small populations. At the beginning of the nineteenth century,Denmark and Norway had fewer than 1 million people, while Sweden and the Netherlands had fewer than 2.5 million inhabitants. All exhibited moderate growth rates in the course of the century (Denmark the highest and Sweden the lowest), but all more than doubled in population by 1900. Density varied greatly. The Netherlands had one of the highest population densities in Europe, whereas Norway and Sweden had the lowest Denmark was in between but closer to the Netherlands.
 Considering human capital as a characteristic of the population, however, all four countries were advantaged by the large percentages of their populations who could read and write. In both 1850 and 1914, the Scandinavian countries had the highest literacy rates in Europe, or in the world, and the Netherlands was well above the European average. This fact was of enormous value in helping the national economies find their niches in the evolving currents of the international economy.
 2. Paragraph 2 suggests which of the following about the importance of population density in the Industrialization of the Netherlands and Scandinavia?
- It was a more important factor than population size.
- It was more influential than the rate of population growth.
- It was more important in the early stages than it was later.
- It was not a significant factor.
+O  It was a more important factor than population size.
+O  It was more influential than the rate of population growth.
+O  It was more important in the early stages than it was later.
+O  It was not a significant factor.
 3. According to paragraphs 2 and 3,which of the following contributed significantly to the successful economic developmer of the Netherlands and of Scandinavia?
- The relatively small size of their populations
- The rapid rate at which their populations were growing
- The large amount of capital they had available for investment
- The high proportion of their citizens who were educated
+O  The relatively small size of their populations
+O  The rapid rate at which their populations were growing
+O  The large amount of capital they had available for investment
+O  The high proportion of their citizens who were educated
 Location was an important factor for all four countries. All had immediate access to the sea, and this had important implications for a significant international resource, fish, as well as for cheap transport, merchant marines, and the shipbuilding industry. Each took advantage of these opportunities in its own way. The people of the Netherlands, with a long tradition of fisheries and mercantile shipping, had difficulty in developing good harbors suitable for steamships: eventually they did so at Rotterdam and Amsterdam, with【exceptional】 results for transit trade with Germany and central Europe and for the processing of overseas foodstuffs and raw materials (sugar, tobacco, chocolate, grain, and eventually oil). Denmark also had an admirable commercial history, particularly with respect to traffic through the Sound (the strait separating Denmark and Sweden). In 1857, in return for a payment of 63 million kronor from other commercial nations, Denmark【abolished】 the Sound toll dues the fees it had collected since 1497 for the use of the Sound. This, along with other policy shifts toward free trade, resulted in a significant increase in traffic through the Sound and in the port of Copenhagen.
 4. According to paragraph 4 ,because of their location the Netherlands and the Scandinavian countries had all of the following advantages when they began to industrialize EXCEPT
- low-cost transportation of goods
- access to fish
- shipbuilding industrial
- military control of the sea
+O  low-cost transportation of goods
+O  access to fish
+O  shipbuilding industrial
+O  military control of the sea
 5. The word “exceptional” in the passage is closest in meaning to
- extraordinary
- surprising
- immediate
- predictable
+O  extraordinary
+O  surprising
+O  immediate
+O  predictable
 6. The word “abolished” in the passage is closest in meaning to
- ended
- raised
- returned
- lowered
+O  ended
+O  raised
+O  returned
+O  lowered
 The political institutions of the four countries posed no significant barriers to industrialization or economic growth. The nineteenth century passed relatively peacefully for these countries, with【progressive】  democratization taking place in all of them. They were reasonably well governed, without notable corruption or grandiose state projects, although in all of them the government gave some aid to railways, and in Sweden the state built the main lines. As small countries dependent on foreign markets, they followed a liberal trade policy in the main, though【a protectionist movement developed in Sweden】. In Denmark and Sweden agricultural reforms took place gradually from the late eighteenth century through the first half of the nineteenth, resulting in a new class of peasant landowners with a definite market orientation.
  7.  According to paragraph 5, each of the following contributed positively to the industrialization of The Netherlands and Scandinavia EXCEPT
     ○ generally liberal trade policies
@@ -5701,47 +5701,47 @@ The political institutions of the four countries posed no significant barriers t
     ○ relatively uncorrupt governments
     ○ relatively little social or political disruption
 8. The word “progressive” in the passage is closest in meaning to
- rapid
- partial
- increasing
- individual
+O  rapid
+O  partial
+O  increasing
+O  individual
 9. The author includes the information that “a protectionist movement developed in Sweden” in order to
- support the claim that the political institutions of the four countries posed no significant barriers to industrialization or economic growth
- identify an exception to the general trend favoring liberal policy
- explain why Sweden industrialized less quickly than the other Scandinavian countries and Netherlands
- provide evidence that agricultural reforms take place more quickly in countries that have a liberal trade policy than in those that do not
+O  support the claim that the political institutions of the four countries posed no significant barriers to industrialization or economic growth
+O  identify an exception to the general trend favoring liberal policy
+O  explain why Sweden industrialized less quickly than the other Scandinavian countries and Netherlands
+O  provide evidence that agricultural reforms take place more quickly in countries that have a liberal trade policy than in those that do not
 【The key factor in the success of these countries (along with high literacy, which contributed to it) was their ability to adapt to the international division of labor determined by the early industrializers and to stake out areas of specialization in international markets for which they were especially well suited】.  This meant a great dependence on international commerce, which had notorious fluctuations; but it also meant high returns to those factors of production that were fortunate enough to be well placed in times of prosperity. In Sweden exports accounted for 18 percent of the national income in 1870, and in 1913, 22 percent of a much larger national income. In the early twentieth century, Denmark exported 63 percent of its agricultural production: butter, pork products, and eggs. It exported 80 percent of its butter, almost all to Great Britain, where it accounted for 40 percent of British butter imports.
 10. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information
- The early industrializes controlled most of the international economy, leaving these countries to stake out new areas of specialization along the margins.
- Aided by their high literacy rates these countries were able to claim key areas of specialization within established international markets.
- High literacy rates enabled these countries to take over international markets and adapt the international division of labor to suit their strengths.
- The international division of labor established by the early industrializes was suited to these countries ,a key factor in their success.
+O  The early industrializes controlled most of the international economy, leaving these countries to stake out new areas of specialization along the margins.
+O  Aided by their high literacy rates these countries were able to claim key areas of specialization within established international markets.
+O  High literacy rates enabled these countries to take over international markets and adapt the international division of labor to suit their strengths.
+O  The international division of labor established by the early industrializes was suited to these countries ,a key factor in their success.
 11. According to paragraph 6,a major problem with depending heavily on international markets was that they
- lacked stability
- were not well suited to agricultural products
- were largely controlled by the early industrializes
- led to slower growth of local industries  
+O  lacked stability
+O  were not well suited to agricultural products
+O  were largely controlled by the early industrializes
+O  led to slower growth of local industries  
 12. According to paragraph 6.what advantage could a country gain from being heavily involved in international commerce?
- A steadily rising national income
- Greater control over market fluctuations
- High returns when things went well
- A reduced need for imports
+O  A steadily rising national income
+O  Greater control over market fluctuations
+O  High returns when things went well
+O  A reduced need for imports
 While some European countries, such as England and Germany, began to industrialize in the eighteenth century, the Netherlands and the Scandinavian countries of Denmark, Norway, and Sweden developed later.■ All four of these countries lagged considerably behind in the early nineteenth century.■ However, they industrialized rapidly in the second half of the century, especially in the last two or three decades.■ In view of their later start and their lack of coal-undoubtedly the main reason they were not among the early industrializers-it is important to understand the sources of their success.■
 13.Look at the four squares■ that indicate where the following sentence be added to passage
       During this period, Sweden had the highest rate of growth of output per capita of any country in Europe, and Denmark was second.
  Where would the sentence best fit?
- 1
- 2
- 3
- 4
+O  1
+O  2
+O  3
+O  4
 14.Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THERR answer choices that express the most important ideas in the passage.Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 Although the Netherlands and Scandinavia began to industrialize relatively late, they did so very successfully
- Although these countries all started with small, uneducated populations, industrialization led to significant population growth and higher literacy rates.
- Because they all started with good harbors for steamships, these countries started with an important advantage in the competition for transit trade.
- These countries were successful primarily because their high literacy rates helped them fill specialized market niches.
- Thanks to their ready access to the sea, these countries enjoyed advantages in mercantile shipping, fishing, and shipbuilding.
- These countries were helped by the fact that their governments were relatively stable and honest and generally supported liberal trade policies.
- Because they were never fully dependent on international commerce, these countries were able to survive notorious fluctuations in international markets.
+O  Although these countries all started with small, uneducated populations, industrialization led to significant population growth and higher literacy rates.
+O  Because they all started with good harbors for steamships, these countries started with an important advantage in the competition for transit trade.
+O  These countries were successful primarily because their high literacy rates helped them fill specialized market niches.
+O  Thanks to their ready access to the sea, these countries enjoyed advantages in mercantile shipping, fishing, and shipbuilding.
+O  These countries were helped by the fact that their governments were relatively stable and honest and generally supported liberal trade policies.
+O  Because they were never fully dependent on international commerce, these countries were able to survive notorious fluctuations in international markets.
  
  
  
@@ -5787,83 +5787,83 @@ The empirical evidence, such as it is, suggests an altogether different function
  
 【According to conventional theory, yawning takes place when people are bored or sleepy and serves the function of increasing alertness by reversing, through deeper breathing, the drop in blood oxygen levels that are caused by the shallow breathing that accompanies lack of sleep or boredom.】 Unfortunately, the few scientific investigations of yawning have failed to find any connection between how often someone yawns and how much sleep they have had or how tired they are. About the closest any research has come to supporting the tiredness theory is to confirm that adults yawn more often on weekdays than at weekends, and that school children yawn more frequently in their first year at primary school than they do in kindergarten.
 1. Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information
- It is the conventional theory that when people are bored or sleepy, they often experience a drop in blood oxygen levels due to their shallow breathing
- The conventional theory is that people yawn when bored or sleepy because yawning raises blood oxygen levels, which in turn raises alertness.
- According to conventional theory, yawning is more likely to occur when people are bored or sleepy than when they are alert and breathing deeply
- Yawning according to the conventional theory, is caused by boredom or lack of sleep and can be avoided through deeper breathing
+O  It is the conventional theory that when people are bored or sleepy, they often experience a drop in blood oxygen levels due to their shallow breathing
+O  The conventional theory is that people yawn when bored or sleepy because yawning raises blood oxygen levels, which in turn raises alertness.
+O  According to conventional theory, yawning is more likely to occur when people are bored or sleepy than when they are alert and breathing deeply
+O  Yawning according to the conventional theory, is caused by boredom or lack of sleep and can be avoided through deeper breathing
 2. in paragragh1, what point does the author make about the evidence for the tiredness theory of yawning？
- There is no scientific evidence linking yawning with tiredness.
- The evidence is wide-ranging because it covers multiple age-groups.
- The evidence is reliable because it was collected over a long period of time.
- The evidence is questionable because the yawning patterns of children and adults should be different.
+O  There is no scientific evidence linking yawning with tiredness.
+O  The evidence is wide-ranging because it covers multiple age-groups.
+O  The evidence is reliable because it was collected over a long period of time.
+O  The evidence is questionable because the yawning patterns of children and adults should be different.
 Another 【flaw】 of the tiredness theory is that yawning does not raise alertness or physiological activity, as the theory would predict. When researchers measured the heart rate, muscle tension and skin conductance of people before, during and after yawning, they did detect some changes in skin conductance following yawning, indicating a slight increase in physiological activity. However, similar changes occurred when the subjects were asked simply to open their mouths or to breathe deeply. Yawning did nothing special to their state of physiological activity. Experiments have also cast serious doubt on the belief that yawning is triggered by a drop in blood oxygen or a rise in blood carbon dioxide. Volunteers were told to think about yawning while they breathed either normal air, pure oxygen, or an air mixture with an above-normal level of carbon dioxide. If the theory was correct, breathing air with extra carbon dioxide should have 【triggered】  yawning, while breathing pure oxygen should have suppressed yawning. In fact, neither condition made any difference to the frequency of yawning, which remained constant at about 24 yawns per hour Another experiment demonstrated that physical exercise, which was sufficiently vigorous to double the rate of breathing, had no effect on the frequency of yawning Again the implication is that yawning has little or nothing to do with oxygen.
 3. the word ”flaw” in the passage is closest in meaning to
- fault
- aspect
- confusion
- mystery
+O  fault
+O  aspect
+O  confusion
+O  mystery
 4. in the paragraph 2 why does the author note that there were physiological changes when subjects opened their mouths or breathed deeply?
- To present an argument in support of the tiredness theory
- To cast doubt on the reliability of the tests that measurement heart rate, muscle tension and skin conductance.
- To argue against the hypothesis that yawning provides a special way to improve alertness or raise physiological activity.
- To support the idea that opening the mouth or breathing deeply can affect blood oxygen levels.
+O  To present an argument in support of the tiredness theory
+O  To cast doubt on the reliability of the tests that measurement heart rate, muscle tension and skin conductance.
+O  To argue against the hypothesis that yawning provides a special way to improve alertness or raise physiological activity.
+O  To support the idea that opening the mouth or breathing deeply can affect blood oxygen levels.
 5. The word “triggered” in the passage is closest in meaning to
- Removed
- Followed
- Increased
- caused
+O  Removed
+O  Followed
+O  Increased
+O  caused
 6. paragraph2 answers all of the following questions about yawning except
- does yawning increase alertness or physiological activity
- does thinking about yawning increase yawning over not thinking about yawning?
- Does the amount of carbon dioxide and oxygen in the air affect the rate at which people yawn?
- Does the rate of breathing affect the rate at which people yawn?
+O  does yawning increase alertness or physiological activity
+O  does thinking about yawning increase yawning over not thinking about yawning?
+O  Does the amount of carbon dioxide and oxygen in the air affect the rate at which people yawn?
+O  Does the rate of breathing affect the rate at which people yawn?
 7. The word “periodically” in the passage is closest in the meaning to
- Continuously
- Quickly
- Regularly
- Carefully
+O  Continuously
+O  Quickly
+O  Regularly
+O  Carefully
 A completely different theory holds that yawning assists in the physical development of the lungs early in life, but has no remaining biological function in adults. It has been suggested that yawning and hiccupping might serve to clear out the fetus s airways. The lungs of a fetus secrete a liquid that mixes with its mother's amniotic fluid Babies with congenital blockages that prevent this fluid from escaping from their lungs are sometimes born with deformed lungs. It might be that yawning helps to clear out the lungs by periodically lowering the pressure in them. According to this theory, yawning in adults is just a developmental fossil with no biological function. But, while accepting that not everything in life can be explained by Darwinian evolution, there are sound reasons for being skeptical of theories like this one, which avoid the issue of what yawning does for adults. Yawning is distracting, consumes energy and takes time. It is almost certainly doing something significant in adults as well as in fetuses. What could it be?
 8. according to the developmental theory of yawning presented in paragraph 3. What is the role of yawning?
- It caused hiccups which aid in the development of the lungs.
- It controls the amount of pressure the lungs place on other developing organs.
- It prevents amniotic fluid from entering the lungs.
- It removes a potentially harmful fluid from the lungs.
+O  It caused hiccups which aid in the development of the lungs.
+O  It controls the amount of pressure the lungs place on other developing organs.
+O  It prevents amniotic fluid from entering the lungs.
+O  It removes a potentially harmful fluid from the lungs.
 9. Paragraph 3 supports which of the following statements about the development theory of yawning?
- The theory is unsatisfactory because it cannot explain the lung deformities of infants.
- The theory is questionable because it does not explain why a useless and inconvenient behavior would continue into adulthood
- The theory is in the development of yawning
+O  The theory is unsatisfactory because it cannot explain the lung deformities of infants.
+O  The theory is questionable because it does not explain why a useless and inconvenient behavior would continue into adulthood
+O  The theory is in the development of yawning
 The empirical evidence, such as it is, suggests an altogether different function for yawning-namely, that yawning prepares us for a change in activity level. Support for this theory came from a study of yawning behavior in everyday life. Volunteers wore wrist-mounted devices that automatically recorded their physical activity for up to two weeks: the volunteers also recorded their yawns by pressing a button on the device each time they yawned. The data showed that yawning tended to occur about 15 minutes before a period of increased behavioral activity. Yawning bore no relationship to sleep patterns, however. This accords with anecdotal evidence that people often yawn in situations where they are neither tired nor bored, but are preparing for impending mental and physical activity. Such yawning is often referred to as "incongruous" because it seems out of place, at least on the tiredness view: soldiers yawning before combat, musicians yawning before performing, and athletes yawning before competing. Their yawning seems to have nothing to do with sleepiness or boredom-quite the reverse-but it does precede a change in activity level.
 10.The word “empirical” in the passage is closest in meaning to
- Reliable
- Based on common sense
- Relevant
- Based on observation
+O  Reliable
+O  Based on common sense
+O  Relevant
+O  Based on observation
 11.The study of yawning behavior discussed in paragraph4 supports which of the following conclusions?
- Yawning is associated with an expectation of increased physical activity
- Yawning occurs more frequently when people are asked to record their yawning
- People tend to yawn about fifteen minutes before they become tired or bored
- Mental or physical stress tends to make people yawn
+O  Yawning is associated with an expectation of increased physical activity
+O  Yawning occurs more frequently when people are asked to record their yawning
+O  People tend to yawn about fifteen minutes before they become tired or bored
+O  Mental or physical stress tends to make people yawn
 The empirical evidence, such as it is, suggests an altogether different function for yawning-namely, that yawning prepares us for a change in activity level. Support for this theory came from a study of yawning behavior in everyday life. Volunteers wore wrist-mounted devices that automatically recorded their physical activity for up to two weeks: the volunteers also recorded their yawns by pressing a button on the device each time they yawned. The data showed that yawning tended to occur about 15 minutes before a period of increased behavioral activity. Yawning bore no relationship to sleep patterns, however. This accords with anecdotal evidence that people often yawn in situations where they are neither tired nor bored, but are preparing for impending mental and physical activity. Such yawning is often referred to as "incongruous" because it seems out of place, at least on the tiredness view: 【soldiers yawning before combat, musicians yawning before performing, and athletes yawning before competing】. Their yawning seems to have nothing to do with sleepiness or boredom-quite the reverse-but it does precede a change in activity level.
 12. why does the author mention “soldiers yawning before combat, musicians yawning before performing, and athletes yawning before competing”?
- To argue that just the expectation of physical activity can make some people feel tired
- To explain how the view that people yawn because they are tired accounts for yawning before stressful situations
- To support the view that yawning helps prepare a person for mental or physical exertion
- To provide anecdotal evidence that conflicts with the experience of the volunteers in the study
+O  To argue that just the expectation of physical activity can make some people feel tired
+O  To explain how the view that people yawn because they are tired accounts for yawning before stressful situations
+O  To support the view that yawning helps prepare a person for mental or physical exertion
+O  To provide anecdotal evidence that conflicts with the experience of the volunteers in the study
 Another flaw of the tiredness theory is that yawning does not raise alertness or physiological activity, as the theory would predict. When researchers measured the heart rate, muscle tension and skin conductance of people before, during and after yawning, they did detect some changes in skin conductance following yawning, indicating a slight increase in physiological activity. However, similar changes occurred when the subjects were asked simply to open their mouths or to breathe deeply. Yawning did nothing special to their state of physiological activity. Experiments have also cast serious doubt on the belief that yawning is triggered by a drop in blood oxygen or a rise in blood carbon dioxide. ■ Volunteers were told to think about yawning while they breathed either normal air, pure oxygen, or an air mixture with an above-normal level of carbon dioxide.■ If the theory was correct, breathing air with extra carbon dioxide should have triggered yawning, while breathing pure oxygen should have suppressed yawning.■ In fact, neither condition made any difference to the frequency of yawning, which remained constant at about 24 yawns per hour. ■ Another experiment demonstrated that physical exercise, which was sufficiently vigorous to double the rate of breathing, had no effect on the frequency of yawning Again the implication is that yawning has little or nothing to do with oxygen.
 13. look at the four squares that indicate where the following sentence should be added to the passage
 This, however, was not the case
- 1
- 2
- 3
- 4
+O  1
+O  2
+O  3
+O  4
 14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THERR answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 The tiredness theory of yawning does not seem to explain why yawning occurs.
- Although earlier scientific studies strongly supported the tiredness theory new evidence has cast doubt on these findings.
- Some have proposed that yawning plays a role in the development if lungs before birth but that it serves no purpose in adult
- New studies, along with anecdotal evidence, have shown that the frequency of yawning increases during extended periods of inactivity.
- Evidence has shown that yawning is almost completely unrelated to amount of oxygen in the blood and is unrelated to sleep behavior.
- Fluids in the lungs of the disproves the developmental theory of yawning
- There is some evidence that suggests that yawning prepares the body and mind for a change in activity level.
+O  Although earlier scientific studies strongly supported the tiredness theory new evidence has cast doubt on these findings.
+O  Some have proposed that yawning plays a role in the development if lungs before birth but that it serves no purpose in adult
+O  New studies, along with anecdotal evidence, have shown that the frequency of yawning increases during extended periods of inactivity.
+O  Evidence has shown that yawning is almost completely unrelated to amount of oxygen in the blood and is unrelated to sleep behavior.
+O  Fluids in the lungs of the disproves the developmental theory of yawning
+O  There is some evidence that suggests that yawning prepares the body and mind for a change in activity level.
  
  
  
@@ -5894,86 +5894,86 @@ Once a channel has been formed, it is usually used by several lightning discharg
  
 Lightning is a brilliant flash of light produced by an electrical discharge from a storm cloud. The electrical discharge takes place when the attractive tension between a region of negatively charged particles and a region of positively charged particles becomes so great that the charged particles suddenly rush together. The coming together of the oppositely charged particles neutralizes the electrical tension and releases a【tremendous】 amount of energy, which we see as lightning. The separation of positively and negatively charged particles takes place during the development of the storm cloud.
 1. According to paragraph 1, all of the following take place in the development of a flash of lightening except
- Great tension between two oppositely charged regions
- An increase in negatively charged particles over positively charged particles
- Oppositely charged particles coming together
- The release of electrical energy in the form of visible light
+O  Great tension between two oppositely charged regions
+O  An increase in negatively charged particles over positively charged particles
+O  Oppositely charged particles coming together
+O  The release of electrical energy in the form of visible light
 2. The word “tremendous” in the passage is closest in meaning to
- Distinct
- Growing
- Huge
- Immediate
+O  Distinct
+O  Growing
+O  Huge
+O  Immediate
 The separation of charged particles that forms in a storm cloud has a sandwich-like structure. Concentrations of positively charged particles develop at the top and bottom of the cloud, but the middle region becomes negatively charged. Recent measurements made in the field together with laboratory simulations offer a promising explanation of how this structure of charged particles forms. What happens is that small (millimeter-to centimeter-size) pellets of ice form in the cold upper regions of the cloud. When these ice pellets fall, some of them strike much smaller ice crystals in the center of the cloud. The temperature at the center of the cloud is about -15℃ or lower. At such temperatures, the collision between the ice pellets and the ice crystals causes electrical charges to shift so that the ice pellets 【acquire】  a negative charge and the ice crystals become positively charged. Then updraft wind currents carry the light, positively charged ice crystals up to the top of the cloud. The heavier negatively charged ice pellets are left to concentrate in the center. This process explains why the top of the cloud becomes positively charged, while the center becomes negatively charged. The negatively charged region is large: several hundred meters thick and several kilometers in diameter. Below this large, cold, negatively charged region, the cloud is warmer than -15℃, and at these temperatures, collisions between ice crystals and falling ice pellets produce positively charged ice pellets that then populate a small region at the base of the cloud.
 3. According to paragraph2, what causes ice crystal to become positively charged?
- Collisions with ice pellets
- Collisions with negatively charged ice crystals at the base of the cloud
- Becoming concentrated in the central region of the cloud
- Forming at a temperature greater than -15℃
+O  Collisions with ice pellets
+O  Collisions with negatively charged ice crystals at the base of the cloud
+O  Becoming concentrated in the central region of the cloud
+O  Forming at a temperature greater than -15℃
 4. The word 【acquire】 in the passage is closest in meaning to
- Reject
- Obtain
- Need
- Produce
+O  Reject
+O  Obtain
+O  Need
+O  Produce
 5. According to paragraph2, why are positively charged ice pellets produced in the lower part of the cloud?
- Collisions between ice crystals and ice pellets increase in number in the lower part of the cloud
- The lower part of the cloud is smaller than the region above it
- More ice pellets than ice crystals reach the lower part of the cloud
- Temperature in the lower part of the cloud are warmer than -15℃
+O  Collisions between ice crystals and ice pellets increase in number in the lower part of the cloud
+O  The lower part of the cloud is smaller than the region above it
+O  More ice pellets than ice crystals reach the lower part of the cloud
+O  Temperature in the lower part of the cloud are warmer than -15℃
 6. According to paragraph2, the middle region of a cloud becomes negatively charged due to all of the following except
- A shift of electrical charged between ice pellets and ice crystals
- Negatively charged ice pellets that remain in the middle
- A temperature of -15℃ or less
- The development of a positive charge at the base of the cloud
+O  A shift of electrical charged between ice pellets and ice crystals
+O  Negatively charged ice pellets that remain in the middle
+O  A temperature of -15℃ or less
+O  The development of a positive charge at the base of the cloud
 Most lightning takes place within a cloud when the charge separation within the cloud collapses. However, as the storm cloud develops, the ground beneath the cloud becomes positively charged and lightning can take place in the form of an electrical discharge between the negative charge of the cloud and the positively charged ground. 【Lightning that strikes the ground is the most likely to be destructive】, so even though it represents only 20 percent of all lightning, it has received a lot of scientific attention.
 7. The author remarks that 【Lightning that strikes the ground is the most likely to be destructive】 in order to explain why
- This form of lightning has been investigated so much
- This form of lightning is not as common as lightning without a cloud
- Scientific understanding of this form of lightning is important
- The buildup of positive charge on the ground beneath a storm cloud can have serious consequences.
+O  This form of lightning has been investigated so much
+O  This form of lightning is not as common as lightning without a cloud
+O  Scientific understanding of this form of lightning is important
+O  The buildup of positive charge on the ground beneath a storm cloud can have serious consequences.
 Using high-speed photography, scientists have determined that there are two steps to the occurrence of lightning from a cloud to the ground. First, a channel, or path, is formed that connects the cloud and the ground. Then a strong current of electrons follows that path from the cloud to the ground, and it is that current that 【illuminates】 the channel as the lightning we see.
 8. The word 【illuminates】in the passage is closet in meaning to
- Opens
- Completes
- Lights
- Electrifies
+O  Opens
+O  Completes
+O  Lights
+O  Electrifies
 The formation of the channel is initiated when electrons surge from the cloud base toward the ground. When a stream of these negatively charged electrons comes within 100 meters of the ground it is met by a stream of positively charged particles that comes up from the ground. When the negatively and positively charged streams meet, a complete channel connecting the cloud and the ground is formed. The channel is only a few centimeters in diameter, but that is wide enough for electrons to follow the channel to the ground in the visible form of a flash of lightning. The stream of positive particles that meets the surge of electrons from the cloud often arises from a tall pointed structure such as a metal flagpole or a tower. That is why the subsequent lightning that follows the completed channel often strikes a tall structure.
 9. According to paragraph5, which of the following is true of the stream of charged particles from the ground
- It prevents streams of electrons from the cloud from striking the ground
- It completes a channel that connects the storm cloud with the ground
- It produces a stream of electrons from the cloud
- It widens the path made by the initial stream of electrons from the cloud
+O  It prevents streams of electrons from the cloud from striking the ground
+O  It completes a channel that connects the storm cloud with the ground
+O  It produces a stream of electrons from the cloud
+O  It widens the path made by the initial stream of electrons from the cloud
 10. Which of the following claims about lightning strikes can be inferred from paragraph5?
- During a lightning strike the diameter of the channel the electrons follow is considerably enlarged beyond a few centimeters
- A building is unlikely to be hit by lightning unless it is at least 100 meters tail
- A building is hit by a lightning strike because the building itself has first determined the path the lightening then takes to it
- The light of a lightning strike first appears at the point where the streams of negative and positive particles meet
+O  During a lightning strike the diameter of the channel the electrons follow is considerably enlarged beyond a few centimeters
+O  A building is unlikely to be hit by lightning unless it is at least 100 meters tail
+O  A building is hit by a lightning strike because the building itself has first determined the path the lightening then takes to it
+O  The light of a lightning strike first appears at the point where the streams of negative and positive particles meet
 11. It can be inferred from paragraph2 that part of the reason that the top of a storm cloud becomes positively charged is that
- The top of the cloud is warmer than the middle of the cloud
- The middle of the cloud id already occupied by positively charged particles
- The negatively charged ice pellets are too heavy to be carried by the updrafts that move ice crystals
- Collisions between ice pellets in the top of the cloud produce mainly positively charged particles
+O  The top of the cloud is warmer than the middle of the cloud
+O  The middle of the cloud id already occupied by positively charged particles
+O  The negatively charged ice pellets are too heavy to be carried by the updrafts that move ice crystals
+O  Collisions between ice pellets in the top of the cloud produce mainly positively charged particles
 The formation of the channel is 【initiated】 when electrons surge from the cloud base toward the ground. When a stream of these negatively charged electrons comes within 100 meters of the ground it is met by a stream of positively charged particles that comes up from the ground. When the negatively and positively charged streams meet, a complete channel connecting the cloud and the ground is formed. The channel is only a few centimeters in diameter, but that is wide enough for electrons to follow the channel to the ground in the visible form of a flash of lightning. The stream of positive particles that meets the surge of electrons from the cloud often arises from a tall pointed structure such as a metal flagpole or a tower. That is why the subsequent lightning that follows the completed channel often strikes a tall structure.
 12. The word 【initiated】is closet in meaning to
- Started
- Intensified
- Finished
- Expected
+O  Started
+O  Intensified
+O  Finished
+O  Expected
 The formation of the channel is initiated when electrons surge from the cloud base toward the ground. When a stream of these negatively charged electrons comes within 100 meters of the ground it is met by a stream of positively charged particles that comes up from the ground. When the negatively and positively charged streams meet, a complete channel connecting the cloud and the ground is formed. The channel is only a few centimeters in diameter, but that is wide enough for electrons to follow the channel to the ground in the visible form of a flash of lightning. The stream of positive particles that meets the surge of electrons from the cloud often arises from a tall pointed structure such as a metal flagpole or a tower. That is why the subsequent lightning that follows the completed channel often strikes a tall structure.■
 Once a channel has been formed, it is usually used by several lightning discharges, each of them consisting of a stream of electrons from the cloud meeting a stream of positive particles along the established path. ■ Sometimes, however, a stream of electrons following an established channel is met by a positive stream making a new path up from the ground. ■ The result is a forked lightning that strikes the ground in two places.■
 13. look at the four squares that indicate where the following sentence could be added to the passage
 the descending stream of electrons divides at the point where the new positive-stream channel intersects the established path
- 1
- 2
- 3
- 4
+O  1
+O  2
+O  3
+O  4
 14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THERR answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 Lightning takes place when a separation of a positive and negative electrical particles that develops in a storm could suddenly collapses.
- A storm cloud first develops a positively charged layer at the top then a negatively charged middle layer and finally, a positively charged layer at the bottom
- Lightning from cloud to ground follows a channel that forms when a stream of positive particles coming up from the ground
- Lightning from a cloud to the ground is more likely to be destructive than is lightning that takes place within a cloud
- A separation of oppositely charged particles in clouds develops from collisions of falling ice pellets with ice crystals, from updrafts and from temperature variations
- Field studies laboratory simulations and high-speed photography have all been used to investigate the way charge separations develop in clouds
- Once a channel has been formed it is usually used by several successive electrical discharges that illuminate the channel as flashes of lightning.
+O  A storm cloud first develops a positively charged layer at the top then a negatively charged middle layer and finally, a positively charged layer at the bottom
+O  Lightning from cloud to ground follows a channel that forms when a stream of positive particles coming up from the ground
+O  Lightning from a cloud to the ground is more likely to be destructive than is lightning that takes place within a cloud
+O  A separation of oppositely charged particles in clouds develops from collisions of falling ice pellets with ice crystals, from updrafts and from temperature variations
+O  Field studies laboratory simulations and high-speed photography have all been used to investigate the way charge separations develop in clouds
+O  Once a channel has been formed it is usually used by several successive electrical discharges that illuminate the channel as flashes of lightning.
  
  
  
@@ -7967,20 +7967,20 @@ paragraph3: Once all this information has been gathered, it becomes possible to 
  
 paragraph4: By whatever means, a lake is constantly gaining water and losing water: its water does not just sit there, or, anyway, not for long. This raises the matter of a lake's residence time. The residence time is the average length of time that any particular molecule of water remains in the lake, and it is calculated by dividing the volume of water in the lake by the rate at which water leaves the lake. The residence time is an average; the time spent in the lake by a given molecule (if we could follow its fate) would depend on the route it took: it might flow through as part of the fastest, most direct current, or it might circle in a backwater for an indefinitely long time.
  
-7.​It can be inferred from paragraph 4 that the length of time a given molecule of water remains in a lake
+7.It can be inferred from paragraph 4 that the length of time a given molecule of water remains in a lake
    ○depends entirely upon the average speed of a lake' s currents
 ○can be measured by the volume of the lake alone
 ○can be greater or lesser than the residence time
 ○is similar to the length of time all other molecules remain in that lake
 paragraph5: Residence times vary enormously. They range from a few days for small lakes up to several hundred years for large ones; Lake Tahoe, in California, has a residence time of 700 years. The residence times for the Great Lakes of North America, namely, Lakes Superior, Michigan, Huron, Erie, and Ontario, are, respectively, 190,100,22,2.5, and 6 years. Lake Erie's is the lowest: although its area is larger than Lake Ontario' s, its volume is less than one-third as great because it is so shallow-less than 20 meters on average.
  
-8.​According to paragraph 5, Lake Erie's residence time is lower than Lake Ontario's for which of the following
+8.According to paragraph 5, Lake Erie's residence time is lower than Lake Ontario's for which of the following
 reasons?
 ○Lake Erie has a larger area than Lake Ontario.
 ○Lake Ontario is shallower than Lake Erie.
 ○Lake Ontario has a greater volume than Lake Erie.
 ○Lake Erie receives less rainfall than Lake Ontario.
-9.​Why does the author discuss the Great Lakes in paragraph 5?
+9.Why does the author discuss the Great Lakes in paragraph 5?
 ○To demonstrate the extent to which residence times vary from lake to lake
 ○To illustrate how residence times are calculated for specific lakes
 ○To argue that the residence time of a lake increases with area
@@ -8065,7 +8065,7 @@ it is also more irregular, with brief episodes of shallow breathing or absence o
  
 paragraph1: Of all the physiological differences in human sleep compared with wakefulness that have been discovered in the last decade, changes in respiratory control are most dramatic. Not only are there differences in the level of the functioning of respiratory systems, there are even changes in how they function. Movements of the rib cage for breathing are reduced during sleep, making the contractions of the diaphragm more important. Yet because of the physics of lying down, the stomach applies weight against the diaphragm and makes it more difficult for the diaphragm to do its job. However, there are many other changes that affect respiration when asleep.
  
-1.​According to paragraph 1, which of the following can be inferred about the diaphragm during sleep?
+1.According to paragraph 1, which of the following can be inferred about the diaphragm during sleep?
    ○During sleep the diaphragm requires increased movement of the rib cage.
 ○The diaphragm helps with breathing as movements of the rib cage decrease during sleep.
 ○The diaphragm requires a great amount of pressure to function properly.
@@ -8073,7 +8073,7 @@ paragraph1: Of all the physiological differences in human sleep compared with wa
  
 paragraph2: During wakefulness, breathing is controlled by two interacting systems. The first is an automatic, metabolic system whose control is centered in the brain stem. It subconsciously adjusts breathing rate and depth in order to regulate the levels of carbon dioxide (CO2) and oxygen (O2), and the acid-base ratio in the blood. The second system is the voluntary, behavioral system. Its control center is based in the forebrain, and it regulates breathing for use in speech, singing, sighing, and so on. It is capable of ignoring or overriding the automatic, metabolic system and produces an irregular pattern of breathing.
  
-2.​According to paragraph 2, all of the following are true of the voluntary breathing system EXCEPT:
+2.According to paragraph 2, all of the following are true of the voluntary breathing system EXCEPT:
    ○It has its control center in the brain stem.
 ○It controls breathing for a number of activities during wakefulness.  
 ○It is able to bypass the automatic system.
@@ -8081,13 +8081,13 @@ paragraph2: During wakefulness, breathing is controlled by two interacting syste
  
 paragraph3: During NREM (the phase of sleep in which there is no rapid eye movement) breathing becomes deeper and more regular, but there is also a decrease in the breathing rate, resulting in less air being exchanged overall. This occurs because during NREM sleep the automatic, metabolic system has exclusive control over breathing and the body uses less oxygen and produces less carbon dioxide. Also, during sleep the automatic metabolic system is less responsive to carbon dioxide levels and oxygen levels in the blood. Two things result from these changes in breathing control that occur during sleep. First, there may be a brief cessation or reduction of breathing when falling asleep as the sleeper waxes and wanes between sleep and wakefulness and their differing control mechanisms. Second, once sleep is fully obtained, there is an increase of carbon dioxide and a decrease of oxygen in the blood that persists during NREM.
  
-3.​The word exclusive in the passage is closest in meaning to
+3.The word exclusive in the passage is closest in meaning to
    ○consistent
 ○perfect
 ○partial
 ○sole
  
-4.​According to paragraph 3, which of the following may occur just before NREM sleep begins?
+4.According to paragraph 3, which of the following may occur just before NREM sleep begins?
    ○The automatic, metabolic system may increase its dependence on air exchanges.
 ○Breathing can stop for a short time as a person falls asleep.
 ○An increase in the oxygen level in the blood can occur as sleep becomes fully obtained.
@@ -8095,12 +8095,12 @@ paragraph3: During NREM (the phase of sleep in which there is no rapid eye movem
  
 paragraph4: But that is not all that changes. During all phases of sleep, several changes in the air passages have been observed. It takes twice as much effort to breathe during sleep because of greater resistance to airflow in the airways and changes in the efficiency of the muscles used for breathing. Some of the muscles that help keep the upper airway open when breathing tend to become more relaxed during sleep, especially during REM (the phase of sleep in which there is rapid eye movement). Without this muscular action, inhaling is like sucking air out of a balloon-the narrow passages tend to collapse. Also there is a regular cycle of change in resistance between the two sides of the nose. If something blocks the "good" side, such as congestion from allergies or a cold, then resistance increases dramatically. Coupled with these factors is the loss of the complex interactions among the muscles that can change the route of airflow from nose to mouth.
  
-5.​What is the author's purpose in stating that inhaling is like sucking air out of a balloon?
+5.What is the author's purpose in stating that inhaling is like sucking air out of a balloon?
    ○To refute the argument that additional effort is necessary for breathing during sleep
 ○To argue that REM sleep is more important than NREM sleep
 ○To illustrate the difficulty of breathing during sleep
 ○To illustrate how blockage of narrow passages can be prevented during sleep  
-6.​All of the following are mentioned in paragraph 4 as being characteristic of breathing during sleep EXCEPT
+6.All of the following are mentioned in paragraph 4 as being characteristic of breathing during sleep EXCEPT
    ○relaxation of the muscles involved in the respiratory system
 ○changes in resistance between the two sides of the nose
 ○easier airflow in the passages of the upper airway
@@ -8108,19 +8108,19 @@ paragraph4: But that is not all that changes. During all phases of sleep, severa
  
 paragraph5: Other respiratory regulating mechanisms apparently cease functioning during sleep. For example, during wakefulness there is an immediate, automatic, adaptive increase in breathing effort when inhaling is made more difficult (such as breathing through a restrictive face mask). This reflexive adjustment is totally absent during NREM sleep. Only after several inadequate breaths under such conditions, resulting in the considerable elevation of carbon dioxide and reduction of oxygen in the blood, is breathing effort adjusted. Finally, the coughing reflex in reaction to irritants in the airway produces not a cough during sleep but a cessation of breathing. If the irritation is severe enough, a sleeping person will arouse, clear the airway, then resume breathing and likely return to sleep.
  
-7.​According to paragraph 5, what happens during NREM sleep when inhaling is difficult?
+7.According to paragraph 5, what happens during NREM sleep when inhaling is difficult?
    ○There is an immediate, automatic, adaptive increase in breathing effort.
 ○The sleeping person takes several inadequate breaths before the breathing effort is adjusted.
 ○The coughing reflex causes the breathing effort to adjust.
 ○The airways become cleared as the blood removes irritants.
  
-8.​It can be inferred from paragraph 5 that a very mild irritation during sleep will likely cause the sleeping person to
+8.It can be inferred from paragraph 5 that a very mild irritation during sleep will likely cause the sleeping person to
 ○increase the breathing effort
 ○wake up and remove the source of irritation
 ○cough while still sleeping
 ○stop breathing temporarily while still sleeping
  
-9.​The word considerable meaning to
+9.The word considerable meaning to
 ○significant
 ○Steady
 ○Usual
@@ -8190,13 +8190,13 @@ In the face of all these pushes, people in the Mesa Verde area had yet another r
  
 paragraph1: In the Mesa Verde area of the ancient North American Southwest, living patterns changed in the thirteenth century, with large numbers of people moving into large communal dwellings called pueblos, often constructed at the edges of canyons, especially on the sides of cliffs. Abandoning small extended-family households to move into these large pueblos with dozens if not hundreds of other people was probably traumatic. Few of the cultural traditions and rules that today allow us to deal with dense populations existed for these people accustomed to household autonomy and the ability to move around the landscape almost at will. And besides the awkwardness of having to share walls with neighbors, living in aggregated pueblos introduced other problems. For people in cliff dwellings, hauling water, wood, and food to their homes was a major chore. The stress on local resources, especially in the firewood needed for daily cooking and warmth, was particularly intense, and conditions in aggregated pueblos were not very hygienic.
  
-1.​The word traumatic meaning to
+1.The word traumatic meaning to
 ○Essential
 ○highly stressful
 ○highly unusual
 ○unwise
  
-2.​The word intense in the passage is closest in meaning to
+2.The word intense in the passage is closest in meaning to
 ○strong
 ○questionable
 ○obvious    
@@ -8222,7 +8222,7 @@ paragraph3: Population growth is considered a particularly influential push. Aft
 ○Domestic buildings were pushed beyond the canyon limits.
 ○The natural landscape was destroyed.
  
-6.​Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+6.Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
 ○Some scholars even claim that the intensification of farmers' various efforts during the 1200s led to further population growth and the consequent need for more arable land.
 ○Evidence of intensifying agriculture in the 1200s indicates a need to feed a larger population and so extends the argument that a growing population was the cause of the move to pueblos.
 ○During the 1200s, farmers met the demand for more arable land, but they also succeeded in cultivating existing land more intensively with the help of agricultural construction projects.

@@ -1,5 +1,6 @@
 #!/usr/local/bin/python
 # -*- coding: utf-8 -*-
+import codecs
 import sys
 import re
 import json
@@ -138,7 +139,7 @@ def output(articles):
   paragraph_indicator_template = Template('')
   options_template = Template('''<ul>$options\n</ul>\n\n''')
   for article in articles:
-    with open("reading_" + article.name, "w") as output_file:
+    with codecs.open("reading_" + article.name, "w", 'utf-8') as output_file:
       output_file.write(article.title + '\n')
       paragraphidx = 0
       for paragraph in article.paragraphs:
@@ -154,7 +155,7 @@ def output(articles):
         print('printing', article.name, 'paragraph', str(paragraphidx))
         output_file.write(outputstr)
 
-    with open('reading_question_' + article.name, "w") as output_file:
+    with codecs.open('reading_question_' + article.name, "w", 'utf-8') as output_file:
       answerid = 0;
       for question in article.questions:
         answerid = answerid + 1
@@ -354,8 +355,8 @@ if __name__ == '__main__':
 
   (options, args) = parser.parse_args()
   if options.action == 'json':
-    print('Do not programmaticly generate json any more')
-    ''' 
+    print("No longer regenerate json again")
+    '''
     articles = parse_articles(options.filename)
     articles = parse_answers(options.answers, articles)
     with open(options.jsonfile, 'w') as f:
