@@ -1,0 +1,348 @@
+<span class="description">The word rudimentary in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        thorough
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+        strict
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        basic
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="D">
+        occasional
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 1 which of the following statements about William Smith is NOT true?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        Smith learned surveying by reading and by apprenticing for a local surveyor
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="B">
+        Smith's family lived in a small English town and possessed little wealth.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+        Smith learned about fossils from books he borrowed from his uncle.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        Smith eventually left his village to work on the excavation of an English canal.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the following can be inferred from paragraph 2 about canal building?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="A">
+        Canals were built primarily in the south of England rather than in other regions.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+        Canal building decreased after the steam locomotive was invented.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        Canal building made it difficult to study rock strata which often became damaged in the process.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        Canal builders hired surveyors like Smith to examine exposed rock strata.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Accordingto paragraph2,which of the following is true of the map published by William Smith?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+        It indicates the locations of England's major canals
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+        It became most valuable when the steam locomotive made rail travel possible
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="C">
+        The data for the map were collected during Smith's work on canals
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        It is no longer regarded as a geological masterpiece
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word meticulously in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+        carefully
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="B">
+        quickly
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+        frequently
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        obviously
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="A">
+        The discovery of regional differences in the sequences of rocks led geologists to believe that rock types could someday become reliable time markers.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="B">
+        Careful analysis of strata revealed that rocks cannot establish geological time because the pattern of rock layers varies from place to place.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        Smith's catalogs of rock strata indicated that the sequences of rocks are different from place to place and from region to region.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        Because people did not catalog regional differences in sequences of rocks. It was believed that rocks could never be reliable time markers
+      </input>
+    </li>
+</ul>
+
+<span class="description">Why does the author use the phrase "Quartz is quartz"?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="A">
+        To describe how the differences between Pleistocene and Cambrian quartz reveal information about dating rocks
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        To point out that the chemical composition of quartz makes it more difficult to date than other rocks
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="C">
+        To provide an example of how regional differences in rock sequences can make a particular rock difficult to date
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        To explain that rocks are difficult to use for dating because their chemical compositions always remain the same over time
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4,it was difficult for Smith to distinguish rock strata because</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        the rocks from different strata closely resembled each other
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+        he was often unable to find fossils in the younger rock strata
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="C">
+        their similarity to each other made it difficult for him to distinguish one rock type from another
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        the type of rock between two consistent strata was always the same
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word endured in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+        vanished
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        developed
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        varied
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="D">
+        survived
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "virtually" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        possibly
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        absolutely
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="C">
+        surprisingly
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        nearly
+      </input>
+    </li>
+</ul>
+
+<span class="description">Select the TWO answer choices that are true statements based upon the discussion of the principle of faunal succession in paragraph 5. To receive credit, you must select TWO answers.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        It was a principle that applied to fauna but not to flora.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="B">
+        It was discovered independently by two different geologists,
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        It describes how fossils are distributed in rock strata
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        It explains why plants and animals undergo transformations through time.
+      </input>
+    </li>
+</ul>
+
+<span class="description">In mentioning "trilobite", the author is making which of the following points?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        Fossils cannot be found in more than one rock stratum.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        Faunal succession can help put rock layers in relative temporal sequence.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="C">
+        Faunal succession cannot be applied to different strata composed of the same kind of rock.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        The presence of trilobite fossils makes it difficult to date a rock.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares Athat indicate where the following sentence could be added to the passage
+<quote><b>The findings of these geologists inspired others to examine the rock and fossil records in different parts of the world.</b></quote>
+Where would the sentence best fit?</span>
+<ul>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">William Smith's contributions to geology have increased our knowledge of the Each's history.<p>Answer Choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="A">
+        Smith found success easily in his profession because he came from a family of geologists and surveyors.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="B">
+        Smith's work on canals allowed him to collect fossils and study rock layers all over England.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="C">
+        Smith found that fossils are much more reliable indicators of geological time than rock strata are.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="D">
+        Smith was named "the father of English geology" for his maps rather than for his other contributions to the field.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="E">
+        Smith and Cuvier discovered that fossil patterns are easier to observe in ancient rock strata than in younger rock strata.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-14" value="F">
+        The discovery of the principle of faunal succession allowed geologists to establish the relative age of Earth's rock layers.
+      </input>
+    </li>
+</ul>
+

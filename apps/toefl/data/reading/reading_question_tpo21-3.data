@@ -1,0 +1,348 @@
+<span class="description">The word "ample" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        surprising
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+        convincing
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="C">
+        plentiful
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="D">
+        questionable
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 1, infantile amnesia has intrigued psychologists because</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        the ability to recount memories prior to three years of age seems to be connected to intelligence in adulthood
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="B">
+        psychologists do not understand why some people are able to recount memories from before the age of three years, while others are not able do so
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+        psychologists do not understand the connection between infantile amnesia and autobiographical memory
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="D">
+        although psychologists have evidence that infants have memory abilities, most people cannot remember life events that happened before the age of three years
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 1, what is the evidence that a child has developed autobiographical memory?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="A">
+        The child is able to remember past events from before the age of three years.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="B">
+        The child is able to describe past events in a sufficiently lengthy and cohesive manner.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        The child is aware that he or she does not remember experiences from before the age of three years.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        The child is able to give a basic description of the nature of autobiographical memory.
+      </input>
+    </li>
+</ul>
+
+<span class="description">In paragraph 2, why does the author provide the information that children with low verbal skills showed evidence of remembering a past event?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="A">
+        To provide evidence that memories do not depend only upon verbal skills
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+        To challenge the idea that one year olds are too young to form memories
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        To argue that the memory of one year olds depends only on action-based codes
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        To suggest that Piaget later revised his findings on the correlation between memory and verbal ability
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "reasonable" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+        consistent
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="B">
+        sufficient
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+        apparent
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        deep
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "elaboration" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="A">
+        development
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="B">
+        specialization
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        use
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        transformation
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 3, what is the relationship between autobiographical memory and the development of an understanding of the self?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        Autobiographical memory aids in the development of an understanding of the self.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        Children possess an understanding of the self when they can talk about past events in their lives.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="C">
+        The realization that the self continues through time may aid in the onset of autobiographical memory.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        The development of autobiographical memory helps children gain an understanding of their roles in their social relationships.
+      </input>
+    </li>
+</ul>
+
+<span class="description">All of the following are mentioned in paragraph 4 as ways in which parents help their children understand the structure of narratives EXCEPT</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        talking with their children about past events
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+        telling stories to their children
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="C">
+        having their children repeat stories back to them
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        showing their children that they think memories are important
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4, the studies of Caucasian American and Korean children suggest which of the following?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+        Autobiographical memories develop similarly across all cultures.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        Parents from different cultures tell their children different kinds of stories about the past.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        Children's pleasure in hearing stories varies from culture to culture.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="D">
+        The kinds of interactions chiIdren have with their parents affect the development of autobiographical memories.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 5, what evidence is there that a "theory of mind" is a factor in the development of autobiographical memory?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        Even children who are not aware of their mental states are still able to talk about past events.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        Autobiographicat memory decreases when a chiId's feelings and mental state are upset.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="C">
+        Older children who are unable to achieve awareness of mental states lack autobiographical memory.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="D">
+        Children's memory of past events grows once children can answer questions about what it means to know and remember.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The organization of the passage can best be described as</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        the presentation of an argument followed by the evidence for and against it
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="B">
+        a description of a phenomenon followed by several possible theories about how it develops
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        the definition of a psychological term followed by a history of its usage
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        an explanation of a process followed by a discussion of its practical applications
+      </input>
+    </li>
+</ul>
+
+<span class="description">The passage supports which of the following statements about the development of autobiographical memory?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="A">
+        It is unlikely that a single factor is responsible for the development of autobiographical memory.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        Jean Piaget was the first psychologist to understand the development of autobiographical memory.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        Understanding the development of autobiographical memory will help psychologists eliminate infant amnesia
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        Understanding what it means to remember is the most important factor in the development of autobiographical memory.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
+<quote><b>It is unlikely that this memory will be from the first two years of life.</b></quote>
+Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p></p><p>The ability to construct autobiographical memories-coherent narratives about events from one's past-is probably the joint product of several social and intellectual developments.</p><p></p><p>O</p><p>O</p><p>O</p><p>Answer Choices</p><p></p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
+        Although children are capable of simple recognition and recall very early in life, they do not develop the capacity for autobiographical memory until the age of three or four years.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="B">
+        Verbal skills and familiarity with narrative structures probably aid in the construction of autobiographical memories.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="C">
+        Children's earliest autobiographical memories are usually about social interactions with parents.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
+        Research suggests that infantile amnesia occurs in some cultures but not in others and may be linked to children's social experiences.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="E">
+        The development of autobiographical memory allows children to appreciate the fact that memories are an important part of their cultural experience.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
+        Children who have acquired a concept of the self and of various mental states are generally able to talk about their own past memories.
+      </input>
+    </li>
+</ul>
+

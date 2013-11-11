@@ -1,0 +1,348 @@
+<span class="description">According to paragraph 1, which of the following statements about the High Plains is true?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        Until farmers and ranchers settled there in the 1880’s, the High Plains had never been inhabited.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+        The climate of the High Plains is characterized by higher-than-average temperatures.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        The large aquifer that lies underneath the High Plains was discovered by the Ogallala Sioux Indians.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="D">
+        Before the early 1900’s there was only a small amount of farming and ranching in the High Plains.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 2, all of the following statements about the Ogallala aquifer are true EXCEPT:</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        The aquifer stretches from South Dakota to Texas.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="B">
+        The aquifer’s water comes from underground springs.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+        Water has been gathering in the aquifer for 30,000 years.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        The aquifer’s water is stored in a layer of sandstone.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="A">
+        Despite the current impressive size of the Ogallala aquifer, the region’s climate keeps the rates of water addition very small.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+        Although the aquifer has been adding water at the rate of only half a centimeter a year, it will eventually accumulate enough water of fill Lake Huron.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        Because of the region’s present climatic conditions, water is being added each year to the aquifer.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        Even when the region experiences unfortunate climatic conditions, the rates of addition of water continue to increase.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "ensuing" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+        Continuing
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+        Surprising
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        Initial
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="D">
+        Subsequent
+      </input>
+    </li>
+</ul>
+
+<span class="description">In paragraph 3, why does the author provide the information that 40 percent of American cattle are fattened in the High Plains?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+        To suggest that crop cultivation is not the most important part of the economy of the High Plains
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        To indicate that not all economic activity in the High Plains is dependent on irrigation
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="C">
+        To provide another example of how water from the Ogallala has transformed the economy of the High Plains
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        To contrast cattle-fattening practices in the High Plains with those used in other region of the United States
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "unprecedented" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        Difficult to control
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="B">
+        Without any restriction
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="C">
+        Unlike anything in the past
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        Rapidly expanding
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "virtually" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        Clearly
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        Perhaps
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="C">
+        Frequently
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="D">
+        Almost
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4, all of following are consequences of the heavy use of the Ogallala aquifer for irrigation EXCEPT:</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="A">
+        The recharge rate of the aquifer is decreasing.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+        Water tables in the region are becoming increasingly lower.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="C">
+        Wells now have to be dug to much greater depths than before.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        Increasingly powerful pumps are needed to draw water from the aquifer.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4, compared with all other states that use Ogallala water for irrigation, Texas</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+        Has the greatest amount of farmland being irrigated with Ogallala water
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        Contains the largest amount of Ogallala water underneath the soil
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="C">
+        Is expected to face the worst water supply crisis as the Ogallala runs dry
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="D">
+        Uses the least amount of Ogallala water for its irrigation needs
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "inevitable" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        Unfortunate
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        Predictable
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="C">
+        Unavoidable
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        Final
+      </input>
+    </li>
+</ul>
+
+<span class="description">Paragraph 5 mentions which of the following as a source of difficulty for some farmers who try to conserve water?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        Crops that do not need much water are difficult to grow in the High Plains.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="B">
+        Farmers who grow crops that need a lot of water make higher profits.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        Irrigating less frequently often leads to crop failure.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        Few farmers are convinced that the aquifer will eventually run dry.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 6, what is the main disadvantage of the proposed plans to transport river water to the High Plains?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        The rivers cannot supply sufficient water for the farmer’s needs.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        Increased irrigation costs would make the products too expensive.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        The costs of using capillary water for irrigation will increase.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        Farmers will be forced to switch to genetically engineered crops.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares [█] that indicate where the following sentence could be added to the passage.
+<quote><b>But even if uncooperative farmers were to join in the conservation efforts, this would only delay the depletion of the aquifer.</b></quote>
+Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>The Ogallala is a large underground source of water in the High Plains region of the United States.</p><p>Answer choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
+        The use of the Ogallala for irrigation has allowed the High Plains to become one of the most productive agricultural regions in the United States.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
+        Given the aquifer’s low recharge rate, its use for irrigation is causing water tables to drop and will eventually lead to its depletion.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="C">
+        Releasing capillary water and introducing drought-resistant crops are less-promising solutions to the water supply crisis than bringing in river water
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="D">
+        The periodic deepening of wells and the use of more-powerful pumps would help increase the natural recharge rate of the Ogallala.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="E">
+        In Texas, a great deal of attention is being paid to genetic engineering because it is there that the most critical situation exists.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
+        Several solutions to the upcoming water supply crisis have been proposed, but none of them promises to keep the costs of irrigation low.
+      </input>
+    </li>
+</ul>
+

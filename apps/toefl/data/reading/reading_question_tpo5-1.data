@@ -1,0 +1,348 @@
+<span class="description">According to Paragraph1, what is true of plants that can grow in serpentine soil?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        They absorb micronutrients unusually well.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="B">
+        They require far less calcium than most plants do.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        They are able to absorb nitrogen in its elemental state.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="D">
+        They are typically crops raised for food.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word exhibit in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        fight off
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="B">
+        show
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+        cause
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        spread
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to Paragraph2, which of the following symptoms occurs in phosphorus-deficient plants but not in plants deficient in nitrogen or iron?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="A">
+        Chlorosis on leaves
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="B">
+        Change in leaf pigmentation to a dark shade of green
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        Short, stunted appearance of stems
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        Reddish pigmentation on the leaves or stem
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to Paragraph2, a symptom of iron deficiency is the presence in young leaves of</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+        Deep red discoloration between the veins.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="B">
+        White or yellow tissue between the veins.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        Dead spots between the veins.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        Characteristic dark green veins.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word facilitates in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+        slows down
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        affects
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="C">
+        makes easier
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        focuses on
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to Paragraph3, what is the advantage of hydroponics for research on nutrient deficiencies in plants?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="A">
+        It allows researchers to control what nutrients a plant receives.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="B">
+        It allows researchers to observe the growth of a large number of plants simultaneously.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        It is possible to directly observe the roots of plants.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        It is unnecessary to keep misting plants with nutrient solutions.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word suspended in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        grown
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        protected
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="C">
+        spread out
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="D">
+        hung
+      </input>
+    </li>
+</ul>
+
+<span class="description">Why does the author mention herbs, shrubs, and trees?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        To provide examples of plant types that cannot tolerate high levels of harmful minerals.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+        To show why so many plants are hyper accumulators.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="C">
+        To help explain why hyper accumulators can be found in so many different places.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="D">
+        To emphasize that hyper accumulators occur in a wide range of plant types.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word afford in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="A">
+        offer
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        prevent
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        increase
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="D">
+        remove
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        Before considering phytoremediation, hyper accumulating species of plants local to the target area must be identified.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        The investigation begins with an evaluation of toxic sites in the target area to determine the extent of contamination.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="C">
+        The first step in phytoremediation is the planting of hyper accumulating plants in the area to be cleaned up.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        Mines and irrigation ponds can be kept from becoming contaminated by planting hyper accumulating species in targeted areas.
+      </input>
+    </li>
+</ul>
+
+<span class="description">It can be inferred from Paragraph6 that compared with standard practices for remediation of contaminated soils, phytoremediation</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        does not allow for the use of the removed minerals for industrial purposes.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="B">
+        can be faster to implement
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        is equally friendly to the environment
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="D">
+        is less suitable for soils that need to be used within a short period of time.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Why does the author mention Indian mustard?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        To warn about possible risks involved in phytoremediation
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        To help illustrate the potential of phytoremediation
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        To show that hyper accumulating plants grow in many regions of the world
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        To explain how zinc contamination can be reduced.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
+<quote><b>Certain minerals are more likely to be accumulated in large quantities than others.</b></quote>
+Where could the sentence best fit?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Plants need to absorb certain minerals from the soil in adequate quantities for normal growth and development.</p><p>Answer Choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
+        Some plants are able to accumulate extremely high levels of certain minerals and thus can be used to clean up soils contaminated with toxic levels of these minerals.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
+        Though beneficial in lower levels, high levels of salts, other minerals, and heavy metals can be harmful to plants.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
+        When plants do not absorb sufficient amounts of essential minerals, characteristic abnormalities result.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="D">
+        Because high concentrations of sodium chloride and other salts limit growth in most plants, much research has been done in an effort to develop salt-tolerant agricultural crops.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="E">
+        Some plants can tolerate comparatively low levels of certain minerals, but such plants are of little use for recycling nutrients back into depleted soils.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="F">
+        Mineral deficiencies in many plants can be cured by misting their roots with a nutrient solution or by transferring the plants to a soilless nutrient solution.
+      </input>
+    </li>
+</ul>
+

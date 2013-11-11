@@ -1,0 +1,348 @@
+<span class="description">The word "accumulations" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        Signs
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+        Pieces
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        Types
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="D">
+        Deposits
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "heterogeneous" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        Remaining
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="B">
+        Varied
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+        Familiar
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        Layered
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 1, what persuaded Louis Agassiz that glaciation in the past had been widespread?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="A">
+        Geologic differences between mountain valleys and flat plains
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="B">
+        The presence of similar glacial material in many different regions
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        Geologic research on mountain glaciers in the Alps
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        Evidence of regional differences in the drift caused by glacial erosion
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "enjoy" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="A">
+        Experience
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+        Resemble
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        Expect
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        Dominate
+      </input>
+    </li>
+</ul>
+
+<span class="description">It can be inferred from paragraph 2 that Agassiz and other geologists of his time were not able to determine</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+        Which geographic regions had been covered with ice sheets in the last ice age
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="B">
+        The exact dates at which drifts had been deposited during the last ice age
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+        The exact composition of the drifts laid during the last ice age
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        How far south along the east coast of the United States the ice had advanced during the last ice age
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 3, what did geologists conclude as a result of finding well-developed soils containing warm-climate plant fossils between layers of glacial drift?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        There had been only one warm period before the Pleistocene epoch.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+        There had been multiple periods of mild weather between ice ages
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        Several glacial periods occurred after the Pleistocene epoch.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        Some earlier epochs were warmer thant the Pleistocene.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 3 and 4, scientists modified their theory about the exact number of glaciations because of evidence obtained from</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="A">
+        Ocean sediments
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        Interglacial soils
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="C">
+        Glacial deposits
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        Air samples
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "reveal" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        Result from
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+        Vary with
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="C">
+        Show
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        Preserve
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4, scientists use foraminifera shells to learn about Pleistocene ocean conditions by</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+        Measuring the amount of calcium carbonate present in the shells
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        Determining the proportion of shell in each layer of sediment
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        Comparing shells deposited during the Pleistocene with those buried earlier
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="D">
+        Calculating the relative quantity of two oxygen isotopes in the calcite
+      </input>
+    </li>
+</ul>
+
+<span class="description">In can be inferred from paragraph 5 that foraminifera fossil shells containing calcite with high percentages of oxygen-16 were deposited at times when</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        Polar ice extended as far as equatorial regions of land and sea
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="B">
+        Extensive glaciation was not occurring
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="C">
+        There were no great increases in ocean temperature
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        There was heavy snowfall on continental glaciers
+      </input>
+    </li>
+</ul>
+
+<span class="description">In paragraph 5, why does the author include the information that the "oxygen isotope ratio of the ocean changes as a great deal of water is withdrawn from it by evaporation and is precipitated as snow to form glacial ice" ?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="A">
+        To explain how scientists were able to calculate how frequently the continental ice sheets expanded and contracted
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="B">
+        To explain how scientists have determined that there was no great change in ocean temperatures at the equator during past glaciations
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        To provide evidence that oxygen-16 has a greater tendency to evaporate than does oxygen-18
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        To suggest that equatorial marine organisms absorb more heavy isotopes than do marine organisms
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to the passage, when did scientists begin to realize that more than one ice age had occurred ?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        In the mid nineteenth century
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        In the late nineteenth century
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        In the early twentieth century
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        In the late twentieth century
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares Athat indicate where the following sentence could be added to the passage.
+<quote><b>In his view, there could be no other explanation for the composition of such drift.</b></quote>
+Where would the sentence best fit ? 【】</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>Louis Agassiz was the first to note signs of glacial erosion and sedimentation in diverse regions of Europe and North America.</p><p></p><p>Answer Choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
+        Evidence of a pattern of glacier-like deposits eventually convinced most geologists that an enormous continental glacier had extended into the temperate zone.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="B">
+        Glacial research showed that many layers of ice were deposited, with each new period of glaciation extending farther south than the one before.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
+        Isotopic analysis of marine sediments showed that periods of glaciation and deglaciation were more frequent, shorter, and more cyclic than previously thought.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
+        Nineteenth-century geologists came to accept the idea that the areas covered by polar ice had reached as far as the equator, a far larger area than Agassiz had thought.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="E">
+        Nineteenth-century geologists studying the layers of drift concluded that during the Pleistocene epoch, several glaciations had occurred with war periods between them.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="F">
+        Research involving foraminifera fossil shells show that ocean temperatures in the Northern Hemisphere varied greatly during the most extensive periods of glaciation.
+      </input>
+    </li>
+</ul>
+

@@ -1,0 +1,372 @@
+<span class="description">​The phrase So much in the passage refers to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        the negative effects of overland flow, rain, and evaporation on river water levels
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+        water that a lake loses to outflowing rivers, to the lake bed, and to evaporation
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        the importance of rivers to the maintenance of lake water levels
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="D">
+        the information given about ways that water can enter or exit a lake
+      </input>
+    </li>
+</ul>
+
+<span class="description">​The word gains in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        results
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="B">
+        increases
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+        resources
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        savings
+      </input>
+    </li>
+</ul>
+
+<span class="description">​Which of the following can be inferred from paragraph 2 about the movement of water into a lake?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="A">
+        Heavy rain accounts for most of the water that enters into lakes.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+        Rainfall replaces approximately the amount of water lost through evaporation.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="C">
+        verland flow into lakes is reduced by the presence of forests.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        Seepage has a smaller effect on water level than any other input.
+      </input>
+    </li>
+</ul>
+
+<span class="description">​Why does the author use the phrase Note the word "net" in the passage?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+        To emphasize the impact of seepage on water levels
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+        To point out that seepage is calculated differently from river flows and atmospheric exchanges
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        To compare the different methods of calculating seepage
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="D">
+        To emphasize the difficulty of obtaining specific values for seepage inputs and outputs
+      </input>
+    </li>
+</ul>
+
+<span class="description">​The word Conversely meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="A">
+        on the other hand
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        in the same way
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+        in other words
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        on average
+      </input>
+    </li>
+</ul>
+
+<span class="description">​According to paragraph 3, which of the following best describes a seepage-dominated lake?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        A lake that is fed by streams but still has fluctuating water levels
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+        A lake with a constant water level that has no streams or rivers as inputs
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        A lake with a stream flowing into it and a stream flowing out of it
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        A lake that has surface and underground inputs but loses water during dry seasons
+      </input>
+    </li>
+</ul>
+
+<span class="description">It can be inferred from paragraph 4 that the length of time a given molecule of water remains in a lake</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        depends entirely upon the average speed of a lake' s currents
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        can be measured by the volume of the lake alone
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="C">
+        can be greater or lesser than the residence time
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        is similar to the length of time all other molecules remain in that lake
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 5, Lake Erie's residence time is lower than Lake Ontario's for which of the following<p>reasons?</p></span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        Lake Erie has a larger area than Lake Ontario.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+        Lake Ontario is shallower than Lake Erie.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="C">
+        Lake Ontario has a greater volume than Lake Erie.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        Lake Erie receives less rainfall than Lake Ontario.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Why does the author discuss the Great Lakes in paragraph 5?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="A">
+        To demonstrate the extent to which residence times vary from lake to lake
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        To illustrate how residence times are calculated for specific lakes
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        To argue that the residence time of a lake increases with area
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="D">
+        To emphasize that Lake Tahoe' s residence time is unusually long
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 5, major ceremonial events were occasions for</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        leaders to persuade people from the countryside to move into a pueblo
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="B">
+        farmers to collect information about where crops could be reliably grown
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="C">
+        people to develop better techniques for producing pottery and crafts
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        people in the early Puebloan era to share farm and craft products
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word further in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        expected
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="B">
+        additional
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="C">
+        serious
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        unfortunate
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 6, which of the following explains the increase in residence time of some lakes of northwestern Ontario?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        The amount of water flowing into the lakes has increased.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        The rate of evaporation has decreased more sharply than the amount of rainfall.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        The renewal of the lakes' water has slowed due to changes in climate.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="D">
+        Plants have required less water from the lakes
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 6, residence time is affected by all of the following EXCEPT</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        amount of rainfall
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        rate of evaporation
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        temperature of surrounding air
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        concentration of chemicals in lake water
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
+<quote><b>Of course, a lake may be neither surface-water-nor seepage-dominated if, for example, its inputs are predominantly surface and its outputs are predominantly seepage.</b></quote>
+Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
+<ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage.<p>This question is worth 2 points.</p><p>Water enters, remains, and eventually leaves a lake in a variety of ways.</p><p>Answer Choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-15" value="A">
+        By measuring the water quantities at each of a lake's inputs and outputs, it can be determined whether water enters the lake mainly from surface or groundwater sources.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-15" value="B">
+        Changes in lake level and volume are caused principally by the amount of evaporation of water into the atmosphere.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-15" value="C">
+        It is sometimes possible to decide whether a lake is surface water dominated or seepage dominated by simple observation at different seasons.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-15" value="D">
+        The average period of time that molecules of water spend in a lake-the residence time-varies from lake to lake and overtime within a particular lake.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-15" value="E">
+        The residence times of surface-water-dominated lakes are usually longer than those of seepage-dominated lakes.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-15" value="F">
+        The residence time of a lake frequently depends on the kinds of organisms to be found in the lake.
+      </input>
+    </li>
+</ul>
+

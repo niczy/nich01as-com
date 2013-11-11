@@ -1,0 +1,348 @@
+<span class="description">The phrase conspicuous in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        Commom
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="B">
+        Noticeable
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        Different
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="D">
+        Colorful
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 2, what is problematic about an animal's sending visual signals to members of its own species?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="A">
+        Signs that make an animal visible to its species also make it visible to predators.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="B">
+        An animal that changes color to avoid predators can confuse members of its species.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+        Changing light may require an animal to move beyond the visual range of other members.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        The animal may mistakenly signal aggression when it meant to signal readiness to mate.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word signal in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="A">
+        Change
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+        Imitate
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="C">
+        Communicate
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        Hide
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 2, all of the following are reasons amphibians and reptiles change color EXCEPT</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="A">
+        changing seasons
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+        to signal others of their species
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        to match the light
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        to hide from predators
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 3, butterflies move into spots of sunlight in order to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+        warm their wings in order to open them
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        compete with each other
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="C">
+        take advantage of favorable light conditions on the forest floor
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        imitate birds of paradise
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4, what is true about light that reaches ground level?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        It reveals only the yellow and green colors animals use to signal each other.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="B">
+        It reflects the yellow and green colors to make the floor as bright as sunshine.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        It camouflages animals whose natural colors are yellow and green.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="D">
+        It consists mostly of yellow-to-green wavelengths.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        When an animal is signaling in an area with green-to yellow lighting condition. It's signal will not be visible if the background is brightly lit.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        In the lowest levels of the forest, an animal's signals are not easily seen unless there is a yellowish or greenish background.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="C">
+        In the green-to-yellow lighting conditions at the lowest levels of the forest, only signals that are themselves green or yellow will be bright enough to be seen in most areas.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="D">
+        Although green and yellow would be the brightest colors near the forest floor. these colors would make poor signals whenever the forest background was also in the green-to-yellow range.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word inflating in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        Coloring
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="B">
+        Enlarging
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="C">
+        Loosening
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        Heating
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the following can be inferred from paragraph 4 about yellow and green colors compared with red and orange colors at the bottom of the forest?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+        Yellow and green are better colors for signaling than red and orange colors.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        range and red are brighter colors than yellow and green.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="C">
+        Yellow and green are likely to be more common in the background than red and orange.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="D">
+        range and red colors do not contrast as well with the forest floor as yellow and green do.
+      </input>
+    </li>
+</ul>
+
+<span class="description">What can be inferred from paragraph 5 about the less colorful birds and animals that inhabit the forest?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        These species are less able to see color. and therefore they communicate with one another using nonvisual signals.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        These species generally live in less densely wooded environments than more colorful birds and animals do.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="C">
+        The cries of these species do not carry as well over distances as the cries of more colorful birds and animals.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="D">
+        These species depend more on nonvisual signals for communication because they are less visible in their environment.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word impediment in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="A">
+        bstruction
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="B">
+        Effort
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        Delay
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        Resistance
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word exploits in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        repeats
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        makes use of
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        increases the intensity of
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        recognizes
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
+<quote><b>There is also the long, rather terrifying call of the male orangutan, which carries over considerable distances to advertise his presence.</b></quote>
+Where would the sentence best fit?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>In the rain forest. an animal must be able to send signals to members of its own species and at the same time avoid being detected by predators.</p><p></p><p>Answer Choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="A">
+        Animals that have different predators at different times of day
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
+        To escape notice, an animal may move or change color so change color to avoid being detected. that its color pattern is not visible.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
+        To be noticed, an animal may draw attention to the contrast F between its colors and the colors of its environment.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="D">
+        Yellow and green are the most common colors found in the r rain forest.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="E">
+        Animals must have signals for aggression as well as to indicate readiness to mate.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
+        An animal may use sound rather than color to attract attention, because sound signals are not hindered by
+      </input>
+    </li>
+</ul>
+

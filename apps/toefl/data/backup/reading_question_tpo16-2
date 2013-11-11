@@ -1,0 +1,348 @@
+<span class="description">The phrase interplay in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        sequence
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+        interpretation
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        requirement
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="D">
+        interaction
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 1, what pattern did scientists notice when the known elements were written in order of increasing atomic mass?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        The elements of the group of alkali metals were the first elements in the order of increasing atomic mass.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="B">
+        Repetition of the same atomic masses for elements in different groups appeared.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="C">
+        Elements with similar chemical properties appeared in the listing at regular intervals.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        Elements were chemically most similar to those just before and after them in the order.
+      </input>
+    </li>
+</ul>
+
+<span class="description">In paragraph 2, what is the author's purpose in presenting the information about the decision by Meyer and Mendeleyev to leave gaps in the periodic table?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="A">
+        To illustrate their confidence that the organizing principles of the periodic table would govern the occurrence of all chemical elements
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+        To indicate that some of their analyses of periodic physical and chemical properties were later found to be wrong
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        To support the idea that they were unwilling to place new elements in the periodic table
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        To indicate how they handled their disagreement about where to place new elements
+      </input>
+    </li>
+</ul>
+
+<span class="description">What reason does the author provide for the claim that Mendeleyev was bolder than Meyer?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+        Mendeleyev corrected incorrect information Meyer had proposed.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="B">
+        Mendeleyev assumed that some information believed to be true about the elements was incorrect.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        Mendeleyev argued that Meyer had not left enough gaps in the periodic table.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        Mendeleyev realized that elements were not ordered by atomic mass in the periodic table.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 2, why did Mendeleyev suggest changing the atomic mass of indium?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="A">
+        Because indium did not fit into the periodic table in the place predicted by its atomic mass
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        Because there was experimental evidence that the atomic mass that had been assigned to indium was incorrect
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+        Because there was an empty space between cadmium and tin in the periodic table
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        Because the chemical properties of indium were similar to those of arsenic and selenium
+      </input>
+    </li>
+</ul>
+
+<span class="description">It can be inferred from paragraph 2 that tellurium comes before iodine in the periodic table even though tellurium's atomic mass is slightly greater because</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        iodine is less common than tellurium
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="B">
+        both iodine and tellurium have no isotopes
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        the chemical behavior of tellurium is highly variable
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="D">
+        the atomic number of tellurium is smaller than that of iodine
+      </input>
+    </li>
+</ul>
+
+<span class="description">The phrase abundance in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        weight
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        requirement
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="C">
+        plenty
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        sequence
+      </input>
+    </li>
+</ul>
+
+<span class="description">The phrase analogous to in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        predicted by
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+        expected of
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="C">
+        similar to
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        superior to
+      </input>
+    </li>
+</ul>
+
+<span class="description">Paragraph 3 suggests that Mendeleyev predicted the properties of eka-aluminum on the basis of</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+        the atomic mass of aluminum
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="B">
+        the position of the gap in the periodic table that eka-aluminum was predicted to fill
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        the similarity of eka-aluminum to the other five missing elements
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="D">
+        observation of the properties of gallium
+      </input>
+    </li>
+</ul>
+
+<span class="description">It can be inferred from paragraph 3 that the significance of the discovery of gallium was that it supported which of the following?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        The idea that aluminum was correctly placed in the periodic table
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        Mendeleyev's prediction that eka-silicon would be discovered next
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="C">
+        The organizing principle of the periodic table
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        The idea that unknown elements existed
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        Ramsay found evidence of helium in the spectrum of sunlight before he discovered that the element was also contained in natural gas deposits on Earth.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="B">
+        Ramsay thought he had discovered a new element present in natural gas deposits, but he was wrong since that element had been previously observed elsewhere on Earth.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        After Ramsay had discovered a new element, called helium, in natural gas deposits on Earth, he also found evidence of its presence in the Sun.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="D">
+        Ramsay later discovered that helium, an element that was already known to be present in the Sun, was also present in natural gas deposits on Earth.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word postulated in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="A">
+        hypothesized
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        discovered
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        reported
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        generated
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
+<quote><b>It was a natural Idea to break up the series of elements at the points where the sequence of chemical groups to which the elements belonged began to repeat itself.</b></quote>
+Where would the sentence best fit?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>The periodic table introduced by Meyer and Mendeleyev was the forerunner of the modern table of elements.</p><p>Answer Choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="A">
+        Lord Rayleigh provided evidence that the structure of the I—Ramsay and Lord Rayleigh challenged the importance of the periodic table limited the potential number of elements.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="B">
+        Chemical research that Henry Cavendish had done a centuryearlier.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="C">
+        Isotopes of a given element have exactly the same physical properties, but their chemical properties are slightly different.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
+        Mendeleyev and Meyer organized the known elements into a F chart that revealed periodic recurrences of chemical and physical properties.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
+        Mendeleyev's successful prediction of the properties of then- r unknown elements lent support to the acceptance of the periodic law.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="F">
+        In the 1890's, Ramsay and Lord Rayleigh isolated argon and proposed the existence of a new series of elements.
+      </input>
+    </li>
+</ul>
+

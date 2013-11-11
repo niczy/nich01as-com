@@ -1,0 +1,348 @@
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        The regularity and power of stone walls inspired Romans attempting to unify the parts of their realm.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+        Although the Romans used different types of designs when building their walls, they used regular controls to maintain their realm.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="C">
+        Several types of control united the Roman realm, just as design and cement held Roman walls together.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="D">
+        Romans built walls to unite the various parts of their realm into a single entity, which was controlled by powerful laws.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 1, all of the following are controls that held together the roman world EXCEPT</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        administrative and legal systems
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="B">
+        the presence of the military
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="C">
+        a common language
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        transportation networks
+      </input>
+    </li>
+</ul>
+
+<span class="description">The phrase "obsession with" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="A">
+        thinking about
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="B">
+        fixation on
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        interest in
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        attitude toward
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 2, which of the following was NOT characteristic of Rome's early development?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="A">
+        Expansion by sea invasion
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+        Territorial expansion
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        Expansion from one original settlement
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        Expansion through invading armies
+      </input>
+    </li>
+</ul>
+
+<span class="description">Why does the author mention "Alexander the Great" in the passage?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="A">
+        To acknowledge that Greek civilization also expanded by land conquest
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        To compare Greek leaders to Roman leaders
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+        To give an example of Greek leader whom Romans studied
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        To indicate the superior organization of the Greek military
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "fostered" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        accepted
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="B">
+        combined
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        introduced
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="D">
+        encouraged
+      </input>
+    </li>
+</ul>
+
+<span class="description">Paragraph 3 suggests which of the following about the people of Latium?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        Their economy was based on trade relations with other settlements.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        They held different values than the people of Rome.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="C">
+        Agriculture played a significant role in the society.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        They possessed unusual knowledge of animal instincts
+      </input>
+    </li>
+</ul>
+
+<span class="description">Paragraph 4 indicates that some historians admire Roman civilization because of</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        the diversity of cultures within Roman society
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="B">
+        its strength
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="C">
+        its innovative nature
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        the large body of literature that it developed
+      </input>
+    </li>
+</ul>
+
+<span class="description">In paragraph 4, the author develops a description of Roman civilization by</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+        comparing the opinions of Roman intellectuals to Greek intellectuals
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        identifying which characteristics of roman civilization were copied from Greece
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        explaining how the differences between Roman and Greece developed as time passed
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="D">
+        contrasting characteristics of Roman civilization with characteristics of Greek civilization
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4, intellectual Romans such as Horace held which of the following opinions about their civilization?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        Ancient works of Greece held little value in the Roman world.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        The Greek civilization had been surpassed by the Romans.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="C">
+        Roman civilization produced little that was original or memorable.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        Romans valued certain types of innovations that had been ignored by ancient Greeks.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "spheres" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        abilities
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="B">
+        areas
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        combinations
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        models
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the following statements about leading Roman soldiers and statesmen is supported by paragraphs 5 and 6?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="A">
+        They could read and write the Greek language.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        They frequently wrote poetry and plays.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        They focused their writing on military matters.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        They wrote according to the philosophical laws of the Greeks.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
+<quote><b>They esteem symbols of Roman power, such as the massive Colosseum.</b></quote>
+Where would the sentence best fit?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Direction: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question worth 2.<p>The Roman world drew its strength from several important sources</p><p>Answer choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
+        Numerous controls imposed by Roman rulers held its territory together.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="B">
+        The Roman military was organized differently from older military organizations.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="C">
+        Romans valued sea power as did the Latins, the original inhabitants of Rome.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="D">
+        Roman values were rooted in a strong attachment to the land and the stability of rural life.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
+        Rome combined aspects of ancient Greek civilization with its own contributions in new areas.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="F">
+        Educated Romans modeled their own literature and philosophy on the ancient Greeks
+      </input>
+    </li>
+</ul>
+

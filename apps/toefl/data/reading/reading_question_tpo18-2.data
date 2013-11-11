@@ -1,0 +1,317 @@
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        It is the conventional theory that when people are bored or sleepy, they often experience a drop in blood oxygen levels due to their shallow breathing
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="B">
+        The conventional theory is that people yawn when bored or sleepy because yawning raises blood oxygen levels, which in turn raises alertness.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        According to conventional theory, yawning is more likely to occur when people are bored or sleepy than when they are alert and breathing deeply
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="D">
+        Yawning according to the conventional theory, is caused by boredom or lack of sleep and can be avoided through deeper breathing
+      </input>
+    </li>
+</ul>
+
+<span class="description">in paragragh1, what point does the author make about the evidence for the tiredness theory of yawning？</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="A">
+        There is no scientific evidence linking yawning with tiredness.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="B">
+        The evidence is wide-ranging because it covers multiple age-groups.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="C">
+        The evidence is reliable because it was collected over a long period of time.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        The evidence is questionable because the yawning patterns of children and adults should be different.
+      </input>
+    </li>
+</ul>
+
+<span class="description">the word "flaw" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="A">
+        fault
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+        aspect
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        confusion
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        mystery
+      </input>
+    </li>
+</ul>
+
+<span class="description">in the paragraph 2 why does the author note that there were physiological changes when subjects opened their mouths or breathed deeply?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+        To present an argument in support of the tiredness theory
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="B">
+        To cast doubt on the reliability of the tests that measurement heart rate, muscle tension and skin conductance.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="C">
+        To argue against the hypothesis that yawning provides a special way to improve alertness or raise physiological activity.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        To support the idea that opening the mouth or breathing deeply can affect blood oxygen levels.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "triggered" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+        Removed
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        Followed
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+        Increased
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="D">
+        caused
+      </input>
+    </li>
+</ul>
+
+<span class="description">paragraph2 answers all of the following questions about yawning except</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        does yawning increase alertness or physiological activity
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+        does thinking about yawning increase yawning over not thinking about yawning?
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        Does the amount of carbon dioxide and oxygen in the air affect the rate at which people yawn?
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        Does the rate of breathing affect the rate at which people yawn?
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "periodically" in the passage is closest in the meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        Continuously
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        Quickly
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="C">
+        Regularly
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        Carefully
+      </input>
+    </li>
+</ul>
+
+<span class="description">according to the developmental theory of yawning presented in paragraph 3. What is the role of yawning?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        It caused hiccups which aid in the development of the lungs.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="B">
+        It controls the amount of pressure the lungs place on other developing organs.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="C">
+        It prevents amniotic fluid from entering the lungs.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="D">
+        It removes a potentially harmful fluid from the lungs.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Paragraph 3 supports which of the following statements about the development theory of yawning?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="A">
+        The theory is unsatisfactory because it cannot explain the lung deformities of infants.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        The theory is questionable because it does not explain why a useless and inconvenient behavior would continue into adulthood
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="C">
+        The theory is in the development of yawning
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "empirical" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        Reliable
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        Based on common sense
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="C">
+        Relevant
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="D">
+        Based on observation
+      </input>
+    </li>
+</ul>
+
+<span class="description">The study of yawning behavior discussed in paragraph4 supports which of the following conclusions?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="A">
+        Yawning is associated with an expectation of increased physical activity
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="B">
+        Yawning occurs more frequently when people are asked to record their yawning
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        People tend to yawn about fifteen minutes before they become tired or bored
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        Mental or physical stress tends to make people yawn
+      </input>
+    </li>
+</ul>
+
+<span class="description">why does the author mention "soldiers yawning before combat, musicians yawning before performing, and athletes yawning before competing"?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        To argue that just the expectation of physical activity can make some people feel tired
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        To explain how the view that people yawn because they are tired accounts for yawning before stressful situations
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="C">
+        To support the view that yawning helps prepare a person for mental or physical exertion
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        To provide anecdotal evidence that conflicts with the experience of the volunteers in the study
+      </input>
+    </li>
+</ul>
+
+<span class="description">look at the four squares that indicate where the following sentence should be added to the passage<p>This, however, was not the case</p><p>O  1</p><p>O  2</p><p>O  3</p><p>O  4</p><p>14. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THERR answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.</p><p>The tiredness theory of yawning does not seem to explain why yawning occurs.</p></span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        Although earlier scientific studies strongly supported the tiredness theory new evidence has cast doubt on these findings.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        Some have proposed that yawning plays a role in the development if lungs before birth but that it serves no purpose in adult
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="C">
+        New studies, along with anecdotal evidence, have shown that the frequency of yawning increases during extended periods of inactivity.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        Evidence has shown that yawning is almost completely unrelated to amount of oxygen in the blood and is unrelated to sleep behavior.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="E">
+        Fluids in the lungs of the disproves the developmental theory of yawning
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="F">
+        There is some evidence that suggests that yawning prepares the body and mind for a change in activity level.
+      </input>
+    </li>
+</ul>
+

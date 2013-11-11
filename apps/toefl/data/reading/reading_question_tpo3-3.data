@@ -1,0 +1,348 @@
+<span class="description">The word "particular" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        Natural
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="B">
+        Final
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="C">
+        Specific
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="D">
+        Complex
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 1, which of the following is NOT true of climax communities?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        They occur at the end of a succession.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="B">
+        They last longer than any other type of community.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="C">
+        The numbers of plants in them and the mix of species do not change.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        They remain stable for at least 500 years at a time.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 2, which of the following principles of ecosystems can be learned by studying a pond?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="A">
+        Ecosystem properties change more slowly than individuals in the system.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+        The stability of an ecosystem tends to change as individuals are replaced.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        Individual organisms are stable from one year to the next.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="D">
+        A change in the members of an organism does not affect an ecosystem's properties
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 3, ecologists once believed that which of the following illustrated the most stable ecosystems?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+        Pioneer communities
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="B">
+        Climax communities
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        Single-crop farmlands
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        Successional plant communities
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4, why is the question of ecosystem stability complicated?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="A">
+        The reasons for ecosystem change are not always clear.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        Ecologists often confuse the word "stability" with the word "resilience."
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="C">
+        The exact meaning of the word "stability" is debated by ecologists.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        There are many different answers to ecological questions.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 4, which of the following is true of climax communities?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        They are more resilient than pioneer communities.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="B">
+        They can be considered both the most and the least stable communities.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="C">
+        They are stable because they recover quickly after major disturbances.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        They are the most resilient communities because they change the least over time.
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the following can be inferred from paragraph 5 about redwood forests?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        They become less stable as they mature.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        They support many species when they reach climax.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="C">
+        They are found in temperate zones.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        They have reduced diversity during mid-successional stages.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "guarantee" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        Increase
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="B">
+        Ensure
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="C">
+        Favor
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        Complicate
+      </input>
+    </li>
+</ul>
+
+<span class="description">In paragraph 5, why does the author provide the information that "(A fifteen-speed racing bicycle is more likely to break down than a child's tricycle)"?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="A">
+        To illustrate a general principle about the stability of systems by using an everyday example
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        To demonstrate that an understanding of stability in ecosystems can be applied to help understand stability in other situations
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        To make a comparison that supports the claim that, in general, stability increases with diversity
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="D">
+        To provide an example that contradicts mathematical models of ecosystems
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "pales" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        Increases proportionally
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="B">
+        Differs
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="C">
+        Loses significance
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        Is common
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incurred choices change the meaning in important ways or leave out essential information.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        Ecologists now think that the stability of an environment is a result of diversity rather than patchiness.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="B">
+        Patchy environments that vary from place to place do not often have high species diversity.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        Uniform environments cannot be climax communities because they do not support as many types of organisms as patchy environments.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="D">
+        A patchy environment is thought to increase stability because it is able to support a wide variety of organisms.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word "adjacent" in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        Foreign
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="B">
+        Stable
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        Fluid
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="D">
+        Neighboring
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
+<quote><b>In fact, damage to the environment by humans is often much more severe than damage by natural events and processes.</b></quote>
+Where would the sentence best fit? Click on a square to add the sentence to the passage.</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>The process of succession and the stability of a climax community can change over time.</p><p>Answer choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="A">
+        The changes that occur in an ecosystem from the pioneer to the climax community can be seen in one human generation.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="B">
+        A high degree of species diversity does not always result in a stable ecosystem.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
+        The level of resilience in a plant community contributes to its long-term stability.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="D">
+        Ecologists agree that climax communities are the most stable types of ecosystems.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
+        Disagreements over the meaning of the term "stability" make it difficult to identify the most stable ecosystems.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="F">
+        The resilience of climax communities makes them resistant to destruction caused by humans.
+      </input>
+    </li>
+</ul>
+

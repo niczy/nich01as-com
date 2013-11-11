@@ -1,0 +1,348 @@
+<span class="description">According to paragraph 1, which of the following must we find out in order to determine the impact of human activities upon climate?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="A">
+        The major changes in climate over the past millennia
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-1" value="B">
+        The degree to which the climate varies naturally
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="C">
+        The best method for measuring climatic change
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-1" value="D">
+        The millennium when humans began to interfere with the climate
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 2, an advantage of proxy records over instrumental records is that</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="A">
+        they are more-reliable measures of climatic variability in the past century
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="B">
+        they provide more-accurate measures of local temperatures
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-2" value="C">
+        they provide information on climate fluctuations further back in time
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-2" value="D">
+        they reveal information about the human impact on the climate
+      </input>
+    </li>
+</ul>
+
+<span class="description">Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="A">
+        Because physical and chemical properties of substances are unchanging, they are useful records of climate fluctuations over time
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="B">
+        For hundreds or thousands of years, people have been observing changes in the chemical and physical properties of substances in order to infer climate change
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-3" value="C">
+        Because it takes long periods of time for the climate to change, systematic changes in the properties of substances are difficult to observe.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-3" value="D">
+        Changes in systematically deposited substances that are affected by climate can indicate climate variations over time.
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 3, scientists are able to reconstruct proxy temperature records by</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="A">
+        studying regional differences in temperature variations
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-4" value="B">
+        studying and dating changes in the properties of substances
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="C">
+        observing changes in present day climate conditions
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-4" value="D">
+        inferring past climate shifts from observations of current climatic changes
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word striking in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-5" value="A">
+        noticeable
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="B">
+        confusing
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="C">
+        true
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-5" value="D">
+        unlikely
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraphs 3 and 4, proxy data have suggested all of the following about the climate EXCEPT:</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="A">
+        Regional climates may change overtime.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="B">
+        The climate has changed very little in the past 10.000 years.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-6" value="C">
+        Global temperatures vary more than regional temperatures.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-6" value="D">
+        Important natural changes in climate have occurred over large timescales.
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word erratic in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="A">
+        dramatic
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="B">
+        important
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-7" value="C">
+        unpredictable
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-7" value="D">
+        common
+      </input>
+    </li>
+</ul>
+
+<span class="description">All of the following are mentioned in paragraph 5 as natural causes of climate change EXCEPT</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="A">
+        atmospheric changes
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-8" value="B">
+        the slow movement of landmasses
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="C">
+        fluctuations in the amount of ice and snow
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-8" value="D">
+        changes in ocean activity
+      </input>
+    </li>
+</ul>
+
+<span class="description">According to paragraph 6, which of the following is true of computer models of the global climate?</span>
+<ul>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-9" value="A">
+        The information they produce is still limited.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="B">
+        They are currently most useful in understanding past climatic behaviors.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="C">
+        They allow researchers to interpret the data obtained from proxy records.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-9" value="D">
+        They do not provide information about regional climates
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word deliberations in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="A">
+        records
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-10" value="B">
+        discussions
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="C">
+        results
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-10" value="D">
+        variations
+      </input>
+    </li>
+</ul>
+
+<span class="description">The word invoked in the passage is closest in meaning to</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="A">
+        demonstrated
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-11" value="B">
+        called upon
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="C">
+        supported
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-11" value="D">
+        expected
+      </input>
+    </li>
+</ul>
+
+<span class="description">What is the author's purpose in presenting the information in paragraph 7?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="A">
+        To compare the influence of volcanoes and solar activity on climate variability with the influence of factors external to the global climate system
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-12" value="B">
+        To indicate that there are other types of influences on climate variability in addition to those previously discussed
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="C">
+        To explain how external influences on climate variability differ from internal influences
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-12" value="D">
+        To argue that the rapid warming of Earth in recent decades cannot be explained
+      </input>
+    </li>
+</ul>
+
+<span class="description">Look at the four squares A that indicate where the following sentence could be added to the passage.
+<quote><b>Indeed, the contribution of volcanoes and solar activity would more likely have been to actually reduce the rate of warming slightly.</b></quote>
+Where would the sentence best fit?</span>
+<ul>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="A">
+        A
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="B">
+        B
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio"  name="answer-13" value="C">
+        C
+      </input>
+    </li>
+   <li class="choice">
+      <input type="radio" class="right-answer" name="answer-13" value="D">
+        D
+      </input>
+    </li>
+</ul>
+
+<span class="description">Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that not presented in the passage or are minor ideas in the passage. This question is worth 2 points.<p>A number of different and complex factors influence changes in the global climate over long periods of time.</p><p>Answer choices</p></span>
+<ul>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="A">
+        In the absence of instrumental records, proxy data allow scientists to infer information about past climates.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="B">
+        Scientists see a consistent pattern in the global temperature variations that have occurred in the past.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="C">
+        Computer models are used to estimate how the different causes of climate variability combine to account for the climate variability that occurs.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="D">
+        Scientists have successfully separated natural climate variation from changes related to human activities.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox" class="right-answer" name="answer-14" value="E">
+        Scientists believe that activities outside the global climate system, such as volcanoes and solar activity may have significant effects on the system.
+      </input>
+    </li>
+   <li class="choice">
+      <input type="checkbox"  name="answer-14" value="F">
+        Scientists have concluded that human activity accounts for the rapid global warming in recent decades.
+      </input>
+    </li>
+</ul>
+
