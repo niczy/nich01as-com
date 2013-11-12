@@ -8,11 +8,6 @@ handlers:
 - url: /s
   static_dir: static_dir
 
-- url: /toefl/reading/.*
-  script: server.app
-  login: required
-  auth_fail_action: redirect
-
 - url: /.*
   script: server.app 
 
