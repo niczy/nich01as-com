@@ -9,3 +9,17 @@ h4 {
 .fb-comments {
   margin-top: 30px;
 }
+.fb-share-button {
+  display: inline;
+}
+.fb-like {
+  margin-left: 20px;
+  display: inline;
+}
+h2 {
+  display: inline;
+  padding-bottom: 30px;
+}
+.title {
+  padding-bottom: 30px;
+}

@@ -21,14 +21,18 @@
       }(document, 'script', 'facebook-jssdk'));
     </script>
     <div class="container">
-      <h2> TPO Reading Practice </h2> 
-      <div class="fb-like" data-href="https://nich01as.com/toefl/reading" data-layout="standard" data-action="like" data-show-faces="true" data-share="true">
+      <div class="title">
+
+        <h2> TPO Reading Practice </h2> 
+        <div class="fb-share-button pull-right" data-href="http://www.nich01as.com/toefl/reading" data-type="button_count"></div>
+        <div class="fb-like" data-href="http://www.nich01as.com/toefl/reading" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true">
+        </div>
       </div>
       {% for name in names %}
         <a class="btn btn-default tpo-reading" href="/toefl/reading/{{ name }}">{{ name }}</a>
       {% endfor %}
       <div class="row fb-comments">
-        <div class="fb-comments pull-right" data-href="http://nich01as.com/toefl/reading" data-colorscheme="light" data-numposts="8" data-width="560px">
+        <div class="fb-comments pull-right" data-href="http://www.nich01as.com/toefl/reading" data-colorscheme="light" data-numposts="8" data-width="560px">
         </div>
       </div>
       <div class="footer pull-right">
