@@ -10,11 +10,27 @@
     <link rel="stylesheet" href="/s/styles/apps/toefl/reading_list.css" />
   </head>
   <body>
+    <div id="fb-root"></div>
+    <script>
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
     <div class="container">
-      <h2> TPO Reading Practice </h2>
+      <h2> TPO Reading Practice </h2> 
+      <div class="fb-like" data-href="https://nich01as.com/toefl/reading" data-layout="standard" data-action="like" data-show-faces="true" data-share="true">
+      </div>
       {% for name in names %}
         <a class="btn btn-default tpo-reading" href="/toefl/reading/{{ name }}">{{ name }}</a>
       {% endfor %}
+      <div class="row fb-comments">
+        <div class="fb-comments pull-right" data-href="http://nich01as.com/toefl/reading" data-colorscheme="light" data-numposts="8" data-width="560px">
+        </div>
+      </div>
       <div class="footer pull-right">
         <a href="mailto:toefl@nich01as.com" target="_top">TOEFL@nich01as.com</a>
       </div>
