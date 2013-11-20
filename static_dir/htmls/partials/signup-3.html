@@ -8,8 +8,9 @@
     <input type="text" name="firstName"> </input>
     <input type="text" name="firstName"> </input>
   </div>
-  <div class="nav">
-    <a class="nav-link" href="#/signup/2">Last</a>
-    <a class="nav-link" href="#/signup/4">Next</a>
+  <div class="nav" ng-controller="NavCtrl">
+    <a class="nav-link" ng-click="goLast('/signup/2')">Last</a>
+    <a class="nav-link" ng-click="goNext('/signup/4')">Next</a>
   </div>
+
 </div>

@@ -10,15 +10,15 @@
       <input type="text" name="lastName" placeholder="Last Name"> </input>
     </div>
     <div>
-      <select type="text" name="gender" placeholder="Last Name"> 
+      <select type="text" name="gender" placeholder="Last Name">
         <option value="other" selected>Gender</option>
         <option value="male">male</option>
         <option value="female">female</option>
       </select>
     </div>
   </div>
-  <div class="nav">
-    <a class="nav-link" href="#/signup/1">Last</a>
-    <a class="nav-link" href="#/signup/3">Next</a>
+  <div class="nav" ng-controller="NavCtrl">
+    <a class="nav-link" ng-click="goLast('/signup/1')">Last</a>
+    <a class="nav-link" ng-click="goNext('/signup/3')">Next</a>
   </div>
 </div>
