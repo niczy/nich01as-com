@@ -1,0 +1,54 @@
+.page.ng-enter {
+  position:absolute;
+  -webkit-transition: 0.3s ease-out all;
+  -webkit-transform:translate3d(100%,0,0) ;
+}
+.page.ng-enter.ng-enter-active {
+  position:absolute;
+  -webkit-transform:translate3d(0,0,0) ;
+}
+.page.ng-leave {
+  position:absolute;
+  -webkit-transition: 0.3s ease-out all;
+  -webkit-transform:translate3d(0,0,0) ;
+}
+.page.ng-leave.ng-leave-active {
+  position:absolute;
+  -webkit-transform:translate3d(-100%,0,0) ;
+}
+.page h2 {
+  color: rgb(41, 106, 187);
+}
+.page hr {
+  color: green;
+}
+.nav {
+  margin-top: 30px;
+}
+.cloud-pin {
+  width: 100%;
+}
+.cloud-pin input {
+  width: 20%;
+}
+.finish-up input {
+  margin: 10px 0 10px;
+}
+.real-name input {
+  margin: 5px;
+}
+.real-name select {
+  margin: 5px;
+}
+.nav-link {
+  margin: 0 20px 0;
+  padding: 3 25px 3;
+  border: 1px solid #3079ed;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1);
+  background-color: #4d90fe;
+  background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+  -webkit-border-radius: 3px;
+  text-align: center;
+  width: 500px;
+}
