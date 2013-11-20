@@ -1,0 +1,25 @@
+<html ng-app="phonecatApp">
+  <head>
+    <script src="/s/scripts/libs/angular-1.2.1/angular.js"></script>
+    <script src="/s/scripts/libs/angular-1.2.1/angular-route.js"></script>
+    <script src="/s/scripts/libs/angular-1.2.1/angular-animate.js"></script>
+    <script src="/s/scripts/gaia/app.js"></script>
+    <script src="/s/scripts/gaia/controllers.js"></script>
+    <link type="text/css" rel="stylesheet" href="/s/styles/apps/gaia/styles.css">
+  </head>
+  <body>
+    <div ng-view class="page">
+    </div>
+    <script type="text/ng-template" id="page1.html">
+        <div class="page1"><b> page 1 </b><br><br>
+            <button  ng-click="go('/two')"  >go page 2</button>
+        </div>
+    </script>
+                              
+    <script type="text/ng-template" id="page2.html">
+        <div class="page2" > <b> page 2 </b><br><br>
+        <button  ng-click="go('/one')"  >go page 1</button> 
+          </div>
+    </script>
+  </body>
+</html>
