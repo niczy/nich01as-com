@@ -34,6 +34,7 @@
 }
 .cloud-pin input {
   width: 20%;
+  display: inline;
 }
 .finish-up input {
   margin: 10px 0 10px;
@@ -44,15 +45,4 @@
 .real-name select {
   margin: 5px;
 }
-.nav-link {
-  margin: 0 20px 0;
-  padding: 3 25px 3;
-  border: 1px solid #3079ed;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.1);
-  background-color: #4d90fe;
-  background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
-  -webkit-border-radius: 3px;
-  text-align: center;
-  width: 500px;
-}
+

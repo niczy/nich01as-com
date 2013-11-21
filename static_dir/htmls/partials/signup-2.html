@@ -1,24 +1,26 @@
-<div>
+<div class="content">
   <h2> Your name </h2>
   <hr/>
   <p>Your name is used to personalize your device and Google services</p>
-  <div class="real-name">
+  <form class="real-name">
     <div>
-      <input type="text" name="firstName" placeholder="First Name"> </input>
+      <input type="text" class="input-text" name="firstName" placeholder="First Name"> </input>
     </div>
     <div>
-      <input type="text" name="lastName" placeholder="Last Name"> </input>
+      <input type="text" class="input-text" name="lastName" placeholder="Last Name"> </input>
     </div>
     <div>
-      <select type="text" name="gender" placeholder="Last Name">
-        <option value="other" selected>Gender</option>
-        <option value="male">male</option>
-        <option value="female">female</option>
-      </select>
+      <div class="form-spinner">
+        <a href="javascript: void(0);" class="toggle-spinner">Gender</a>
+        <ul class="spinner">
+          <li class="spinner-item"><a href="javascript: void(0)">maile</a></li>
+          <li class="spinner-item"><a href="javascript: void(0)">female</a></li>
+        </ul>
+      </div>
     </div>
-  </div>
+  </form>
   <div class="nav" ng-controller="NavCtrl">
-    <a class="nav-link" ng-click="goLast('/signup/1')">Last</a>
-    <a class="nav-link" ng-click="goNext('/signup/3')">Next</a>
+    <a class="btn" ng-click="goLast('/signup/1')">Last</a>
+    <a class="btn" ng-click="goNext('/signup/3')">Next</a>
   </div>
 </div>
