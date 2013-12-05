@@ -38,6 +38,7 @@
   });
   $('#show-answers').click(function() {
     questionsElements.removeClass('hidden');
+    $('.questions-wrapper').removeClass('hidden');
     $('#next-question').prop('disabled', true);
     $('#previous-question').prop('disabled', true);
     $('.right-answer').each(function(index, element) {
@@ -53,8 +54,5 @@
       } 
     });
   });
-
-  $('#back-to-list').click(function() {
-    window.location.href= "/toefl/reading";
-  });
+  
 }());

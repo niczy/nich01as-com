@@ -14,30 +14,42 @@
     {% endif %}
   </head>
   <body>
-    {{ mobileApp }}
     <div class="container">
       <div class="row">
         <div class="question-control pull-right">
           {% if mobileApp %}
             <button id="toggle-question" class="btn btn-default">Show Question</button>
           {% endif %}
-          <button id="back-to-list" class="btn btn-default">Return to list</button>
+          <a id="back-to-list" href="/toefl/reading?mobileApp={{ mobileApp }}" class="btn btn-default">Return to list</a>
           <button id="show-answers" class="btn btn-default">Show Answers</button>
-          <button id="previous-question" class="btn btn-default" disabled="true">Previous</button>
-          <button id="next-question" class="btn btn-default">Next</button> 
+
+          {% if not mobileApp %}
+            <button id="previous-question" class="btn btn-default" disabled="true">Previous</button>
+            <button id="next-question" class="btn btn-default">Next</button> 
+          {% endif %}
         </div>
       </div>
       <div class="row">
-        <div class="col-xs-5 questions-wrapper hidden">
-          <div class="questions overflow">
-            <ul>
-              {% for question in questions %}
-              <li class="question question-{{ loop.index }} hidden">
-                <b>{{ loop.index }}. </b>
-                {{ question }}
-              </li> 
-              {% endfor %}
-            </ul>
+        <div class="col-xs-5 questions-wrapper">
+          <div class="row">
+            <div class="question-control pull-right">
+              {% if mobileApp %}
+                <button id="previous-question" class="btn btn-default" disabled="true">Previous</button>
+                <button id="next-question" class="btn btn-default">Next</button> 
+              {% endif %}
+            </div>
+          </div>
+          <div class="row">
+            <div class="questions overflow">
+              <ul>
+                {% for question in questions %}
+                <li class="question question-{{ loop.index }} hidden">
+                  <b>{{ loop.index }}. </b>
+                  {{ question }}
+                </li> 
+                {% endfor %}
+              </ul>
+            </div>
           </div>
         </div>
         <div class="col-xs-7 article-wrapper">

@@ -31,7 +31,7 @@
         </div>
       </div>
       {% for name in names %}
-        <a class="btn btn-default tpo-reading" href="/toefl/reading/{{ name }}">{{ name }}</a>
+      <a class="btn btn-default tpo-reading" href="/toefl/reading/{{ name }}?mobileApp={{ mobileApp }}">{{ name }}</a>
       {% endfor %}
       {% if not mobileApp %}
         <div class="row fb-comments">
