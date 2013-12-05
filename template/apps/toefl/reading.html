@@ -9,11 +9,18 @@
     <link rel="icon" type="image/png" href="/s/images/myicon.jpg">
     <link rel="stylesheet" href="/s/styles/apps/toefl/base.css" />
     <link rel="stylesheet" href="/s/styles/apps/toefl/reading.css" />
+    {% if mobileApp %}
+      <link rel="stylesheet" href="/s/styles/apps/toefl/reading-mobileapp.css" />
+    {% endif %}
   </head>
   <body>
+    {{ mobileApp }}
     <div class="container">
       <div class="row">
         <div class="question-control pull-right">
+          {% if mobileApp %}
+            <button id="toggle-question" class="btn btn-default">Show Question</button>
+          {% endif %}
           <button id="back-to-list" class="btn btn-default">Return to list</button>
           <button id="show-answers" class="btn btn-default">Show Answers</button>
           <button id="previous-question" class="btn btn-default" disabled="true">Previous</button>
@@ -21,7 +28,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-xs-5">
+        <div class="col-xs-5 questions-wrapper hidden">
           <div class="questions overflow">
             <ul>
               {% for question in questions %}
@@ -33,7 +40,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-xs-7">
+        <div class="col-xs-7 article-wrapper">
           <div class="article overflow">
             <h2>
               {{ title }}
@@ -49,5 +56,9 @@
     </div>
     <script src="/s/scripts/libs/jquery-2.0.3.min.js"></script>
     <script src="/s/scripts/apps/toefl/reading.js"></script>
+    {% if mobileApp %}
+      <script src="/s/scripts/apps/toefl/reading-mobileapp.js"></script>
+    {% endif %}
+
   </body>
 </html>

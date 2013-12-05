@@ -9,7 +9,7 @@ class ReadingListHandler(handlers.BasePageHandler):
     for i in xrange(1, 25):
       for j in xrange(1, 4):
         names.append('tpo%d-%d' % (i, j))
-    self.render('apps/toefl/reading_list.html', {'names': names})
+    self.render('apps/toefl/reading_list.html', {'names': names, 'mobileApp': self.request.get('mobileApp') == 'true'})
 
 class ReadingHandler(handlers.BasePageHandler):
 
@@ -32,5 +32,6 @@ class ReadingHandler(handlers.BasePageHandler):
     paragraphs = [line.decode('utf-8').strip() for line in reading_lines[1:]]
     tpo1_reading.close()
     tpo1_questions.close()
-    self.render('apps/toefl/reading.html', {'title': title, 'paragraphs': paragraphs, 'questions': questions})
+    self.render('apps/toefl/reading.html',
+        {'title': title, 'paragraphs': paragraphs, 'questions': questions, 'mobileApp': self.request.get('mobileApp') == 'true'})
         
