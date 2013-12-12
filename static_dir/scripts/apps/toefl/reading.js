@@ -59,3 +59,35 @@
     window.location.href= "/toefl/reading";
   });
 }());
+(function() {
+  var countDown = 20 * 60;
+  var timerState = 'pause';
+  var countingDownInterval;
+  $('#timer-start').click(function() {
+    if (timerState == 'pause') {
+      timerState = 'running';
+      $('#timer-start').text('Pause');
+        countingDownInterval = setInterval(function() {
+        countDown = countDown - 1;
+        if (countDown == 0) {
+          clearInterval(countingDownInterval);
+        } else {
+          var reminder = countDown % 60;
+          var reminderStr = reminder >= 10 ? reminder : '0' + reminder;
+          $('#time').text(Math.floor(countDown / 60) + ":" + reminderStr);
+        }
+      }, 1000);
+    } else {
+      timerState = 'pause';
+      $('#timer-start').text('Start');
+      clearInterval(countingDownInterval);
+    }
+  });
+  $('#timer-reset').click(function() {
+    clearInterval(countingDownInterval);
+    countDown = 20 * 60;
+    $('#time').text('20:00');
+    timerState = 'pause';
+    $('#timer-start').text('Start');
+  });
+}());
