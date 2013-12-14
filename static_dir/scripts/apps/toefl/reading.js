@@ -5,7 +5,6 @@
     if (oldQuestionIndex == newQuestionIndex) {
       return;
     }
-    console.log("New index is " + newQuestionIndex);
     $('.question-' + oldQuestionIndex).addClass('hidden');
     $('.question-' + newQuestionIndex).removeClass('hidden');
     $('.question-highlight-' + oldQuestionIndex).removeClass('highlight');
