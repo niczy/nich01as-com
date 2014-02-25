@@ -1,0 +1,23 @@
+.article-wrapper {
+  width: 100%;
+}
+.questions-wrapper {
+  width: 80%;
+  position: absolute;
+  z-index: 2;
+  background: rgba(182, 175, 175, 0.82);
+  border-radius: 5px;
+}
+.question-control button {
+  width: 110px;
+  margin: 0 2px 0 2px;
+  font-size: 12px;
+}
+.question-control a {
+  width: 110px;
+  margin: 0 2px 0 2px;
+  font-size: 12px;
+}
+.tpo-reading {
+  width: 100px;
+}
