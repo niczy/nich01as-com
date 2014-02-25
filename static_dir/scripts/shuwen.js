@@ -1,6 +1,5 @@
 var player;
 function onYouTubePlayerAPIReady() {
-  console.log("Youtube ready");
   player = new YT.Player('player');
 }
 
@@ -9,7 +8,6 @@ $(function() {
   $('#show_video').click(
         function() {
           $('#show_video').hide();
-          console.log('clicked');
           $('.video_dialog').fadeIn('slow', function() {
             video_visable = true;
             player.playVideo();
@@ -28,7 +26,6 @@ $(function() {
       }
     )
   $('.video_dialog').keypress(function(e){
-    console.log('key pressed');
     $('.video_dialog').fadeOut('slow', function() {
           video_visable = false;
           player.stopVideo();
