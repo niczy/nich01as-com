@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
-    <title> Nicholas Zhao</title>
+    <meta name="description" content="Best web experience for TOEFL reading test.">
+    <title>TOEFL Reading</title>
     <link rel="stylesheet" href="/s/v/bootstrap-3.0.0/css/bootstrap.min.css" /> 
     <link rel="stylesheet" href="/s/styles/index.css" />
     <link rel="icon" type="image/png" href="/s/images/myicon.jpg">
@@ -16,6 +17,11 @@
   <body>
     <div class="container">
       <div class="row">
+        <div class="timer">
+          <span class="time" id="time"> 20:00 </span>
+          <button id="timer-start" class="btn btn-default">Start</button>
+          <button id="timer-reset" class="btn btn-default">Reset</button>
+        </div>
         <div class="question-control pull-right">
           {% if mobileApp %}
             <button id="toggle-question" class="btn btn-default">Show Question</button>
@@ -67,6 +73,7 @@
       </div> 
     </div>
     <script src="/s/scripts/libs/jquery-2.0.3.min.js"></script>
+    <script src="/s/scripts/libs/jquery-localstorage/jquery.storageapi.min.js"></script>
     <script src="/s/scripts/apps/toefl/reading.js"></script>
     {% if mobileApp %}
       <script src="/s/scripts/apps/toefl/reading-mobileapp.js"></script>
