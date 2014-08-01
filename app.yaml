@@ -8,10 +8,18 @@ handlers:
 - url: /s
   static_dir: static_dir
 
+- url: /_ah/spi/.*
+  script: api_server.app
+
 - url: /.*
   script: server.app 
 
 libraries:
 - name: jinja2
   version: latest
+- name: pycrypto
+  version: latest
+- name: endpoints
+  version: 1.0
+
 
