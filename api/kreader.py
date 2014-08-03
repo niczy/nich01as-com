@@ -18,7 +18,7 @@ package = "kreader"
 class KReaderApi(remote.Service):
 
     @endpoints.method(User, User, path='/users', http_method='POST', name='add_user')
-    def list_by_user(sell, request):
+    def add_user(sell, request):
         return storage.add_user(request.name)
 
     @endpoints.method(Butter, Butter, path='/butter', http_method='POST', name='post_butter')
@@ -28,18 +28,16 @@ class KReaderApi(remote.Service):
     FOLLOW_METHOD_RESOURCE = endpoints.ResourceContainer(
             Tag,
             user_name = messages.StringField(2, variant=messages.Variant.STRING, required=True))
-
     @endpoints.method(FOLLOW_METHOD_RESOURCE, Tag, path='/{user_name}/tag/follow', http_method='POST', name='follow_tag')
     def follow_tag(self, request):
         storage.follow_tag(request.user_name, request.name)
         return storage.get_tag_by_name(request.name) 
 
-
     GET_BUTTERS_METHOD_RESOURCE = endpoints.ResourceContainer(
             message_types.VoidMessage,
             user_name = messages.StringField(2, variant=messages.Variant.STRING, required=True))
     @endpoints.method(GET_BUTTERS_METHOD_RESOURCE, ButterCollection, path='/{user_name}/butters', http_method='GET', name='get_butters_by_user_name')
-    def follow_tag(self, request):
+    def get_butters_by_user_name(self, request):
         return ButterCollection(items = storage.get_butters_by_user_name(request.user_name))
 
     LIST_FOLLOW_TAG_METHOD_RESOURCE = endpoints.ResourceContainer(

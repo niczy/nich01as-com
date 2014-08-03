@@ -15,6 +15,8 @@ def add_butter(butter):
 def follow_tag(user_name, tag_name):
     model_user = get_user_by_name_(user_name) 
     model_tag = get_tag_by_name_(tag_name)
+    if not model_tag:
+        model_tag = add_tag_(Tag(name = tag_name))
     if not model_tag.key in model_user.following_tags:
         model_user.following_tags.append(model_tag.key)
         model_user.put()
@@ -39,7 +41,7 @@ def to_butter_(model_butter):
     return Butter(content = model_butter.content, tags = TagCollection(items = tags))
 
 def to_tag_(model_tag):
-    return Tag(name = model_tag.name)
+    return Tag(name = model_tag.name) if model_tag else None
 
 '''
     Return a list of butters stored in db.
@@ -59,7 +61,7 @@ def add_user_(user_name):
     return models.User(name = user_name).put().get()
 
 def to_user_(model_user):
-    return User(name = model_user.name)
+    return User(name = model_user.name) if model_user else None
 
 def get_following_tags_by_user_name_(user_name):
     model_tags = []
@@ -96,6 +98,7 @@ def add_tag_(tag):
 
 def get_tag_by_name(tag_name):
     return to_tag_(get_tag_by_name_(tag_name))
+
 def get_tag_by_name_(name):
     model_tags = models.Tag.query(models.Tag.name == name).fetch()
     if len(model_tags) > 0:
