@@ -23,7 +23,7 @@ def follow_tag(user_name, tag_name):
 
 def get_following_tags_by_user_name(user_name):
     model_tags = get_following_tags_by_user_name_(user_name)
-    return [Tag(name = model_tag.name) for model_tag in model_tags]
+    return [to_tag_(model_tag) for model_tag in model_tags]
 
 
 def get_butters_by_user_name(user_name):
