@@ -17,9 +17,11 @@ class TagCollection(messages.Message):
 
 class Butter(messages.Message):
 
-    content = messages.StringField(1)
+    title = messages.StringField(1)
 
-    tags = messages.MessageField(TagCollection, 2)
+    content = messages.StringField(2)
+
+    tags = messages.MessageField(TagCollection, 3)
 
 
 class ButterCollection(messages.Message):

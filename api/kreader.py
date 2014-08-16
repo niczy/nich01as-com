@@ -10,6 +10,7 @@ from api.api_model import User
 from api import following_tags
 from api import butters_in_tag
 from api import storage
+from api import g_search
 
 package = "kreader"
 
@@ -24,6 +25,13 @@ class KReaderApi(remote.Service):
     @endpoints.method(Butter, Butter, path='/butter', http_method='POST', name='post_butter')
     def post_butter(self, request): 
         return storage.add_butter(request)
+
+    @endpoints.method(TagCollection, ButterCollection, path='/butters', http_method='GET', name='get_butters_by_tags')
+    def get_butters_by_tags(self, request):
+        keywords = [tag.name for tag in request.items]
+        print('xoxo', keywords)
+        butters = [Butter(title = item['title']) for item in g_search.search(keywords)]
+        return ButterCollection(items = butters)
 
     FOLLOW_METHOD_RESOURCE = endpoints.ResourceContainer(
             Tag,
