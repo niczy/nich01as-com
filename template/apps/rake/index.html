@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <form method="POST">
+      <textarea name="content">
+      </textarea>
+      <input type="submit" value="Submit">
+    </form>
+    {% for tag in tags %}
+      {{ tag }}
+    {% endfor %}
+  </body>
+</html>
